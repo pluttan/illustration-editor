@@ -1,0 +1,158 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 14,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 300,
+      "y": 300,
+      "text": "+",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 60,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted",
+      "dash": [4, 4]
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 120,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted",
+      "dash": [4, 4]
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 314,
+      "y": 300,
+      "points": [0, 0, 106, 0],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 286,
+      "y": 300,
+      "points": [0, 0, -106, 0],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 300,
+      "y": 286,
+      "points": [0, 0, 0, -106],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 300,
+      "y": 314,
+      "points": [0, 0, 0, 106],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 310,
+      "y": 290,
+      "points": [0, 0, 75, -75],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 290,
+      "y": 310,
+      "points": [0, 0, -75, 75],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 310,
+      "y": 310,
+      "points": [0, 0, 75, 75],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 290,
+      "y": 290,
+      "points": [0, 0, -75, -75],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 360,
+      "y": 310,
+      "text": "r₁",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 420,
+      "y": 310,
+      "text": "r₂",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 250,
+      "y": 200,
+      "points": [
+        0,
+        0,
+        60,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 280,
+      "y": 200,
+      "points": [
+        0,
+        0,
+        0,
+        186
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 280,
+      "y": 200,
+      "points": [
+        0,
+        0,
+        96.36,
+        137.62
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 347.38,
+      "y": 252.61,
+      "text": "$l$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 280,
+      "y": 242,
+      "points": [
+        0,
+        0,
+        8.62,
+        0,
+        17.03,
+        -2.65,
+        24.09,
+        -7.6
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 298,
+      "y": 260,
+      "text": "$θ$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 376.36,
+      "y": 337.62,
+      "radius": 7,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 376.36,
+      "y": 337.62,
+      "points": [
+        0,
+        0,
+        0,
+        84
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 399.16,
+      "y": 414.42,
+      "text": "$mg$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 376.36,
+      "y": 337.62,
+      "points": [
+        0,
+        0,
+        -39.47,
+        27.64
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 311.69,
+      "y": 383.25,
+      "text": "$mg·sinθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 376.36,
+      "y": 337.62,
+      "points": [
+        0,
+        0,
+        39.47,
+        56.36
+      ],
+      "strokeWidth": 1.8,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 447.03,
+      "y": 396.98,
+      "text": "$mg·cosθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 220,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        176,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 220,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -104
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 396,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        -176,
+        -104
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 396,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -104
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 220,
+      "y": 256,
+      "points": [
+        0,
+        0,
+        176,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 240,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -20
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 220,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        20,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 376,
+      "y": 256,
+      "points": [
+        0,
+        0,
+        0,
+        20
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 396,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        -20,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 308,
+      "y": 377.6,
+      "text": "$x$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 202.4,
+      "y": 308,
+      "text": "$y$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 308,
+      "y": 324,
+      "text": "$S = xy/2$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 308,
+      "y": 292,
+      "text": "$S = xy/2$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "physics"
+    }
+  ]
+}

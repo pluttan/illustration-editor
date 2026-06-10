@@ -1,0 +1,25 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "arrow", "x": 140, "y": 360, "points": [0, 0, 320, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-2", "type": "arrow", "x": 160, "y": 370, "points": [0, 0, 0, -160], "strokeWidth": 1, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-3", "type": "text", "x": 465, "y": 360, "text": "t", "fontSize": 11, "draggable": true, "fillRole": "fg"},
+    {"id": "el-4", "type": "text", "x": 152, "y": 206, "text": "E", "fontSize": 11, "draggable": true, "fillRole": "fg"},
+    {"id": "el-5", "type": "line", "x": 160, "y": 230, "points": [0, 0, 280, 0], "strokeWidth": 1.2, "draggable": true, "strokeRole": "muted"},
+    {"id": "el-6", "type": "text", "x": 448, "y": 230, "text": "E", "fontSize": 9, "draggable": true, "fillRole": "muted"},
+    {"id": "el-7", "type": "bezier", "x": 160, "y": 230, "points": [0, 0, 10, 0, 25, 0, 35, 32], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-8", "type": "bezier", "x": 195, "y": 262, "points": [0, 0, 12, 38, 48, 98, 70, 98], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-9", "type": "bezier", "x": 265, "y": 360, "points": [0, 0, 12, 0, 25, -38, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-10", "type": "bezier", "x": 300, "y": 295, "points": [0, 0, 12, -30, 25, -65, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-11", "type": "bezier", "x": 335, "y": 230, "points": [0, 0, 12, 0, 25, 0, 35, 32], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-12", "type": "bezier", "x": 370, "y": 262, "points": [0, 0, 12, 38, 48, 98, 70, 98], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-13", "type": "text", "x": 234, "y": 374, "text": "Ek", "fontSize": 9, "draggable": true, "fillRole": "accent"},
+    {"id": "el-14", "type": "bezier", "x": 160, "y": 360, "points": [0, 0, 12, 0, 25, -38, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-15", "type": "bezier", "x": 195, "y": 295, "points": [0, 0, 12, -30, 25, -65, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-16", "type": "bezier", "x": 230, "y": 230, "points": [0, 0, 10, 0, 25, 0, 35, 32], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-17", "type": "bezier", "x": 265, "y": 262, "points": [0, 0, 12, 38, 48, 98, 70, 98], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-18", "type": "bezier", "x": 335, "y": 360, "points": [0, 0, 12, 0, 25, -38, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-19", "type": "bezier", "x": 370, "y": 295, "points": [0, 0, 12, -30, 25, -65, 35, -65], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-20", "type": "text", "x": 234, "y": 222, "text": "Ep", "fontSize": 9, "draggable": true, "fillRole": "accent-60"}
+  ]
+}

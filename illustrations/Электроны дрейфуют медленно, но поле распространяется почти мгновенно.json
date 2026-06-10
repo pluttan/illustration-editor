@@ -1,0 +1,245 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 140,
+      "y": 288,
+      "width": 320,
+      "height": 24,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 160,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 200,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 240,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 280,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 320,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 360,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 400,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 440,
+      "y": 300,
+      "radius": 5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 180,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 220,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 260,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "arrow",
+      "x": 300,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "arrow",
+      "x": 340,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 380,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "arrow",
+      "x": 420,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 300,
+      "y": 340,
+      "text": "все сдвигаются одновременно",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent-60"
+    },
+    {
+      "id": "el-18",
+      "type": "arrow",
+      "x": 120,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        360,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "text",
+      "x": 300,
+      "y": 260,
+      "text": "электрическое поле — мгновенно",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    }
+  ]
+}

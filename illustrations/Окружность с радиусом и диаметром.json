@@ -1,0 +1,72 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 299.80000000000007,
+      "y": 297.6,
+      "radius": 60,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 300,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        60,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 329.8669,
+      "y": 295.3204999999999,
+      "text": "r",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 283.6268,
+      "y": 301.5452,
+      "text": "центр",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 301.6461847742038,
+      "y": 232.14482886243465,
+      "text": "диаметр = 2r",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

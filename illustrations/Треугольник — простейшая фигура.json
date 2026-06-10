@@ -1,0 +1,83 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 240,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        120,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 360,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        -60,
+        -88
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 300,
+      "y": 252,
+      "points": [
+        0,
+        0,
+        -60,
+        88
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 240,
+      "y": 340,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 360,
+      "y": 340,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 300,
+      "y": 252,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "fg"
+    }
+  ]
+}

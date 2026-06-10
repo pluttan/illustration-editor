@@ -1,0 +1,47 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 220,
+      "y": 300,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 380,
+      "y": 300,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 209.0155006814765,
+      "y": 294.34484420062506,
+      "text": "A",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 389.17685675344205,
+      "y": 292.8725298759693,
+      "text": "B",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

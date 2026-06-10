@@ -1,0 +1,131 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-back",
+      "type": "bezier",
+      "x": 245,
+      "y": 315,
+      "points": [
+        0,
+        0,
+        8,
+        30,
+        99,
+        29,
+        110,
+        4
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-front",
+      "type": "bezier",
+      "x": 245,
+      "y": 315,
+      "points": [
+        0,
+        0,
+        5,
+        -37,
+        105,
+        -36,
+        110,
+        -9
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-arrow-I",
+      "type": "arrow",
+      "x": 353.2985398982336,
+      "y": 328.2532581494604,
+      "points": [
+        -8,
+        0,
+        -10,
+        1
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-I",
+      "type": "text",
+      "x": 342.4384870000001,
+      "y": 320.5475318700001,
+      "text": "I",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-B-arrow",
+      "type": "arrow",
+      "x": 300,
+      "y": 313.41880344455535,
+      "points": [
+        0,
+        0,
+        0,
+        -60
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-B",
+      "type": "text",
+      "x": 305.4596803669377,
+      "y": 247.81122250202026,
+      "text": "B",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-R-line",
+      "type": "line",
+      "x": 300,
+      "y": 315,
+      "points": [
+        0,
+        0,
+        -56,
+        0
+      ],
+      "strokeWidth": 0.6,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-R",
+      "type": "text",
+      "x": 272.4072831189703,
+      "y": 320.3920475312516,
+      "text": "R",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-dot",
+      "type": "circle",
+      "x": 300,
+      "y": 315,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    }
+  ]
+}

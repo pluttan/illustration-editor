@@ -1,0 +1,565 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 130,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        270,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 140,
+      "y": 350,
+      "points": [
+        0,
+        0,
+        0,
+        -145
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 407.5,
+      "y": 347,
+      "text": "$t$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 132.5,
+      "y": 200,
+      "text": "$F$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 145,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        9.17,
+        -5.83,
+        36.67,
+        -24.58,
+        55,
+        -35
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 200,
+      "y": 285,
+      "points": [
+        0,
+        0,
+        18.33,
+        -10.42,
+        36.67,
+        -19.58,
+        55,
+        -27.5
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 255,
+      "y": 257.5,
+      "points": [
+        0,
+        0,
+        18.33,
+        -7.92,
+        36.67,
+        -14.58,
+        55,
+        -20
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 310,
+      "y": 237.5,
+      "points": [
+        0,
+        0,
+        18.33,
+        -5.42,
+        45.83,
+        -10.42,
+        55,
+        -12.5
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 200,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -35
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 145,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 255,
+      "y": 285,
+      "points": [
+        0,
+        0,
+        0,
+        -27.5
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 200,
+      "y": 285,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 310,
+      "y": 257.5,
+      "points": [
+        0,
+        0,
+        0,
+        -20
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 255,
+      "y": 257.5,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-15",
+      "type": "line",
+      "x": 365,
+      "y": 237.5,
+      "points": [
+        0,
+        0,
+        0,
+        -12.5
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-16",
+      "type": "line",
+      "x": 310,
+      "y": 237.5,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-17",
+      "type": "circle",
+      "x": 145,
+      "y": 320,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-18",
+      "type": "line",
+      "x": 145,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -20
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-19",
+      "type": "circle",
+      "x": 200,
+      "y": 285,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-20",
+      "type": "line",
+      "x": 200,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -55
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-21",
+      "type": "circle",
+      "x": 255,
+      "y": 257.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-22",
+      "type": "line",
+      "x": 255,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -82.5
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-23",
+      "type": "circle",
+      "x": 310,
+      "y": 237.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-24",
+      "type": "line",
+      "x": 310,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -102.5
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-25",
+      "type": "circle",
+      "x": 365,
+      "y": 225,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-26",
+      "type": "line",
+      "x": 365,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -115
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-27",
+      "type": "text",
+      "x": 145,
+      "y": 350,
+      "text": "$a = t₀$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-28",
+      "type": "text",
+      "x": 200,
+      "y": 350,
+      "text": "$t₁$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-29",
+      "type": "text",
+      "x": 255,
+      "y": 350,
+      "text": "$t₂$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-30",
+      "type": "text",
+      "x": 310,
+      "y": 350,
+      "text": "$t₃$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-31",
+      "type": "text",
+      "x": 365,
+      "y": 350,
+      "text": "$t₄ = b$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-32",
+      "type": "line",
+      "x": 440,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -35
+      ],
+      "strokeWidth": 5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-33",
+      "type": "line",
+      "x": 440,
+      "y": 285,
+      "points": [
+        0,
+        0,
+        0,
+        -27.5
+      ],
+      "strokeWidth": 5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-34",
+      "type": "line",
+      "x": 440,
+      "y": 257.5,
+      "points": [
+        0,
+        0,
+        0,
+        -20
+      ],
+      "strokeWidth": 5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-35",
+      "type": "line",
+      "x": 440,
+      "y": 237.5,
+      "points": [
+        0,
+        0,
+        0,
+        -12.5
+      ],
+      "strokeWidth": 5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-36",
+      "type": "line",
+      "x": 452.5,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -95
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-37",
+      "type": "line",
+      "x": 449,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-38",
+      "type": "line",
+      "x": 449,
+      "y": 225,
+      "points": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-39",
+      "type": "text",
+      "x": 497.5,
+      "y": 272.5,
+      "text": "$F(b) − F(a)$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "science": "default",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 68,
+      "y": 276,
+      "width": 64,
+      "height": 48,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 80,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 156,
+      "y": 276,
+      "width": 64,
+      "height": 48,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 178,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "rect",
+      "x": 244,
+      "y": 276,
+      "width": 64,
+      "height": 48,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 276,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "rect",
+      "x": 332,
+      "y": 276,
+      "width": 64,
+      "height": 48,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 374,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "rect",
+      "x": 420,
+      "y": 276,
+      "width": 64,
+      "height": 48,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 472,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 100,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        320,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    }
+  ]
+}

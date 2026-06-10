@@ -1,0 +1,105 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 288,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        292,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -152
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 320,
+      "y": 280,
+      "points": [
+        0,
+        0,
+        40,
+        0,
+        80,
+        -120,
+        120,
+        -100
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 440,
+      "y": 180,
+      "points": [
+        0,
+        0,
+        40,
+        20,
+        80,
+        100,
+        120,
+        100
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 362.0623543228905,
+      "y": 236.37324097289786,
+      "text": "$f' > 0 растёт$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": -54
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 430.9031021239718,
+      "y": 172.13932967855155,
+      "text": "$f' = 0$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 506.4142430242015,
+      "y": 233.7619427855707,
+      "text": "$f' < 0 убывает$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": 50
+    }
+  ]
+}

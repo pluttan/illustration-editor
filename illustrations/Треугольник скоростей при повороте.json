@@ -1,0 +1,114 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 220,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        210,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 220,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        172.02,
+        -120.45
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "arrow",
+      "x": 430,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        -37.98,
+        -120.45
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 332,
+      "y": 377.5,
+      "text": "$v$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 285.01,
+      "y": 287.17,
+      "text": "$v′$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 440.41,
+      "y": 292.77,
+      "text": "$Δv$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 262,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -8.62,
+        -2.65,
+        -17.03,
+        -7.6,
+        -24.09
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 284.4,
+      "y": 340.4,
+      "text": "$Δθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 280,
+      "y": 240,
+      "radius": 14,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "arrow",
+      "x": 294.3494366163,
+      "y": 240,
+      "points": [
+        0,
+        0,
+        56,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 358.19024151950003,
+      "y": 239.3266599915,
+      "text": "p₁",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 400,
+      "y": 240,
+      "radius": 14,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 300,
+      "y": 320,
+      "radius": 14,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 360,
+      "y": 320,
+      "radius": 14,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 373.642052309,
+      "y": 319.76420523089996,
+      "points": [
+        0,
+        0,
+        56,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 435.3607042903001,
+      "y": 318.38348091510005,
+      "text": "p₂",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "accent"
+    }
+  ]
+}

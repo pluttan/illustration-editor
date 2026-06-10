@@ -1,0 +1,132 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 280,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        300,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -200
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 570.92190138965,
+      "y": 289.80320115298997,
+      "text": "t",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 308.27179281509007,
+      "y": 122.33436821409003,
+      "text": "x",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 320,
+      "y": 260,
+      "points": [
+        0,
+        0,
+        80,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 344.06845911448215,
+      "y": 248.92166289589,
+      "text": "стоит",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 400,
+      "y": 260,
+      "points": [
+        0,
+        0,
+        80,
+        -48
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 423.6651309870901,
+      "y": 235.93283899435127,
+      "text": "медленно",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": -30
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 480,
+      "y": 212,
+      "points": [
+        0,
+        0,
+        80,
+        -80
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 509.42020620129216,
+      "y": 169.8656102058707,
+      "text": "быстро",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": -45
+    }
+  ]
+}

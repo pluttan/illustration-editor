@@ -1,0 +1,68 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 220,
+      "y": 268,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 220,
+      "y": 268,
+      "points": [
+        0,
+        0,
+        200,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 225.95772541415502,
+      "y": 255.44628649311596,
+      "text": "луч",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "arrow",
+      "x": 180,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        240,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 181.64423068631407,
+      "y": 308.58753317555994,
+      "text": "прямая",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

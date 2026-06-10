@@ -1,0 +1,16 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 297.4,
+      "y": 318.9,
+      "radius": 3,
+      "fillRole": "accent",
+      "strokeRole": "accent",
+      "strokeWidth": 0,
+      "draggable": true
+    }
+  ]
+}

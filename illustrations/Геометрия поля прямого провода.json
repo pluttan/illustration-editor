@@ -1,0 +1,234 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 260,
+      "y": 448,
+      "points": [
+        0,
+        0,
+        0,
+        -264
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 260,
+      "y": 223,
+      "points": [
+        0,
+        0,
+        0,
+        -30
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 276.8,
+      "y": 190,
+      "text": "$I$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 410,
+      "y": 340,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 423.2,
+      "y": 344.2,
+      "text": "$P$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 256.4,
+      "y": 262,
+      "points": [
+        0,
+        0,
+        7.2,
+        -12
+      ],
+      "strokeWidth": 3,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 237.2,
+      "y": 251.8,
+      "text": "$dz$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 260,
+      "y": 256,
+      "points": [
+        0,
+        0,
+        150,
+        84
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 348.2,
+      "y": 281.8,
+      "text": "$R$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 260,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        150,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "dash": true
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 335,
+      "y": 355.6,
+      "text": "$r$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 236,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        0,
+        -84
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 233,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 233,
+      "y": 256,
+      "points": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 222.8,
+      "y": 298,
+      "text": "$z$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "bezier",
+      "x": 260,
+      "y": 286,
+      "points": [
+        0,
+        0,
+        10.86,
+        0,
+        20.87,
+        -5.87,
+        26.18,
+        -15.34
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 282.8,
+      "y": 293.2,
+      "text": "$α$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 60,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 228,
+      "y": 300,
+      "points": [0, 0, 144, 0],
+      "strokeWidth": 0.5,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 300,
+      "y": 228,
+      "points": [0, 0, 0, 144],
+      "strokeWidth": 0.5,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 300,
+      "y": 300,
+      "points": [0, 0, 46, -38.6],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 346,
+      "y": 261.4,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 346,
+      "y": 261.4,
+      "points": [0, 0, 0, 38.6],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 300,
+      "y": 261.4,
+      "points": [0, 0, 46, 0],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 323,
+      "y": 310,
+      "text": "$cos α$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 285,
+      "y": 280,
+      "text": "$sin α$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 314,
+      "y": 296,
+      "text": "$α$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 318,
+      "y": 275,
+      "text": "$1$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

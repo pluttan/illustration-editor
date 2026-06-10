@@ -1,0 +1,18 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "line", "x": 220, "y": 300, "points": [0, 0, 160, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-2", "type": "arrow", "x": 230, "y": 300, "points": [0, 0, 60, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-3", "type": "text", "x": 265, "y": 288, "text": "$I$", "fontSize": 9, "draggable": true, "fillRole": "fg"},
+
+    {"id": "el-4", "type": "arrow", "x": 260, "y": 370, "points": [0, 0, 0, -50], "strokeWidth": 1.2, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+    {"id": "el-5", "type": "arrow", "x": 300, "y": 370, "points": [0, 0, 0, -50], "strokeWidth": 1.2, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+    {"id": "el-6", "type": "arrow", "x": 340, "y": 370, "points": [0, 0, 0, -50], "strokeWidth": 1.2, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+    {"id": "el-7", "type": "text", "x": 350, "y": 346, "text": "$B$", "fontSize": 9, "draggable": true, "fillRole": "accent-60"},
+
+    {"id": "el-8", "type": "arrow", "x": 300, "y": 300, "points": [0, 0, 0, -70], "strokeWidth": 2, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "el-9", "type": "text", "x": 308, "y": 250, "text": "$F$", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+
+    {"id": "el-10", "type": "text", "x": 300, "y": 395, "text": "$F = BIl\\sin\\alpha$", "fontSize": 8, "draggable": true, "fillRole": "muted"}
+  ]
+}

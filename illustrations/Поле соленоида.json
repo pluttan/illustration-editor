@@ -1,0 +1,31 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "rect", "x": 220, "y": 260, "width": 160, "height": 80, "strokeWidth": 1.5, "draggable": true, "fillRole": "none", "strokeRole": "fg"},
+
+    {"id": "el-2", "type": "circle", "x": 236, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+    {"id": "el-3", "type": "circle", "x": 260, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+    {"id": "el-4", "type": "circle", "x": 284, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+    {"id": "el-5", "type": "circle", "x": 308, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+    {"id": "el-6", "type": "circle", "x": 332, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+    {"id": "el-7", "type": "circle", "x": 356, "y": 264, "radius": 3, "strokeWidth": 0, "draggable": true, "fillRole": "fg", "strokeRole": "none"},
+
+    {"id": "el-8", "type": "text", "x": 236, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+    {"id": "el-9", "type": "text", "x": 260, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+    {"id": "el-10", "type": "text", "x": 284, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+    {"id": "el-11", "type": "text", "x": 308, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+    {"id": "el-12", "type": "text", "x": 332, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+    {"id": "el-13", "type": "text", "x": 356, "y": 336, "text": "\u00d7", "fontSize": 8, "draggable": true, "fillRole": "fg"},
+
+    {"id": "el-14", "type": "arrow", "x": 234, "y": 290, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "el-15", "type": "arrow", "x": 234, "y": 310, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "el-16", "type": "arrow", "x": 310, "y": 290, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "el-17", "type": "arrow", "x": 310, "y": 310, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+
+    {"id": "el-18", "type": "text", "x": 300, "y": 300, "text": "$B$", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+
+    {"id": "el-19", "type": "text", "x": 236, "y": 250, "text": "\u2022 \u2014 ток на нас", "fontSize": 6, "draggable": true, "fillRole": "muted"},
+    {"id": "el-20", "type": "text", "x": 236, "y": 352, "text": "\u00d7 \u2014 ток от нас", "fontSize": 6, "draggable": true, "fillRole": "muted"},
+    {"id": "el-21", "type": "text", "x": 390, "y": 300, "text": "$I$", "fontSize": 9, "draggable": true, "fillRole": "fg"}
+  ]
+}

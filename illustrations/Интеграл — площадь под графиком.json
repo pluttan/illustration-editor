@@ -1,0 +1,200 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -152
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 533.1427621710884,
+      "y": 291.0829505951351,
+      "text": "t",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 308.3584613359952,
+      "y": 160.41180077830455,
+      "text": "f",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "rect",
+      "x": 341.1969375398239,
+      "y": 222.48635506295741,
+      "width": 21.870832928015048,
+      "height": 77.02024992078154,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 339.54759998681163,
+      "y": 303.2749742798071,
+      "text": "a",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 519.5837588519744,
+      "y": 305.5182228404258,
+      "text": "b",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 399.8776140198157,
+      "y": 308.491748630358,
+      "text": "$площадь = ∫ f(t)dt$",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "rect",
+      "x": 363.11207393478026,
+      "y": 215.41556974912362,
+      "width": 21.87083292801516,
+      "height": 84.18342238778723,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "rect",
+      "x": 385.02721032973085,
+      "y": 226.09536266148007,
+      "width": 21.87083292801509,
+      "height": 73.46332348846198,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "rect",
+      "x": 407.18173877405366,
+      "y": 239.84566826252242,
+      "width": 21.870832928015066,
+      "height": 59.7190705588816,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "rect",
+      "x": 429.1304558740519,
+      "y": 252.4428579065209,
+      "width": 21.870832928014952,
+      "height": 47.14716473298318,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 320,
+      "y": 332,
+      "points": [
+        -30,
+        -32,
+        219,
+        -32
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "rect",
+      "x": 451.48840356505184,
+      "y": 258.946999868878,
+      "width": 21.870832928014952,
+      "height": 40.6560235960682,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "rect",
+      "x": 473.37476171785175,
+      "y": 258.6704349799162,
+      "width": 21.87083292801493,
+      "height": 40.888247857891905,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-18",
+      "type": "rect",
+      "x": 495.4969146397516,
+      "y": 252.3114829553749,
+      "width": 21.870832928014863,
+      "height": 46.91878762517438,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 320,
+      "y": 252,
+      "points": [
+        0,
+        0,
+        62,
+        -124,
+        140,
+        89,
+        200,
+        -32
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    }
+  ]
+}

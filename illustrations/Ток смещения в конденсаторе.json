@@ -1,0 +1,228 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 124,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        126.5,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 170.75,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        33,
+        0
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 187.25,
+      "y": 302.4,
+      "text": "$I$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 250.5,
+      "y": 380.5,
+      "points": [
+        0,
+        0,
+        0,
+        -121
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 349.5,
+      "y": 380.5,
+      "points": [
+        0,
+        0,
+        0,
+        -121
+      ],
+      "strokeWidth": 3.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 234,
+      "y": 247.4,
+      "text": "+Q",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 366,
+      "y": 247.4,
+      "text": "−Q",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 258.75,
+      "y": 358.5,
+      "points": [
+        0,
+        0,
+        82.5,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 258.75,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        82.5,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 258.75,
+      "y": 281.5,
+      "points": [
+        0,
+        0,
+        82.5,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 300,
+      "y": 262.25,
+      "text": "E растёт",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 250.5,
+      "y": 399.75,
+      "points": [
+        0,
+        0,
+        99,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "chemistry"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 300,
+      "y": 421.75,
+      "text": "ток смещения ε₀·dΦ/dt = I",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 349.5,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        126.5,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 396.25,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        33,
+        0
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "text",
+      "x": 412.75,
+      "y": 302.4,
+      "text": "$I$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    }
+  ]
+}

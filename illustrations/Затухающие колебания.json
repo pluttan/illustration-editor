@@ -1,0 +1,24 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "arrow", "x": 120, "y": 300, "points": [0, 0, 360, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-2", "type": "arrow", "x": 140, "y": 400, "points": [0, 0, 0, -200], "strokeWidth": 1, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-3", "type": "text", "x": 486, "y": 300, "text": "t", "fontSize": 11, "draggable": true, "fillRole": "fg"},
+    {"id": "el-4", "type": "text", "x": 132, "y": 196, "text": "x", "fontSize": 11, "draggable": true, "fillRole": "fg"},
+    {"id": "el-5", "type": "bezier", "x": 140, "y": 230, "points": [0, 0, 10, 0, 15, 35, 25, 70], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-6", "type": "bezier", "x": 165, "y": 300, "points": [0, 0, 10, 35, 20, 60, 30, 60], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-7", "type": "bezier", "x": 195, "y": 360, "points": [0, 0, 10, 0, 15, -30, 25, -55], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-8", "type": "bezier", "x": 220, "y": 305, "points": [0, 0, 8, -20, 15, -48, 25, -48], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-9", "type": "bezier", "x": 245, "y": 257, "points": [0, 0, 8, 0, 15, 20, 25, 43], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-10", "type": "bezier", "x": 270, "y": 300, "points": [0, 0, 8, 18, 15, 35, 25, 35], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-11", "type": "bezier", "x": 295, "y": 335, "points": [0, 0, 8, 0, 15, -15, 25, -30], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-12", "type": "bezier", "x": 320, "y": 305, "points": [0, 0, 8, -12, 15, -25, 25, -25], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-13", "type": "bezier", "x": 345, "y": 280, "points": [0, 0, 8, 0, 15, 10, 25, 20], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-14", "type": "bezier", "x": 370, "y": 300, "points": [0, 0, 8, 10, 15, 18, 25, 18], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-15", "type": "bezier", "x": 395, "y": 318, "points": [0, 0, 8, 0, 15, -8, 25, -14], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-16", "type": "bezier", "x": 420, "y": 304, "points": [0, 0, 8, -5, 15, -10, 25, -8], "strokeWidth": 1.8, "draggable": true, "strokeRole": "accent"},
+    {"id": "el-17", "type": "bezier", "x": 140, "y": 230, "points": [0, 0, 80, 5, 200, 55, 310, 68], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "el-18", "type": "bezier", "x": 140, "y": 370, "points": [0, 0, 80, -5, 200, -55, 310, -68], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "el-19", "type": "text", "x": 460, "y": 268, "text": "e^(-bt)", "fontSize": 7, "draggable": true, "fillRole": "muted"}
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 40,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 70,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 300.23939204936914,
+      "y": 300.4787840987383,
+      "radius": 100,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 10,
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 299.3723143246558,
+      "y": 283.0644562082608,
+      "text": "$I$",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 340,
+      "y": 296,
+      "points": [
+        0,
+        0,
+        -2,
+        -8
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 296,
+      "y": 260,
+      "points": [
+        0,
+        0,
+        -5,
+        1
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 260,
+      "y": 304,
+      "points": [
+        0,
+        0,
+        2,
+        7
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 304,
+      "y": 340,
+      "points": [
+        0,
+        0,
+        7.5,
+        -1.7999999999999545
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 370,
+      "y": 294,
+      "points": [
+        0,
+        0,
+        -1.6000000000000227,
+        -8.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 294,
+      "y": 230,
+      "points": [
+        0,
+        0,
+        -7,
+        2
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "arrow",
+      "x": 230,
+      "y": 306,
+      "points": [
+        0,
+        0,
+        1,
+        7
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "arrow",
+      "x": 306,
+      "y": 370,
+      "points": [
+        0,
+        0,
+        8,
+        -1
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 400,
+      "y": 292,
+      "points": [
+        0,
+        0,
+        -1,
+        -9
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "arrow",
+      "x": 292,
+      "y": 200,
+      "points": [
+        0,
+        0,
+        -7,
+        2
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "arrow",
+      "x": 200,
+      "y": 308,
+      "points": [
+        0,
+        0,
+        1,
+        7
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-18",
+      "type": "arrow",
+      "x": 308,
+      "y": 400,
+      "points": [
+        0,
+        0,
+        6,
+        -1
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "text",
+      "x": 343.1169429739673,
+      "y": 280.8675563445561,
+      "text": "$B$",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "accent"
+    }
+  ]
+}

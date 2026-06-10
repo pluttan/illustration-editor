@@ -1,0 +1,123 @@
+{
+  "science": "chemistry",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 72,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 299.42601261472765,
+      "y": 299.749407297832,
+      "radius": 112,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 288.68268496210646,
+      "y": 295.7656369365769,
+      "radius": 11,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 309,
+      "y": 296.0553013163136,
+      "radius": 11,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 299.0379862784202,
+      "y": 287.8242944555237,
+      "radius": 8,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 372,
+      "y": 300,
+      "radius": 7,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-60",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 278.7,
+      "y": 189.70000000000002,
+      "radius": 7,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-60",
+      "strokeRole": "accent-40"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 317.2449288013049,
+      "y": 312.94787430254553,
+      "text": "ядро",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 391.0315408855178,
+      "y": 290.64496569605035,
+      "text": "электрон",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-16",
+      "type": "text",
+      "x": 297.2396456663544,
+      "y": 180.76286493115987,
+      "text": "электрон",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "circle",
+      "x": 298.90588161469145,
+      "y": 304.48749628081464,
+      "radius": 8,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "muted"
+    }
+  ]
+}

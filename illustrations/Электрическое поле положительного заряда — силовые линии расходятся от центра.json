@@ -1,0 +1,164 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 300,
+      "radius": 12,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent-20"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 300,
+      "y": 300,
+      "text": "+",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "arrow",
+      "x": 316,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        72,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "arrow",
+      "x": 311,
+      "y": 289,
+      "points": [
+        0,
+        0,
+        51,
+        -51
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 300,
+      "y": 284,
+      "points": [
+        0,
+        0,
+        0,
+        -72
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 289,
+      "y": 289,
+      "points": [
+        0,
+        0,
+        -51,
+        -51
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 284,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        -72,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 289,
+      "y": 311,
+      "points": [
+        0,
+        0,
+        -51,
+        51
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 300,
+      "y": 316,
+      "points": [
+        0,
+        0,
+        0,
+        72
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 311,
+      "y": 311,
+      "points": [
+        0,
+        0,
+        51,
+        51
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 300,
+      "y": 412,
+      "text": "силовые линии поля положительного заряда",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

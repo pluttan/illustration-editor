@@ -1,0 +1,144 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 220,
+      "y": 300,
+      "text": "+",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 380,
+      "y": 300,
+      "text": "−",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 236,
+      "y": 332,
+      "points": [
+        0,
+        0,
+        128,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 298.32425565441577,
+      "y": 325.0183632605603,
+      "text": "r",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 236,
+      "y": 300,
+      "points": [
+        -4,
+        0,
+        32,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 364,
+      "y": 300,
+      "points": [
+        4,
+        0,
+        -32,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 272.4699143225462,
+      "y": 300.3483241963788,
+      "text": "F",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 220.47878409873832,
+      "y": 279.5427436566114,
+      "text": "q₁",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 381.436352296215,
+      "y": 279.5427436566114,
+      "text": "q₂",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 325.7454091848599,
+      "y": 299.76060795063086,
+      "text": "F",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 220,
+      "y": 300,
+      "radius": 12,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent-20"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 380,
+      "y": 300,
+      "radius": 12,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent-20"
+    }
+  ]
+}

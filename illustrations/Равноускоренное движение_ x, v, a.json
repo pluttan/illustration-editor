@@ -1,0 +1,174 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 288,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        100,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -112
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 307.791952532914,
+      "y": 305.80644539290256,
+      "text": "$x(t)$",
+      "fontSize": 6,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 304,
+      "y": 296,
+      "points": [
+        0,
+        0,
+        16,
+        0,
+        44,
+        -16,
+        72,
+        -88
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 408,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        100,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 420,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -112
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 436.4818839250148,
+      "y": 307.25476729158584,
+      "text": "$v(t) = x'(t)$",
+      "fontSize": 6,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 424,
+      "y": 292,
+      "points": [
+        0,
+        0,
+        72,
+        -72
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 528,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        100,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 540,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -112
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 557.6405414439615,
+      "y": 307.25476729158584,
+      "text": "$a(t) = v'(t)$",
+      "fontSize": 6,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 544,
+      "y": 252,
+      "points": [
+        0,
+        0,
+        72,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    }
+  ]
+}

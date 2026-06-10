@@ -1,0 +1,156 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 168,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        276,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 492,
+      "points": [
+        0,
+        0,
+        0,
+        -276
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 453,
+      "y": 368.4,
+      "text": "$x$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 291.6,
+      "y": 207,
+      "text": "$y$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 300,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        90,
+        -48
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 415.2,
+      "y": 304.8,
+      "text": "$(x, y)$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 300,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        -48,
+        -90
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 219,
+      "y": 259.2,
+      "text": "$(−y, x)$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 342.35,
+      "y": 337.41,
+      "points": [
+        0,
+        0,
+        -12.48,
+        -23.39,
+        -41.55,
+        -32.24,
+        -64.94,
+        -19.76
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 289.76,
+      "y": 311.06,
+      "points": [
+        0,
+        0,
+        -12.35,
+        6.59
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 307.86,
+      "y": 334.17,
+      "text": "90°",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

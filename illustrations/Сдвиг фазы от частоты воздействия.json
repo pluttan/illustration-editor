@@ -1,0 +1,211 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 148,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        312,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 160,
+      "y": 372,
+      "points": [
+        0,
+        0,
+        0,
+        -162
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 472,
+      "y": 368.4,
+      "text": "$Ω$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 142,
+      "y": 207,
+      "text": "$φ$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 160,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        288,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 160,
+      "y": 240,
+      "points": [
+        0,
+        0,
+        288,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 137.2,
+      "y": 300,
+      "text": "$π/2$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 142,
+      "y": 240,
+      "text": "$π$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 250,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -138
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 250,
+      "y": 374.4,
+      "text": "$ω₀$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 160,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        21,
+        -3.57,
+        42,
+        -3.49,
+        63,
+        -19.18
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 223,
+      "y": 340.82,
+      "points": [
+        0,
+        0,
+        9,
+        -6.73,
+        18,
+        -21.72,
+        27,
+        -40.82
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 250,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        9,
+        -19.1,
+        18,
+        -29.83,
+        27,
+        -35.33
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 277,
+      "y": 264.67,
+      "points": [
+        0,
+        0,
+        51,
+        -31.2,
+        102,
+        -17.66,
+        153,
+        -18.98
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    }
+  ]
+}

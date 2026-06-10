@@ -1,0 +1,38 @@
+{
+  "science": "math",
+  "elements": [
+    {"id": "s1-outer", "type": "rect", "x": 120, "y": 210, "width": 160, "height": 160, "strokeWidth": 2, "draggable": true, "fillRole": "none", "strokeRole": "fg"},
+    {"id": "s1-t1", "type": "line", "x": 120, "y": 210, "points": [0, 160, 100, 160], "strokeWidth": 0, "draggable": true, "strokeRole": "none"},
+    {"id": "s1-tri1a", "type": "line", "x": 120, "y": 210, "points": [0, 0, 100, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri1b", "type": "line", "x": 220, "y": 210, "points": [0, 0, 0, 60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri1c", "type": "line", "x": 120, "y": 210, "points": [0, 0, 100, 60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s1-tri2a", "type": "line", "x": 220, "y": 210, "points": [60, 0, 60, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri2b", "type": "line", "x": 280, "y": 310, "points": [0, 0, -60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri2c", "type": "line", "x": 280, "y": 210, "points": [0, 0, -60, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s1-tri3a", "type": "line", "x": 280, "y": 370, "points": [0, 0, -100, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri3b", "type": "line", "x": 180, "y": 370, "points": [0, 0, 0, -60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri3c", "type": "line", "x": 280, "y": 370, "points": [0, 0, -100, -60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s1-tri4a", "type": "line", "x": 120, "y": 310, "points": [0, 60, 0, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri4b", "type": "line", "x": 120, "y": 310, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s1-tri4c", "type": "line", "x": 120, "y": 370, "points": [0, 0, 60, -60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s1-inner", "type": "rect", "x": 180, "y": 270, "width": 40, "height": 40, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "accent"},
+    {"id": "s1-label-c", "type": "text", "x": 200, "y": 290, "text": "$c^2$", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+
+    {"id": "eq", "type": "text", "x": 310, "y": 290, "text": "=", "fontSize": 16, "draggable": true, "fillRole": "fg"},
+
+    {"id": "s2-outer", "type": "rect", "x": 340, "y": 210, "width": 160, "height": 160, "strokeWidth": 2, "draggable": true, "fillRole": "none", "strokeRole": "fg"},
+    {"id": "s2-tri1a", "type": "line", "x": 340, "y": 210, "points": [0, 0, 100, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri1b", "type": "line", "x": 440, "y": 210, "points": [0, 0, 0, 60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri1c", "type": "line", "x": 340, "y": 210, "points": [0, 0, 100, 60], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s2-tri2a", "type": "line", "x": 340, "y": 270, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri2b", "type": "line", "x": 340, "y": 270, "points": [0, 0, 0, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri2c", "type": "line", "x": 340, "y": 270, "points": [60, 0, 0, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s2-tri3a", "type": "line", "x": 440, "y": 270, "points": [0, 0, 60, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri3b", "type": "line", "x": 500, "y": 270, "points": [0, 0, 0, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent"},
+    {"id": "s2-tri3c", "type": "line", "x": 440, "y": 270, "points": [0, 0, 60, 100], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "s2-rect-a", "type": "rect", "x": 340, "y": 210, "width": 100, "height": 60, "strokeWidth": 0, "draggable": true, "fillRole": "accent-20", "strokeRole": "none"},
+    {"id": "s2-rect-b", "type": "rect", "x": 440, "y": 270, "width": 60, "height": 100, "strokeWidth": 0, "draggable": true, "fillRole": "accent-20", "strokeRole": "none"},
+    {"id": "s2-label-a", "type": "text", "x": 380, "y": 230, "text": "$a^2$", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+    {"id": "s2-label-b", "type": "text", "x": 470, "y": 320, "text": "$b^2$", "fontSize": 10, "draggable": true, "fillRole": "accent"}
+  ]
+}

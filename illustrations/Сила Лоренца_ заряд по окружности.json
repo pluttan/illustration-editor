@@ -1,0 +1,36 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "circle", "x": 300, "y": 300, "radius": 80, "strokeWidth": 0.8, "draggable": true, "fillRole": "none", "strokeRole": "muted"},
+
+    {"id": "el-2", "type": "circle", "x": 380, "y": 300, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "accent"},
+    {"id": "el-3", "type": "text", "x": 380, "y": 300, "text": "+", "fontSize": 8, "draggable": true, "fillRole": "accent"},
+
+    {"id": "el-4", "type": "arrow", "x": 380, "y": 292, "points": [0, 0, 0, -40], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-5", "type": "text", "x": 386, "y": 260, "text": "$v$", "fontSize": 9, "draggable": true, "fillRole": "fg"},
+
+    {"id": "el-6", "type": "arrow", "x": 372, "y": 300, "points": [0, 0, -50, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "el-7", "type": "text", "x": 340, "y": 288, "text": "$F$", "fontSize": 9, "draggable": true, "fillRole": "accent"},
+
+    {"id": "el-8", "type": "text", "x": 394, "y": 300, "text": "q+", "fontSize": 7, "draggable": true, "fillRole": "fg"},
+
+    {"id": "el-9", "type": "text", "x": 240, "y": 230, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-10", "type": "text", "x": 290, "y": 230, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-11", "type": "text", "x": 340, "y": 230, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-12", "type": "text", "x": 240, "y": 260, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-13", "type": "text", "x": 290, "y": 260, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-14", "type": "text", "x": 340, "y": 260, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-15", "type": "text", "x": 240, "y": 340, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-16", "type": "text", "x": 290, "y": 340, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-17", "type": "text", "x": 340, "y": 340, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-18", "type": "text", "x": 240, "y": 370, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-19", "type": "text", "x": 290, "y": 370, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+    {"id": "el-20", "type": "text", "x": 340, "y": 370, "text": "\u2022  \u2022  \u2022", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+
+    {"id": "el-21", "type": "text", "x": 365, "y": 228, "text": "B (на нас)", "fontSize": 7, "draggable": true, "fillRole": "muted"},
+
+    {"id": "el-22", "type": "arrow", "x": 300, "y": 215, "points": [4, -4, -4, 4], "strokeWidth": 1.2, "draggable": true, "strokeRole": "muted", "fillRole": "muted"},
+    {"id": "el-23", "type": "arrow", "x": 222, "y": 302, "points": [4, -4, -4, 4], "strokeWidth": 1.2, "draggable": true, "strokeRole": "muted", "fillRole": "muted"},
+    {"id": "el-24", "type": "arrow", "x": 298, "y": 384, "points": [-4, 4, 4, -4], "strokeWidth": 1.2, "draggable": true, "strokeRole": "muted", "fillRole": "muted"}
+  ]
+}

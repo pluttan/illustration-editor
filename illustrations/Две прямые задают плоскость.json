@@ -1,0 +1,116 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 180,
+      "y": 348,
+      "points": [
+        0,
+        0,
+        240,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 180,
+      "y": 348,
+      "points": [
+        0,
+        0,
+        60,
+        -108
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 420,
+      "y": 348,
+      "points": [
+        0,
+        0,
+        60,
+        -108
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 240,
+      "y": 240,
+      "points": [
+        0,
+        0,
+        240,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 150.8089686995001,
+      "y": 309.3909826129245,
+      "points": [
+        97,
+        -34,
+        246,
+        5
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 321.49050901327763,
+      "y": 342.433163475647,
+      "points": [
+        0,
+        0,
+        40,
+        -92
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 340,
+      "y": 300,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 375.20000000000005,
+      "y": 295.0000000000001,
+      "text": "общая точка",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

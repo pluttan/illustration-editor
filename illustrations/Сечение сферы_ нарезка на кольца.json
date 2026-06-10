@@ -1,0 +1,229 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 300,
+      "y": 360,
+      "radius": 121.00000000000001,
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 300,
+      "y": 503,
+      "points": [
+        0,
+        0,
+        0,
+        -286
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 317.6,
+      "y": 210.4,
+      "text": "ось",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 265.9,
+      "y": 232.4,
+      "text": "вершина",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 300,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        99.12,
+        -69.4
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 339.66,
+      "y": 313.2,
+      "text": "$r$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 300,
+      "y": 290.6,
+      "points": [
+        0,
+        0,
+        99.12,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 349.56,
+      "y": 276.85,
+      "text": "$r·sinθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 300,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        0,
+        -69.4
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 276.9,
+      "y": 325.3,
+      "text": "$r·cosθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 300,
+      "y": 332.5,
+      "points": [
+        0,
+        0,
+        8.97,
+        0,
+        17.38,
+        4.38,
+        22.53,
+        11.73
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 314.3,
+      "y": 322.6,
+      "text": "$θ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 300,
+      "y": 360,
+      "points": [
+        0,
+        0,
+        111.38,
+        -47.28
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 399.12,
+      "y": 290.6,
+      "points": [
+        0,
+        0,
+        4.85,
+        6.93,
+        8.96,
+        14.34,
+        12.26,
+        22.12
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 440.37,
+      "y": 306,
+      "text": "$r·dθ$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-16",
+      "type": "circle",
+      "x": 399.12,
+      "y": 290.6,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-17",
+      "type": "circle",
+      "x": 411.38,
+      "y": 312.72,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 140,
+      "y": 280,
+      "width": 48,
+      "height": 40,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 164,
+      "y": 300,
+      "text": "малая m",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "arrow",
+      "x": 188,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        40,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 222.01975597925565,
+      "y": 309.95129686477355,
+      "text": "F",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 188.06317671321187,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        120,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 326.4463578699596,
+      "y": 298.79921824491106,
+      "text": "большое a",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "rect",
+      "x": 400,
+      "y": 272,
+      "width": 80,
+      "height": 56,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 440,
+      "y": 300,
+      "text": "большая m",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 480,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        40,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 527.4022503230908,
+      "y": 300.3923723334628,
+      "text": "F",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 479.4259150777911,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        28,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 493.514130171529,
+      "y": 307.0836195053803,
+      "text": "малое a",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "accent"
+    }
+  ]
+}

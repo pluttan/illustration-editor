@@ -1,0 +1,34 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "el-1", "type": "rect", "x": 310, "y": 260, "width": 80, "height": 80, "strokeWidth": 1.5, "draggable": true, "fillRole": "none", "strokeRole": "fg"},
+    {"id": "el-2", "type": "line", "x": 320, "y": 260, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-3", "type": "line", "x": 335, "y": 260, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-4", "type": "line", "x": 350, "y": 260, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-5", "type": "line", "x": 365, "y": 260, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-6", "type": "line", "x": 380, "y": 260, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+
+    {"id": "el-7", "type": "rect", "x": 180, "y": 280, "width": 80, "height": 40, "strokeWidth": 1.5, "draggable": true, "fillRole": "accent-20", "strokeRole": "accent"},
+    {"id": "el-8", "type": "line", "x": 220, "y": 280, "points": [0, 0, 0, 40], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60"},
+    {"id": "el-9", "type": "text", "x": 200, "y": 300, "text": "N", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+    {"id": "el-10", "type": "text", "x": 240, "y": 300, "text": "S", "fontSize": 10, "draggable": true, "fillRole": "muted"},
+
+    {"id": "el-11", "type": "arrow", "x": 200, "y": 264, "points": [0, 0, 50, 0], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg", "fillRole": "fg"},
+    {"id": "el-12", "type": "text", "x": 210, "y": 252, "text": "движение", "fontSize": 6, "draggable": true, "fillRole": "muted"},
+
+    {"id": "el-13", "type": "arrow", "x": 260, "y": 300, "points": [0, 0, 20, -8], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+    {"id": "el-14", "type": "arrow", "x": 260, "y": 300, "points": [0, 0, 20, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+    {"id": "el-15", "type": "arrow", "x": 260, "y": 300, "points": [0, 0, 20, 8], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60"},
+
+    {"id": "el-16", "type": "text", "x": 350, "y": 250, "text": "ЭДС", "fontSize": 8, "draggable": true, "fillRole": "accent"},
+
+    {"id": "el-17", "type": "circle", "x": 400, "y": 300, "radius": 10, "strokeWidth": 1, "draggable": true, "fillRole": "none", "strokeRole": "fg"},
+    {"id": "el-18", "type": "line", "x": 390, "y": 300, "points": [0, 0, 0, -40], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-19", "type": "line", "x": 390, "y": 260, "points": [0, 0, -80, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-20", "type": "line", "x": 390, "y": 340, "points": [0, 0, 0, 20], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-21", "type": "line", "x": 390, "y": 360, "points": [0, 0, -80, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+    {"id": "el-22", "type": "line", "x": 310, "y": 340, "points": [0, 0, 0, 20], "strokeWidth": 1, "draggable": true, "strokeRole": "fg"},
+
+    {"id": "el-23", "type": "arrow", "x": 396, "y": 296, "points": [0, 0, 4, 8], "strokeWidth": 1, "draggable": true, "strokeRole": "fg", "fillRole": "fg"}
+  ]
+}

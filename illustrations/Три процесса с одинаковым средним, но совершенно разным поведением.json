@@ -1,0 +1,165 @@
+{
+  "science": "math",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 288,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        212,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 312,
+      "points": [
+        0,
+        0,
+        0,
+        -172
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 497.30119697399334,
+      "y": 293.25294592365776,
+      "text": "t",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 308.1446601283559,
+      "y": 143.46988960486578,
+      "text": "f",
+      "fontSize": 7,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 320,
+      "y": 268,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 460,
+      "y": 180,
+      "radius": 2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 320,
+      "y": 268,
+      "points": [
+        0,
+        0,
+        140,
+        -88
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 336.7582388047509,
+      "y": 251.51923042536075,
+      "text": "равномерно",
+      "fontSize": 6,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": -33
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 320,
+      "y": 268,
+      "points": [
+        0,
+        0,
+        68,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 388,
+      "y": 268,
+      "points": [
+        0,
+        0,
+        72,
+        -88
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 416.22229480188525,
+      "y": 241.14061176327743,
+      "text": "сначала стоит, потом резко",
+      "fontSize": 6,
+      "draggable": true,
+      "fillRole": "accent",
+      "rotation": -51
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 320,
+      "y": 268,
+      "points": [
+        0,
+        0,
+        40,
+        52,
+        80,
+        -148,
+        140,
+        -88
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "accent-60"
+    }
+  ]
+}

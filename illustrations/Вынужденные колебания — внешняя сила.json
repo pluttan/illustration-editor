@@ -1,0 +1,28 @@
+{
+  "science": "physics",
+  "elements": [
+    {"id": "wall", "type": "rect", "x": 140, "y": 250, "width": 10, "height": 100, "strokeWidth": 1.5, "draggable": true, "fillRole": "muted", "strokeRole": "fg"},
+    {"id": "sp1", "type": "line", "x": 150, "y": 280, "points": [0, 0, 12, -10], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp2", "type": "line", "x": 162, "y": 270, "points": [0, 0, 24, 20], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp3", "type": "line", "x": 186, "y": 290, "points": [0, 0, 24, -20], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp4", "type": "line", "x": 210, "y": 270, "points": [0, 0, 24, 20], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp5", "type": "line", "x": 234, "y": 290, "points": [0, 0, 24, -20], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp6", "type": "line", "x": 258, "y": 270, "points": [0, 0, 24, 20], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "sp7", "type": "line", "x": 282, "y": 290, "points": [0, 0, 12, -10], "strokeWidth": 1.5, "draggable": true, "strokeRole": "fg"},
+    {"id": "mass", "type": "rect", "x": 294, "y": 258, "width": 50, "height": 44, "strokeWidth": 2, "draggable": true, "fillRole": "accent-20", "strokeRole": "accent"},
+    {"id": "mass-label", "type": "text", "x": 319, "y": 280, "text": "m", "fontSize": 12, "draggable": true, "fillRole": "accent"},
+    {"id": "force-arrow", "type": "arrow", "x": 400, "y": 280, "points": [0, 0, -46, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "accent", "fillRole": "accent"},
+    {"id": "force-label", "type": "text", "x": 420, "y": 280, "text": "$F_0 cos(Omega t)$", "fontSize": 10, "draggable": true, "fillRole": "accent"},
+    {"id": "hatching1", "type": "line", "x": 150, "y": 250, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching2", "type": "line", "x": 150, "y": 260, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching3", "type": "line", "x": 150, "y": 270, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching4", "type": "line", "x": 150, "y": 280, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching5", "type": "line", "x": 150, "y": 290, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching6", "type": "line", "x": 150, "y": 300, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching7", "type": "line", "x": 150, "y": 310, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching8", "type": "line", "x": 150, "y": 320, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching9", "type": "line", "x": 150, "y": 330, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching10", "type": "line", "x": 150, "y": 340, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"},
+    {"id": "hatching11", "type": "line", "x": 150, "y": 350, "points": [0, 0, -10, -15], "strokeWidth": 1, "draggable": true, "strokeRole": "muted"}
+  ]
+}

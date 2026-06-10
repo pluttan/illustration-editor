@@ -1,0 +1,3373 @@
+{
+  "tabs": [
+    {
+      "id": "tab-1",
+      "name": "Модель атома лития",
+      "elements": [
+        {
+          "id": "el-tab-1-1",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 72,
+          "fill": "transparent",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-2",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 112,
+          "fill": "transparent",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-3",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 152,
+          "fill": "transparent",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-4",
+          "type": "circle",
+          "x": 289,
+          "y": 291,
+          "radius": 13,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-5",
+          "type": "text",
+          "x": 289,
+          "y": 291,
+          "text": "p+",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-6",
+          "type": "circle",
+          "x": 311,
+          "y": 291,
+          "radius": 13,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-7",
+          "type": "text",
+          "x": 311,
+          "y": 291,
+          "text": "p+",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-8",
+          "type": "circle",
+          "x": 300,
+          "y": 310,
+          "radius": 13,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-9",
+          "type": "text",
+          "x": 300,
+          "y": 310,
+          "text": "p+",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-10",
+          "type": "circle",
+          "x": 285,
+          "y": 308,
+          "radius": 11,
+          "fill": "#7f8c8d",
+          "stroke": "#7f8c8d",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-11",
+          "type": "text",
+          "x": 285,
+          "y": 308,
+          "text": "n",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-12",
+          "type": "circle",
+          "x": 315,
+          "y": 307,
+          "radius": 11,
+          "fill": "#7f8c8d",
+          "stroke": "#7f8c8d",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-13",
+          "type": "text",
+          "x": 315,
+          "y": 307,
+          "text": "n",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-14",
+          "type": "circle",
+          "x": 300,
+          "y": 286,
+          "radius": 11,
+          "fill": "#7f8c8d",
+          "stroke": "#7f8c8d",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-15",
+          "type": "text",
+          "x": 300,
+          "y": 286,
+          "text": "n",
+          "fontSize": 6,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-16",
+          "type": "circle",
+          "x": 372,
+          "y": 300,
+          "radius": 9,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-17",
+          "type": "text",
+          "x": 372,
+          "y": 300,
+          "text": "e-",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-18",
+          "type": "circle",
+          "x": 228,
+          "y": 300,
+          "radius": 9,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-19",
+          "type": "text",
+          "x": 228,
+          "y": 300,
+          "text": "e-",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-20",
+          "type": "circle",
+          "x": 300,
+          "y": 188,
+          "radius": 9,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-21",
+          "type": "text",
+          "x": 300,
+          "y": 188,
+          "text": "e-",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-22",
+          "type": "text",
+          "x": 300,
+          "y": 348,
+          "text": "ядро",
+          "fontSize": 8,
+          "fill": "#646464",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-1-23",
+          "type": "text",
+          "x": 484,
+          "y": 300,
+          "text": "орбиты",
+          "fontSize": 8,
+          "fill": "#646464",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-2",
+      "name": "Точка",
+      "elements": [
+        {
+          "id": "el-tab-2-1",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-3",
+      "name": "Две точки",
+      "elements": [
+        {
+          "id": "el-tab-3-1",
+          "type": "circle",
+          "x": 220,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-3-2",
+          "type": "circle",
+          "x": 380,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-3-3",
+          "type": "text",
+          "x": 220,
+          "y": 316,
+          "text": "A",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-3-4",
+          "type": "text",
+          "x": 380,
+          "y": 316,
+          "text": "B",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-4",
+      "name": "Отрезок",
+      "elements": [
+        {
+          "id": "el-tab-4-1",
+          "type": "circle",
+          "x": 220,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-4-2",
+          "type": "circle",
+          "x": 380,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-4-3",
+          "type": "line",
+          "x": 220,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            160,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-4-4",
+          "type": "text",
+          "x": 220,
+          "y": 316,
+          "text": "A",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-4-5",
+          "type": "text",
+          "x": 380,
+          "y": 316,
+          "text": "B",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-5",
+      "name": "Луч и прямая",
+      "elements": [
+        {
+          "id": "el-tab-5-1",
+          "type": "circle",
+          "x": 220,
+          "y": 268,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-5-2",
+          "type": "arrow",
+          "x": 220,
+          "y": 268,
+          "points": [
+            0,
+            0,
+            200,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-5-3",
+          "type": "text",
+          "x": 196,
+          "y": 268,
+          "text": "луч",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-5-4",
+          "type": "arrow",
+          "x": 180,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            240,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-5-5",
+          "type": "arrow",
+          "x": 420,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            -240,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-5-6",
+          "type": "text",
+          "x": 132,
+          "y": 320,
+          "text": "прямая",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-6",
+      "name": "Две прямые задают плоскость",
+      "elements": [
+        {
+          "id": "el-tab-6-1",
+          "type": "line",
+          "x": 180,
+          "y": 348,
+          "points": [
+            0,
+            0,
+            240,
+            0
+          ],
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-2",
+          "type": "line",
+          "x": 180,
+          "y": 348,
+          "points": [
+            0,
+            0,
+            60,
+            -108
+          ],
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-3",
+          "type": "line",
+          "x": 420,
+          "y": 348,
+          "points": [
+            0,
+            0,
+            60,
+            -108
+          ],
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-4",
+          "type": "line",
+          "x": 240,
+          "y": 240,
+          "points": [
+            0,
+            0,
+            240,
+            0
+          ],
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-5",
+          "type": "line",
+          "x": 200,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            260,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-6",
+          "type": "line",
+          "x": 320,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            40,
+            -92
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-7",
+          "type": "circle",
+          "x": 340,
+          "y": 300,
+          "radius": 3,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-6-8",
+          "type": "text",
+          "x": 356,
+          "y": 288,
+          "text": "общая точка",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-7",
+      "name": "Треугольник",
+      "elements": [
+        {
+          "id": "el-tab-7-1",
+          "type": "line",
+          "x": 240,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            120,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-7-2",
+          "type": "line",
+          "x": 360,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            -60,
+            -88
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-7-3",
+          "type": "line",
+          "x": 300,
+          "y": 252,
+          "points": [
+            0,
+            0,
+            -60,
+            88
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-7-4",
+          "type": "circle",
+          "x": 240,
+          "y": 340,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-7-5",
+          "type": "circle",
+          "x": 360,
+          "y": 340,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-7-6",
+          "type": "circle",
+          "x": 300,
+          "y": 252,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-8",
+      "name": "Окружность с радиусом и диаметром",
+      "elements": [
+        {
+          "id": "el-tab-8-1",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 60,
+          "fill": "transparent",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-2",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-3",
+          "type": "line",
+          "x": 300,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            60,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-4",
+          "type": "line",
+          "x": 240,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            120,
+            0
+          ],
+          "stroke": "#aaaaaa",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-5",
+          "type": "text",
+          "x": 330,
+          "y": 288,
+          "text": "r",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-6",
+          "type": "text",
+          "x": 300,
+          "y": 314,
+          "text": "центр",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-8-7",
+          "type": "text",
+          "x": 300,
+          "y": 376,
+          "text": "диаметр = 2r",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-9",
+      "name": "Угол между двумя лучами",
+      "elements": [
+        {
+          "id": "el-tab-9-1",
+          "type": "line",
+          "x": 300,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            100,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-9-2",
+          "type": "line",
+          "x": 300,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            72,
+            -72
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-9-3",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-9-4",
+          "type": "text",
+          "x": 336,
+          "y": 288,
+          "text": "alpha",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-10",
+      "name": "Квадрат",
+      "elements": [
+        {
+          "id": "el-tab-10-1",
+          "type": "rect",
+          "x": 260,
+          "y": 260,
+          "width": 80,
+          "height": 80,
+          "fill": "transparent",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-10-2",
+          "type": "line",
+          "x": 330,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            0,
+            -10
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-10-3",
+          "type": "line",
+          "x": 330,
+          "y": 330,
+          "points": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-10-4",
+          "type": "text",
+          "x": 300,
+          "y": 356,
+          "text": "сторона",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-11",
+      "name": "Куб",
+      "elements": [
+        {
+          "id": "el-tab-11-1",
+          "type": "rect",
+          "x": 260,
+          "y": 260,
+          "width": 80,
+          "height": 80,
+          "fill": "transparent",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-2",
+          "type": "line",
+          "x": 288,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            80,
+            0
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-3",
+          "type": "line",
+          "x": 368,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -80
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-4",
+          "type": "line",
+          "x": 368,
+          "y": 232,
+          "points": [
+            0,
+            0,
+            -80,
+            0
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-5",
+          "type": "line",
+          "x": 288,
+          "y": 232,
+          "points": [
+            0,
+            0,
+            0,
+            80
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-6",
+          "type": "line",
+          "x": 260,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            28,
+            -28
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-7",
+          "type": "line",
+          "x": 340,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            28,
+            -28
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-8",
+          "type": "line",
+          "x": 340,
+          "y": 260,
+          "points": [
+            0,
+            0,
+            28,
+            -28
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-11-9",
+          "type": "line",
+          "x": 260,
+          "y": 260,
+          "points": [
+            0,
+            0,
+            28,
+            -28
+          ],
+          "stroke": "#8c8c8c",
+          "strokeWidth": 1,
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-12",
+      "name": "Атом гелия",
+      "elements": [
+        {
+          "id": "el-tab-12-1",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 72,
+          "fill": "transparent",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-2",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 112,
+          "fill": "transparent",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-3",
+          "type": "circle",
+          "x": 291,
+          "y": 293,
+          "radius": 11,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-4",
+          "type": "text",
+          "x": 291,
+          "y": 293,
+          "text": "p+",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-5",
+          "type": "circle",
+          "x": 309,
+          "y": 293,
+          "radius": 11,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-6",
+          "type": "text",
+          "x": 309,
+          "y": 293,
+          "text": "p+",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-7",
+          "type": "circle",
+          "x": 300,
+          "y": 309,
+          "radius": 10,
+          "fill": "#7f8c8d",
+          "stroke": "#7f8c8d",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-8",
+          "type": "text",
+          "x": 300,
+          "y": 309,
+          "text": "n",
+          "fontSize": 5,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-9",
+          "type": "circle",
+          "x": 298,
+          "y": 283,
+          "radius": 8,
+          "fill": "#7f8c8d",
+          "stroke": "#7f8c8d",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-10",
+          "type": "circle",
+          "x": 372,
+          "y": 300,
+          "radius": 7,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-11",
+          "type": "text",
+          "x": 372,
+          "y": 300,
+          "text": "e-",
+          "fontSize": 4,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-12",
+          "type": "circle",
+          "x": 280,
+          "y": 191,
+          "radius": 7,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-13",
+          "type": "text",
+          "x": 280,
+          "y": 191,
+          "text": "e-",
+          "fontSize": 4,
+          "fill": "#ffffff",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-14",
+          "type": "text",
+          "x": 300,
+          "y": 334,
+          "text": "ядро",
+          "fontSize": 7,
+          "fill": "#646464",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-12-15",
+          "type": "text",
+          "x": 404,
+          "y": 288,
+          "text": "электрон",
+          "fontSize": 7,
+          "fill": "#646464",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-13",
+      "name": "Последовательность состояний",
+      "elements": [
+        {
+          "id": "el-tab-13-1",
+          "type": "rect",
+          "x": 268,
+          "y": 276,
+          "width": 64,
+          "height": 48,
+          "fill": "transparent",
+          "stroke": "#969696",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-2",
+          "type": "circle",
+          "x": 280,
+          "y": 300,
+          "radius": 6,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-3",
+          "type": "rect",
+          "x": 356,
+          "y": 276,
+          "width": 64,
+          "height": 48,
+          "fill": "transparent",
+          "stroke": "#969696",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-4",
+          "type": "circle",
+          "x": 378,
+          "y": 300,
+          "radius": 6,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-5",
+          "type": "rect",
+          "x": 444,
+          "y": 276,
+          "width": 64,
+          "height": 48,
+          "fill": "transparent",
+          "stroke": "#969696",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-6",
+          "type": "circle",
+          "x": 476,
+          "y": 300,
+          "radius": 6,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-7",
+          "type": "rect",
+          "x": 532,
+          "y": 276,
+          "width": 64,
+          "height": 48,
+          "fill": "transparent",
+          "stroke": "#969696",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-8",
+          "type": "circle",
+          "x": 574,
+          "y": 300,
+          "radius": 6,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-9",
+          "type": "rect",
+          "x": 620,
+          "y": 276,
+          "width": 64,
+          "height": 48,
+          "fill": "transparent",
+          "stroke": "#969696",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-10",
+          "type": "circle",
+          "x": 672,
+          "y": 300,
+          "radius": 6,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-11",
+          "type": "arrow",
+          "x": 300,
+          "y": 340,
+          "points": [
+            0,
+            0,
+            320,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-12",
+          "type": "text",
+          "x": 340,
+          "y": 356,
+          "text": "до",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-13-13",
+          "type": "text",
+          "x": 580,
+          "y": 356,
+          "text": "после",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-14",
+      "name": "Маятник",
+      "elements": [
+        {
+          "id": "el-tab-14-1",
+          "type": "line",
+          "x": 220,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            160,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-2",
+          "type": "line",
+          "x": 300,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            -60,
+            100
+          ],
+          "stroke": "#afafaf",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-3",
+          "type": "circle",
+          "x": 240,
+          "y": 300,
+          "radius": 8,
+          "fill": "#afafaf",
+          "stroke": "#afafaf",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-4",
+          "type": "line",
+          "x": 300,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            -20,
+            112
+          ],
+          "stroke": "#5f5f5f",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-5",
+          "type": "circle",
+          "x": 280,
+          "y": 312,
+          "radius": 8,
+          "fill": "#5f5f5f",
+          "stroke": "#5f5f5f",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-6",
+          "type": "line",
+          "x": 300,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            0,
+            120
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-7",
+          "type": "circle",
+          "x": 300,
+          "y": 320,
+          "radius": 8,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-8",
+          "type": "line",
+          "x": 300,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            20,
+            112
+          ],
+          "stroke": "#5f5f5f",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-9",
+          "type": "circle",
+          "x": 320,
+          "y": 312,
+          "radius": 8,
+          "fill": "#5f5f5f",
+          "stroke": "#5f5f5f",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-10",
+          "type": "line",
+          "x": 300,
+          "y": 200,
+          "points": [
+            0,
+            0,
+            60,
+            100
+          ],
+          "stroke": "#afafaf",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-14-11",
+          "type": "circle",
+          "x": 360,
+          "y": 300,
+          "radius": 8,
+          "fill": "#afafaf",
+          "stroke": "#afafaf",
+          "strokeWidth": 0,
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-15",
+      "name": "Три процесса с одинаковым средним",
+      "elements": [
+        {
+          "id": "el-tab-15-1",
+          "type": "arrow",
+          "x": 288,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            212,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -172
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-3",
+          "type": "text",
+          "x": 500,
+          "y": 316,
+          "text": "t",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-4",
+          "type": "text",
+          "x": 280,
+          "y": 140,
+          "text": "f",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-5",
+          "type": "circle",
+          "x": 320,
+          "y": 268,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-6",
+          "type": "circle",
+          "x": 460,
+          "y": 180,
+          "radius": 2,
+          "fill": "#000000",
+          "stroke": "#000000",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-7",
+          "type": "line",
+          "x": 320,
+          "y": 268,
+          "points": [
+            0,
+            0,
+            140,
+            -88
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-8",
+          "type": "text",
+          "x": 360,
+          "y": 208,
+          "text": "равномерно",
+          "fontSize": 6,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-9",
+          "type": "line",
+          "x": 320,
+          "y": 268,
+          "points": [
+            0,
+            0,
+            68,
+            0
+          ],
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-10",
+          "type": "line",
+          "x": 388,
+          "y": 268,
+          "points": [
+            0,
+            0,
+            72,
+            -88
+          ],
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-11",
+          "type": "text",
+          "x": 440,
+          "y": 248,
+          "text": "резко",
+          "fontSize": 6,
+          "fill": "#2980b9",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-12",
+          "type": "text",
+          "x": 320,
+          "y": 268,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-15-13",
+          "type": "text",
+          "x": 332,
+          "y": 308,
+          "text": "вниз, потом вверх",
+          "fontSize": 6,
+          "fill": "#c0392b",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-16",
+      "name": "Секущая и касательная",
+      "elements": [
+        {
+          "id": "el-tab-16-1",
+          "type": "arrow",
+          "x": 288,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            252,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -180
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-3",
+          "type": "text",
+          "x": 540,
+          "y": 316,
+          "text": "t",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-4",
+          "type": "text",
+          "x": 280,
+          "y": 132,
+          "text": "f",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-5",
+          "type": "text",
+          "x": 320,
+          "y": 280,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-6",
+          "type": "circle",
+          "x": 348,
+          "y": 264,
+          "radius": 2,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-7",
+          "type": "circle",
+          "x": 480,
+          "y": 172,
+          "radius": 2,
+          "fill": "#c0392b",
+          "stroke": "#c0392b",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-8",
+          "type": "line",
+          "x": 320,
+          "y": 282,
+          "points": [
+            0,
+            0,
+            188,
+            -126
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-9",
+          "type": "text",
+          "x": 492,
+          "y": 204,
+          "text": "секущая",
+          "fontSize": 6,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-10",
+          "type": "circle",
+          "x": 412,
+          "y": 214,
+          "radius": 2,
+          "fill": "#27ae60",
+          "stroke": "#27ae60",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-11",
+          "type": "line",
+          "x": 348,
+          "y": 262,
+          "points": [
+            0,
+            0,
+            132,
+            -98
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-16-12",
+          "type": "text",
+          "x": 492,
+          "y": 148,
+          "text": "касательная",
+          "fontSize": 6,
+          "fill": "#27ae60",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-17",
+      "name": "Знак производной",
+      "elements": [
+        {
+          "id": "el-tab-17-1",
+          "type": "arrow",
+          "x": 288,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            292,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -152
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-3",
+          "type": "text",
+          "x": 320,
+          "y": 280,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-4",
+          "type": "text",
+          "x": 440,
+          "y": 180,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-5",
+          "type": "text",
+          "x": 360,
+          "y": 208,
+          "text": "f'>0 растёт",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-6",
+          "type": "text",
+          "x": 440,
+          "y": 164,
+          "text": "f'=0",
+          "fontSize": 7,
+          "fill": "#8e44ad",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-17-7",
+          "type": "text",
+          "x": 520,
+          "y": 208,
+          "text": "f'<0 убывает",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-18",
+      "name": "Интеграл — площадь под графиком",
+      "elements": [
+        {
+          "id": "el-tab-18-1",
+          "type": "arrow",
+          "x": 288,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            252,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -152
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-3",
+          "type": "text",
+          "x": 540,
+          "y": 316,
+          "text": "t",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-4",
+          "type": "text",
+          "x": 280,
+          "y": 160,
+          "text": "f",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-5",
+          "type": "text",
+          "x": 320,
+          "y": 252,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-6",
+          "type": "rect",
+          "x": 340,
+          "y": 225,
+          "width": 16,
+          "height": 75,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-7",
+          "type": "rect",
+          "x": 356,
+          "y": 210,
+          "width": 16,
+          "height": 90,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-8",
+          "type": "rect",
+          "x": 372,
+          "y": 204,
+          "width": 16,
+          "height": 96,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-9",
+          "type": "rect",
+          "x": 388,
+          "y": 209,
+          "width": 16,
+          "height": 91,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-10",
+          "type": "rect",
+          "x": 404,
+          "y": 224,
+          "width": 16,
+          "height": 76,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-11",
+          "type": "rect",
+          "x": 420,
+          "y": 245,
+          "width": 16,
+          "height": 55,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-12",
+          "type": "rect",
+          "x": 436,
+          "y": 268,
+          "width": 16,
+          "height": 32,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-13",
+          "type": "rect",
+          "x": 452,
+          "y": 287,
+          "width": 16,
+          "height": 13,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-14",
+          "type": "rect",
+          "x": 468,
+          "y": 298,
+          "width": 16,
+          "height": 2,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-15",
+          "type": "rect",
+          "x": 484,
+          "y": 299,
+          "width": 16,
+          "height": 1,
+          "fill": "#c9e3f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-16",
+          "type": "text",
+          "x": 340,
+          "y": 314,
+          "text": "a",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-17",
+          "type": "text",
+          "x": 500,
+          "y": 314,
+          "text": "b",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-18-18",
+          "type": "text",
+          "x": 420,
+          "y": 332,
+          "text": "площадь = интеграл",
+          "fontSize": 7,
+          "fill": "#2980b9",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-19",
+      "name": "График положения от времени",
+      "elements": [
+        {
+          "id": "el-tab-19-1",
+          "type": "arrow",
+          "x": 280,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            300,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            0,
+            -200
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-3",
+          "type": "text",
+          "x": 580,
+          "y": 316,
+          "text": "t",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-4",
+          "type": "text",
+          "x": 280,
+          "y": 120,
+          "text": "x",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-5",
+          "type": "line",
+          "x": 320,
+          "y": 260,
+          "points": [
+            0,
+            0,
+            80,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-6",
+          "type": "text",
+          "x": 360,
+          "y": 240,
+          "text": "стоит",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-7",
+          "type": "line",
+          "x": 400,
+          "y": 260,
+          "points": [
+            0,
+            0,
+            80,
+            -48
+          ],
+          "stroke": "#f39c12",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-8",
+          "type": "text",
+          "x": 452,
+          "y": 252,
+          "text": "медленно",
+          "fontSize": 7,
+          "fill": "#f39c12",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-9",
+          "type": "line",
+          "x": 480,
+          "y": 212,
+          "points": [
+            0,
+            0,
+            80,
+            -80
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-19-10",
+          "type": "text",
+          "x": 532,
+          "y": 188,
+          "text": "быстро",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-20",
+      "name": "Равноускоренное движение: x, v, a",
+      "elements": [
+        {
+          "id": "el-tab-20-1",
+          "type": "arrow",
+          "x": 288,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            100,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-2",
+          "type": "arrow",
+          "x": 300,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -112
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-3",
+          "type": "text",
+          "x": 344,
+          "y": 320,
+          "text": "x(t)",
+          "fontSize": 6,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-4",
+          "type": "text",
+          "x": 304,
+          "y": 296,
+          "text": "bezier curve",
+          "fontSize": 10,
+          "fill": "#999999",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-5",
+          "type": "arrow",
+          "x": 408,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            100,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-6",
+          "type": "arrow",
+          "x": 420,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -112
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-7",
+          "type": "text",
+          "x": 464,
+          "y": 320,
+          "text": "v(t)=x'(t)",
+          "fontSize": 6,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-8",
+          "type": "line",
+          "x": 424,
+          "y": 292,
+          "points": [
+            0,
+            0,
+            72,
+            -72
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-9",
+          "type": "arrow",
+          "x": 528,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            100,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-10",
+          "type": "arrow",
+          "x": 540,
+          "y": 312,
+          "points": [
+            0,
+            0,
+            0,
+            -112
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-11",
+          "type": "text",
+          "x": 584,
+          "y": 320,
+          "text": "a(t)=v'(t)",
+          "fontSize": 6,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-20-12",
+          "type": "line",
+          "x": 544,
+          "y": 252,
+          "points": [
+            0,
+            0,
+            72,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-21",
+      "name": "Закон сохранения импульса",
+      "elements": [
+        {
+          "id": "el-tab-21-1",
+          "type": "text",
+          "x": 240,
+          "y": 240,
+          "text": "до:",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-2",
+          "type": "circle",
+          "x": 300,
+          "y": 240,
+          "radius": 14,
+          "fill": "#a8d4f2",
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-3",
+          "type": "arrow",
+          "x": 316,
+          "y": 240,
+          "points": [
+            0,
+            0,
+            56,
+            0
+          ],
+          "stroke": "#2980b9",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-4",
+          "type": "text",
+          "x": 344,
+          "y": 224,
+          "text": "p1",
+          "fontSize": 7,
+          "fill": "#2980b9",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-5",
+          "type": "circle",
+          "x": 420,
+          "y": 240,
+          "radius": 14,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-6",
+          "type": "text",
+          "x": 240,
+          "y": 320,
+          "text": "после:",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-7",
+          "type": "circle",
+          "x": 320,
+          "y": 320,
+          "radius": 14,
+          "fill": "#a8d4f2",
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-8",
+          "type": "circle",
+          "x": 380,
+          "y": 320,
+          "radius": 14,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-9",
+          "type": "arrow",
+          "x": 396,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            56,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-10",
+          "type": "text",
+          "x": 424,
+          "y": 304,
+          "text": "p2",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-21-11",
+          "type": "text",
+          "x": 520,
+          "y": 280,
+          "text": "p1 + 0 = 0 + p2",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-22",
+      "name": "Одна сила — разное ускорение",
+      "elements": [
+        {
+          "id": "el-tab-22-1",
+          "type": "rect",
+          "x": 140,
+          "y": 280,
+          "width": 48,
+          "height": 40,
+          "fill": "transparent",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-2",
+          "type": "text",
+          "x": 164,
+          "y": 300,
+          "text": "малая m",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-3",
+          "type": "arrow",
+          "x": 188,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            40,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-4",
+          "type": "text",
+          "x": 208,
+          "y": 280,
+          "text": "F",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-5",
+          "type": "arrow",
+          "x": 240,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            120,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-6",
+          "type": "text",
+          "x": 300,
+          "y": 280,
+          "text": "большое a",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-7",
+          "type": "rect",
+          "x": 400,
+          "y": 272,
+          "width": 80,
+          "height": 56,
+          "fill": "transparent",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-8",
+          "type": "text",
+          "x": 440,
+          "y": 300,
+          "text": "большая m",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-9",
+          "type": "arrow",
+          "x": 480,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            40,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-10",
+          "type": "text",
+          "x": 500,
+          "y": 280,
+          "text": "F",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-11",
+          "type": "arrow",
+          "x": 532,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            28,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 2,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-22-12",
+          "type": "text",
+          "x": 548,
+          "y": 280,
+          "text": "малое a",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-23",
+      "name": "Притяжение и отталкивание зарядов",
+      "elements": [
+        {
+          "id": "el-tab-23-1",
+          "type": "circle",
+          "x": 180,
+          "y": 300,
+          "radius": 16,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-2",
+          "type": "text",
+          "x": 180,
+          "y": 300,
+          "text": "+",
+          "fontSize": 12,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-3",
+          "type": "circle",
+          "x": 280,
+          "y": 300,
+          "radius": 16,
+          "fill": "#a8c8f2",
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-4",
+          "type": "text",
+          "x": 280,
+          "y": 300,
+          "text": "-",
+          "fontSize": 12,
+          "fill": "#2980b9",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-5",
+          "type": "arrow",
+          "x": 200,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            60,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-6",
+          "type": "arrow",
+          "x": 260,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            -60,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-7",
+          "type": "text",
+          "x": 230,
+          "y": 276,
+          "text": "притяжение",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-8",
+          "type": "circle",
+          "x": 380,
+          "y": 300,
+          "radius": 16,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-9",
+          "type": "text",
+          "x": 380,
+          "y": 300,
+          "text": "+",
+          "fontSize": 12,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-10",
+          "type": "circle",
+          "x": 480,
+          "y": 300,
+          "radius": 16,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-11",
+          "type": "text",
+          "x": 480,
+          "y": 300,
+          "text": "+",
+          "fontSize": 12,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-12",
+          "type": "arrow",
+          "x": 400,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-13",
+          "type": "arrow",
+          "x": 460,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            -12,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-23-14",
+          "type": "text",
+          "x": 430,
+          "y": 276,
+          "text": "отталкивание",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-24",
+      "name": "Закон Кулона",
+      "elements": [
+        {
+          "id": "el-tab-24-1",
+          "type": "circle",
+          "x": 220,
+          "y": 300,
+          "radius": 12,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-2",
+          "type": "text",
+          "x": 220,
+          "y": 300,
+          "text": "+",
+          "fontSize": 10,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-3",
+          "type": "circle",
+          "x": 380,
+          "y": 300,
+          "radius": 12,
+          "fill": "#a8c8f2",
+          "stroke": "#2980b9",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-4",
+          "type": "text",
+          "x": 380,
+          "y": 300,
+          "text": "-",
+          "fontSize": 10,
+          "fill": "#2980b9",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-5",
+          "type": "line",
+          "x": 236,
+          "y": 332,
+          "points": [
+            0,
+            0,
+            128,
+            0
+          ],
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-6",
+          "type": "text",
+          "x": 300,
+          "y": 348,
+          "text": "r",
+          "fontSize": 8,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-7",
+          "type": "arrow",
+          "x": 236,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            32,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-8",
+          "type": "arrow",
+          "x": 364,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            -32,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-9",
+          "type": "text",
+          "x": 300,
+          "y": 280,
+          "text": "F",
+          "fontSize": 8,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-10",
+          "type": "text",
+          "x": 220,
+          "y": 320,
+          "text": "q1",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-24-11",
+          "type": "text",
+          "x": 380,
+          "y": 320,
+          "text": "q2",
+          "fontSize": 7,
+          "fill": "#000000",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-25",
+      "name": "Электрическое поле положительного заряда",
+      "elements": [
+        {
+          "id": "el-tab-25-1",
+          "type": "circle",
+          "x": 300,
+          "y": 300,
+          "radius": 12,
+          "fill": "#f2a8a8",
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-2",
+          "type": "text",
+          "x": 300,
+          "y": 300,
+          "text": "+",
+          "fontSize": 10,
+          "fill": "#c0392b",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-3",
+          "type": "arrow",
+          "x": 316,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            72,
+            0
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-4",
+          "type": "arrow",
+          "x": 311,
+          "y": 289,
+          "points": [
+            0,
+            0,
+            51,
+            -51
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-5",
+          "type": "arrow",
+          "x": 300,
+          "y": 284,
+          "points": [
+            0,
+            0,
+            0,
+            -72
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-6",
+          "type": "arrow",
+          "x": 289,
+          "y": 289,
+          "points": [
+            0,
+            0,
+            -51,
+            -51
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-7",
+          "type": "arrow",
+          "x": 284,
+          "y": 300,
+          "points": [
+            0,
+            0,
+            -72,
+            0
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-8",
+          "type": "arrow",
+          "x": 289,
+          "y": 311,
+          "points": [
+            0,
+            0,
+            -51,
+            51
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-9",
+          "type": "arrow",
+          "x": 300,
+          "y": 316,
+          "points": [
+            0,
+            0,
+            0,
+            72
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-10",
+          "type": "arrow",
+          "x": 311,
+          "y": 311,
+          "points": [
+            0,
+            0,
+            51,
+            51
+          ],
+          "stroke": "#d46a6a",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-25-11",
+          "type": "text",
+          "x": 300,
+          "y": 412,
+          "text": "силовые линии поля",
+          "fontSize": 7,
+          "fill": "#646464",
+          "draggable": true
+        }
+      ]
+    },
+    {
+      "id": "tab-26",
+      "name": "Электроны в проводе",
+      "elements": [
+        {
+          "id": "el-tab-26-1",
+          "type": "rect",
+          "x": 140,
+          "y": 288,
+          "width": 320,
+          "height": 24,
+          "fill": "#f5f5f5",
+          "stroke": "#b4b4b4",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-2",
+          "type": "circle",
+          "x": 160,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-3",
+          "type": "circle",
+          "x": 200,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-4",
+          "type": "circle",
+          "x": 240,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-5",
+          "type": "circle",
+          "x": 280,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-6",
+          "type": "circle",
+          "x": 320,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-7",
+          "type": "circle",
+          "x": 360,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-8",
+          "type": "circle",
+          "x": 400,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-9",
+          "type": "circle",
+          "x": 440,
+          "y": 300,
+          "radius": 5,
+          "fill": "#2980b9",
+          "stroke": "#2980b9",
+          "strokeWidth": 0,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-10",
+          "type": "arrow",
+          "x": 180,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-11",
+          "type": "arrow",
+          "x": 220,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-12",
+          "type": "arrow",
+          "x": 260,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-13",
+          "type": "arrow",
+          "x": 300,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-14",
+          "type": "arrow",
+          "x": 340,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-15",
+          "type": "arrow",
+          "x": 380,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-16",
+          "type": "arrow",
+          "x": 420,
+          "y": 320,
+          "points": [
+            0,
+            0,
+            12,
+            0
+          ],
+          "stroke": "#27ae60",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-17",
+          "type": "text",
+          "x": 300,
+          "y": 340,
+          "text": "все сдвигаются одновременно",
+          "fontSize": 7,
+          "fill": "#27ae60",
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-18",
+          "type": "arrow",
+          "x": 120,
+          "y": 276,
+          "points": [
+            0,
+            0,
+            360,
+            0
+          ],
+          "stroke": "#c0392b",
+          "strokeWidth": 1,
+          "draggable": true
+        },
+        {
+          "id": "el-tab-26-19",
+          "type": "text",
+          "x": 300,
+          "y": 260,
+          "text": "поле — мгновенно",
+          "fontSize": 7,
+          "fill": "#c0392b",
+          "draggable": true
+        }
+      ]
+    }
+  ],
+  "activeTab": "tab-1"
+}
