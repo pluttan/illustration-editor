@@ -1,0 +1,460 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 131,
+      "y": 330,
+      "points": [
+        0,
+        0,
+        407,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 142,
+      "y": 341,
+      "points": [
+        0,
+        0,
+        0,
+        -181.5
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 549,
+      "y": 335.5,
+      "text": "$Z$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 208,
+      "y": 154,
+      "text": "E ионизации, эВ",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 138.15,
+      "y": 266.75,
+      "points": [
+        0,
+        0,
+        7.7,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 122.75,
+      "y": 266.75,
+      "text": "10",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 138.15,
+      "y": 203.5,
+      "points": [
+        0,
+        0,
+        7.7,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 122.75,
+      "y": 203.5,
+      "text": "20",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 170.6,
+      "y": 243.98,
+      "points": [
+        0,
+        0,
+        28.6,
+        -69.57
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 199.2,
+      "y": 174.41,
+      "points": [
+        0,
+        0,
+        28.6,
+        121.44
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 227.8,
+      "y": 295.84,
+      "points": [
+        0,
+        0,
+        28.6,
+        -24.67
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 256.4,
+      "y": 271.18,
+      "points": [
+        0,
+        0,
+        28.6,
+        6.32
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 285,
+      "y": 277.5,
+      "points": [
+        0,
+        0,
+        28.6,
+        -18.97
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 313.6,
+      "y": 258.53,
+      "points": [
+        0,
+        0,
+        28.6,
+        -20.24
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "line",
+      "x": 342.2,
+      "y": 238.29,
+      "points": [
+        0,
+        0,
+        28.6,
+        5.69
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-16",
+      "type": "line",
+      "x": 370.8,
+      "y": 243.98,
+      "points": [
+        0,
+        0,
+        28.6,
+        -24.03
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "line",
+      "x": 399.4,
+      "y": 219.95,
+      "points": [
+        0,
+        0,
+        28.6,
+        -26.57
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-18",
+      "type": "line",
+      "x": 428,
+      "y": 193.38,
+      "points": [
+        0,
+        0,
+        28.6,
+        104.36
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-19",
+      "type": "line",
+      "x": 456.6,
+      "y": 297.74,
+      "points": [
+        0,
+        0,
+        28.6,
+        -15.81
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-20",
+      "type": "circle",
+      "x": 170.6,
+      "y": 243.98,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-21",
+      "type": "circle",
+      "x": 199.2,
+      "y": 174.41,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-22",
+      "type": "text",
+      "x": 199.2,
+      "y": 159.01,
+      "text": "He",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-23",
+      "type": "circle",
+      "x": 227.8,
+      "y": 295.84,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-24",
+      "type": "text",
+      "x": 227.8,
+      "y": 312.34,
+      "text": "Li",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-25",
+      "type": "circle",
+      "x": 256.4,
+      "y": 271.18,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-26",
+      "type": "circle",
+      "x": 285,
+      "y": 277.5,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-27",
+      "type": "circle",
+      "x": 313.6,
+      "y": 258.53,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-28",
+      "type": "circle",
+      "x": 342.2,
+      "y": 238.29,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-29",
+      "type": "circle",
+      "x": 370.8,
+      "y": 243.98,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-30",
+      "type": "circle",
+      "x": 399.4,
+      "y": 219.95,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-31",
+      "type": "circle",
+      "x": 428,
+      "y": 193.38,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-32",
+      "type": "text",
+      "x": 428,
+      "y": 177.98,
+      "text": "Ne",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-33",
+      "type": "circle",
+      "x": 456.6,
+      "y": 297.74,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-34",
+      "type": "text",
+      "x": 456.6,
+      "y": 314.24,
+      "text": "Na",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-35",
+      "type": "circle",
+      "x": 485.2,
+      "y": 281.93,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    }
+  ]
+}

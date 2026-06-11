@@ -1,0 +1,155 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 204,
+      "y": 269.5,
+      "radius": 14,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 215.2,
+      "y": 258.3,
+      "points": [
+        0,
+        0,
+        41.25,
+        -41.25
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#3b82f6",
+      "strokeHex": "#3b82f6"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 270.2,
+      "y": 200.55,
+      "text": "синий",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#3b82f6"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 204,
+      "y": 300,
+      "text": "≈2 нм",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 308.5,
+      "y": 269.5,
+      "radius": 19,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 323.7,
+      "y": 254.3,
+      "points": [
+        0,
+        0,
+        41.25,
+        -41.25
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#22c55e",
+      "strokeHex": "#22c55e"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 378.7,
+      "y": 196.55,
+      "text": "зелёный",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#22c55e"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 308.5,
+      "y": 305,
+      "text": "≈3 нм",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 429.5,
+      "y": 269.5,
+      "radius": 27,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 451.1,
+      "y": 247.9,
+      "points": [
+        0,
+        0,
+        41.25,
+        -41.25
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#ef4444",
+      "strokeHex": "#ef4444"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 506.1,
+      "y": 190.15,
+      "text": "красный",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#ef4444"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 429.5,
+      "y": 313,
+      "text": "≈6 нм",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

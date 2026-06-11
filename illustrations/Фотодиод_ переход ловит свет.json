@@ -1,0 +1,184 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 150,
+      "y": 232,
+      "width": 77,
+      "height": 88,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg",
+      "science": "red"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 188.5,
+      "y": 247.4,
+      "text": "p",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 227,
+      "y": 232,
+      "width": 66,
+      "height": 88,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "rect",
+      "x": 293,
+      "y": 232,
+      "width": 77,
+      "height": 88,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 331.5,
+      "y": 247.4,
+      "text": "n",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 260,
+      "y": 160.5,
+      "points": [
+        0,
+        0,
+        0,
+        67.1
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 301.25,
+      "y": 177,
+      "text": "фотон",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#b59308"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 271,
+      "y": 276,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 276.5,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        44,
+        0
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 249,
+      "y": 276,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 243.5,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        -44,
+        0
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 260,
+      "y": 300.75,
+      "text": "поле растаскивает",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "arrow",
+      "x": 337,
+      "y": 347.5,
+      "points": [
+        0,
+        0,
+        -154,
+        0
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 260,
+      "y": 366.75,
+      "text": "ток — в обратную сторону диода, пропорционален свету",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

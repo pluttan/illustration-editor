@@ -1,0 +1,226 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 130,
+      "y": 236.5,
+      "width": 88,
+      "height": 49.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-2",
+      "type": "rect",
+      "x": 130,
+      "y": 198,
+      "width": 88,
+      "height": 88,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 130,
+      "y": 236.5,
+      "points": [
+        0,
+        0,
+        88,
+        0
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 174,
+      "y": 306.9,
+      "text": "металл",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 174,
+      "y": 185.9,
+      "text": "зона полна наполовину",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "rect",
+      "x": 306,
+      "y": 269.5,
+      "width": 88,
+      "height": 44,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "rect",
+      "x": 306,
+      "y": 148.5,
+      "width": 88,
+      "height": 44,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 350,
+      "y": 336.6,
+      "text": "диэлектрик",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 350,
+      "y": 231,
+      "points": [
+        0,
+        0,
+        0,
+        34.65
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 350,
+      "y": 231,
+      "points": [
+        0,
+        0,
+        0,
+        -34.65
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 418.75,
+      "y": 231,
+      "text": "Eg велика",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "rect",
+      "x": 515,
+      "y": 247.5,
+      "width": 88,
+      "height": 44,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-13",
+      "type": "rect",
+      "x": 515,
+      "y": 170.5,
+      "width": 88,
+      "height": 44,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 559,
+      "y": 313.5,
+      "text": "полупроводник",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 559,
+      "y": 231,
+      "points": [
+        0,
+        0,
+        0,
+        13.2
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "chemistry"
+    },
+    {
+      "id": "el-16",
+      "type": "arrow",
+      "x": 559,
+      "y": 231,
+      "points": [
+        0,
+        0,
+        0,
+        -13.2
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "chemistry"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 627.75,
+      "y": 231,
+      "text": "Eg мала",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    }
+  ]
+}

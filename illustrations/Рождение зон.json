@@ -1,0 +1,326 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 130,
+      "y": 313.5,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 130,
+      "y": 242,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 130,
+      "y": 181.5,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 163,
+      "y": 346.5,
+      "text": "1 атом",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 251,
+      "y": 320.1,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 251,
+      "y": 255.2,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 251,
+      "y": 198,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 251,
+      "y": 315.7,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 251,
+      "y": 246.4,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 251,
+      "y": 187,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 251,
+      "y": 311.3,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 251,
+      "y": 237.6,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 251,
+      "y": 176,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 251,
+      "y": 306.9,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "line",
+      "x": 251,
+      "y": 228.8,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-16",
+      "type": "line",
+      "x": 251,
+      "y": 165,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 284,
+      "y": 346.5,
+      "text": "4 атома",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-18",
+      "type": "rect",
+      "x": 372,
+      "y": 304.7,
+      "width": 66,
+      "height": 17.6,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "rect",
+      "x": 372,
+      "y": 224.4,
+      "width": 66,
+      "height": 35.2,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-20",
+      "type": "rect",
+      "x": 372,
+      "y": 163.9,
+      "width": 66,
+      "height": 35.2,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-21",
+      "type": "text",
+      "x": 405,
+      "y": 346.5,
+      "text": "10²³ атомов",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-22",
+      "type": "text",
+      "x": 476.5,
+      "y": 181.5,
+      "text": "зона",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-23",
+      "type": "text",
+      "x": 512.25,
+      "y": 211.75,
+      "text": "запрещённая зона",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-24",
+      "type": "text",
+      "x": 476.5,
+      "y": 242,
+      "text": "зона",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

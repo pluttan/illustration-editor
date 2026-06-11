@@ -1,0 +1,1649 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 305,
+      "y": 199,
+      "width": 66,
+      "height": 121,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted",
+      "science": "electronics"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 338,
+      "y": 185.25,
+      "text": "барьер",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "bezier",
+      "x": 140,
+      "y": 265,
+      "points": [
+        0,
+        0,
+        0.69,
+        -1.35,
+        2.75,
+        -5.54,
+        4.13,
+        -8.13
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "bezier",
+      "x": 144.13,
+      "y": 256.87,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.59,
+        2.75,
+        -5.17,
+        4.13,
+        -7.4
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 148.25,
+      "y": 249.47,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.24,
+        2.75,
+        -4.33,
+        4.13,
+        -6.01
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 152.38,
+      "y": 243.46,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.68,
+        2.75,
+        -3.11,
+        4.12,
+        -4.09
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 156.5,
+      "y": 239.37,
+      "points": [
+        0,
+        0,
+        1.38,
+        -0.98,
+        2.75,
+        -1.61,
+        4.13,
+        -1.8
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 160.63,
+      "y": 237.57,
+      "points": [
+        0,
+        0,
+        1.38,
+        -0.19,
+        2.75,
+        0.03,
+        4.13,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 164.75,
+      "y": 238.22,
+      "points": [
+        0,
+        0,
+        1.38,
+        0.62,
+        2.75,
+        1.67,
+        4.13,
+        3.04
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 168.88,
+      "y": 241.26,
+      "points": [
+        0,
+        0,
+        1.38,
+        1.37,
+        2.75,
+        3.17,
+        4.12,
+        5.16
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 173,
+      "y": 246.42,
+      "points": [
+        0,
+        0,
+        1.38,
+        2,
+        2.75,
+        4.37,
+        4.13,
+        6.82
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 177.13,
+      "y": 253.25,
+      "points": [
+        0,
+        0,
+        1.38,
+        2.45,
+        2.75,
+        5.19,
+        4.12,
+        7.87
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 181.25,
+      "y": 261.12,
+      "points": [
+        0,
+        0,
+        1.38,
+        2.68,
+        2.75,
+        5.54,
+        4.12,
+        8.22
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 185.38,
+      "y": 269.34,
+      "points": [
+        0,
+        0,
+        1.38,
+        2.68,
+        2.75,
+        5.4,
+        4.13,
+        7.83
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-15",
+      "type": "bezier",
+      "x": 189.5,
+      "y": 277.17,
+      "points": [
+        0,
+        0,
+        1.38,
+        2.43,
+        2.75,
+        4.78,
+        4.12,
+        6.74
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "bezier",
+      "x": 193.63,
+      "y": 283.91,
+      "points": [
+        0,
+        0,
+        1.38,
+        1.97,
+        2.75,
+        3.73,
+        4.13,
+        5.05
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "bezier",
+      "x": 197.75,
+      "y": 288.97,
+      "points": [
+        0,
+        0,
+        1.37,
+        1.33,
+        2.75,
+        2.34,
+        4.12,
+        2.91
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-18",
+      "type": "bezier",
+      "x": 201.88,
+      "y": 291.88,
+      "points": [
+        0,
+        0,
+        1.37,
+        0.57,
+        2.75,
+        0.75,
+        4.12,
+        0.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "bezier",
+      "x": 206,
+      "y": 292.39,
+      "points": [
+        0,
+        0,
+        1.37,
+        -0.24,
+        2.75,
+        -0.91,
+        4.12,
+        -1.93
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-20",
+      "type": "bezier",
+      "x": 210.13,
+      "y": 290.46,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.02,
+        2.75,
+        -2.49,
+        4.13,
+        -4.21
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-21",
+      "type": "bezier",
+      "x": 214.25,
+      "y": 286.25,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.72,
+        2.75,
+        -3.85,
+        4.12,
+        -6.11
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-22",
+      "type": "bezier",
+      "x": 218.38,
+      "y": 280.14,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.26,
+        2.75,
+        -4.86,
+        4.12,
+        -7.46
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-23",
+      "type": "bezier",
+      "x": 222.5,
+      "y": 272.68,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.6,
+        2.75,
+        -5.44,
+        4.12,
+        -8.15
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-24",
+      "type": "bezier",
+      "x": 226.63,
+      "y": 264.54,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.71,
+        2.75,
+        -5.53,
+        4.12,
+        -8.11
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-25",
+      "type": "bezier",
+      "x": 230.75,
+      "y": 256.43,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.57,
+        2.75,
+        -5.13,
+        4.13,
+        -7.34
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-26",
+      "type": "bezier",
+      "x": 234.88,
+      "y": 249.09,
+      "points": [
+        0,
+        0,
+        1.37,
+        -2.21,
+        2.75,
+        -4.27,
+        4.12,
+        -5.92
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-27",
+      "type": "bezier",
+      "x": 239,
+      "y": 243.17,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.65,
+        2.75,
+        -3.03,
+        4.12,
+        -3.97
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-28",
+      "type": "bezier",
+      "x": 243.13,
+      "y": 239.21,
+      "points": [
+        0,
+        0,
+        1.37,
+        -0.94,
+        2.75,
+        -1.52,
+        4.12,
+        -1.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-29",
+      "type": "bezier",
+      "x": 247.25,
+      "y": 237.54,
+      "points": [
+        0,
+        0,
+        1.37,
+        -0.15,
+        2.75,
+        0.13,
+        4.12,
+        0.79
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-30",
+      "type": "bezier",
+      "x": 251.38,
+      "y": 238.33,
+      "points": [
+        0,
+        0,
+        1.37,
+        0.66,
+        2.75,
+        1.76,
+        4.13,
+        3.17
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-31",
+      "type": "bezier",
+      "x": 255.5,
+      "y": 241.5,
+      "points": [
+        0,
+        0,
+        1.37,
+        1.41,
+        2.75,
+        3.24,
+        4.12,
+        5.27
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-32",
+      "type": "bezier",
+      "x": 259.63,
+      "y": 246.77,
+      "points": [
+        0,
+        0,
+        1.37,
+        2.03,
+        2.75,
+        4.43,
+        4.13,
+        6.9
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-33",
+      "type": "bezier",
+      "x": 263.75,
+      "y": 253.67,
+      "points": [
+        0,
+        0,
+        1.37,
+        2.47,
+        2.75,
+        5.22,
+        4.13,
+        7.91
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-34",
+      "type": "bezier",
+      "x": 267.88,
+      "y": 261.58,
+      "points": [
+        0,
+        0,
+        1.37,
+        2.69,
+        2.75,
+        5.55,
+        4.12,
+        8.22
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-35",
+      "type": "bezier",
+      "x": 272,
+      "y": 269.79,
+      "points": [
+        0,
+        0,
+        1.37,
+        2.67,
+        2.75,
+        5.38,
+        4.13,
+        7.79
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-36",
+      "type": "bezier",
+      "x": 276.13,
+      "y": 277.58,
+      "points": [
+        0,
+        0,
+        1.37,
+        2.41,
+        2.75,
+        4.73,
+        4.12,
+        6.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-37",
+      "type": "bezier",
+      "x": 280.25,
+      "y": 284.25,
+      "points": [
+        0,
+        0,
+        1.37,
+        1.93,
+        2.75,
+        3.66,
+        4.13,
+        4.95
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-38",
+      "type": "bezier",
+      "x": 284.38,
+      "y": 289.19,
+      "points": [
+        0,
+        0,
+        1.37,
+        1.29,
+        2.75,
+        2.26,
+        4.13,
+        2.78
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-39",
+      "type": "bezier",
+      "x": 288.5,
+      "y": 291.98,
+      "points": [
+        0,
+        0,
+        1.37,
+        0.53,
+        2.75,
+        0.66,
+        4.12,
+        0.37
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-40",
+      "type": "bezier",
+      "x": 292.63,
+      "y": 292.35,
+      "points": [
+        0,
+        0,
+        1.37,
+        -0.28,
+        2.75,
+        -1,
+        4.13,
+        -2.07
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-41",
+      "type": "bezier",
+      "x": 296.75,
+      "y": 290.28,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.07,
+        2.75,
+        -2.57,
+        4.12,
+        -4.33
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-42",
+      "type": "bezier",
+      "x": 300.88,
+      "y": 285.95,
+      "points": [
+        0,
+        0,
+        1.37,
+        -1.75,
+        3.44,
+        -5.17,
+        4.13,
+        -6.2
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-43",
+      "type": "bezier",
+      "x": 305,
+      "y": 279.76,
+      "points": [
+        0,
+        0,
+        0.92,
+        -0.49,
+        3.67,
+        -2.04,
+        5.5,
+        -2.91
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-44",
+      "type": "bezier",
+      "x": 310.5,
+      "y": 276.84,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.88,
+        3.67,
+        -1.64,
+        5.5,
+        -2.34
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-45",
+      "type": "bezier",
+      "x": 316,
+      "y": 274.5,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.7,
+        3.67,
+        -1.31,
+        5.5,
+        -1.88
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-46",
+      "type": "bezier",
+      "x": 321.5,
+      "y": 272.63,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.56,
+        3.67,
+        -1.05,
+        5.5,
+        -1.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-47",
+      "type": "bezier",
+      "x": 327,
+      "y": 271.12,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.45,
+        3.67,
+        -0.85,
+        5.5,
+        -1.21
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-48",
+      "type": "bezier",
+      "x": 332.5,
+      "y": 269.91,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.36,
+        3.67,
+        -0.68,
+        5.5,
+        -0.97
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-49",
+      "type": "bezier",
+      "x": 338,
+      "y": 268.94,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.29,
+        3.67,
+        -0.54,
+        5.5,
+        -0.78
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-50",
+      "type": "bezier",
+      "x": 343.5,
+      "y": 268.16,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.23,
+        3.67,
+        -0.44,
+        5.5,
+        -0.62
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-51",
+      "type": "bezier",
+      "x": 349,
+      "y": 267.54,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.19,
+        3.67,
+        -0.35,
+        5.5,
+        -0.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-52",
+      "type": "bezier",
+      "x": 354.5,
+      "y": 267.04,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.15,
+        3.67,
+        -0.28,
+        5.5,
+        -0.4
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-53",
+      "type": "bezier",
+      "x": 360,
+      "y": 266.63,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.12,
+        3.67,
+        -0.23,
+        5.5,
+        -0.32
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-54",
+      "type": "bezier",
+      "x": 365.5,
+      "y": 266.31,
+      "points": [
+        0,
+        0,
+        1.83,
+        -0.1,
+        4.58,
+        -0.22,
+        5.5,
+        -0.26
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-55",
+      "type": "bezier",
+      "x": 371,
+      "y": 266.05,
+      "points": [
+        0,
+        0,
+        0.76,
+        -0.1,
+        3.06,
+        -0.39,
+        4.58,
+        -0.6
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-56",
+      "type": "bezier",
+      "x": 375.58,
+      "y": 265.45,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.21,
+        3.06,
+        -0.44,
+        4.58,
+        -0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-57",
+      "type": "bezier",
+      "x": 380.17,
+      "y": 264.8,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.21,
+        3.06,
+        -0.43,
+        4.58,
+        -0.63
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-58",
+      "type": "bezier",
+      "x": 384.75,
+      "y": 264.18,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.19,
+        3.06,
+        -0.38,
+        4.58,
+        -0.54
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-59",
+      "type": "bezier",
+      "x": 389.33,
+      "y": 263.64,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.15,
+        3.06,
+        -0.29,
+        4.58,
+        -0.39
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-60",
+      "type": "bezier",
+      "x": 393.92,
+      "y": 263.25,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.1,
+        3.06,
+        -0.17,
+        4.58,
+        -0.19
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-61",
+      "type": "bezier",
+      "x": 398.5,
+      "y": 263.06,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.03,
+        3.06,
+        -0.02,
+        4.58,
+        0.02
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-62",
+      "type": "bezier",
+      "x": 403.08,
+      "y": 263.08,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.04,
+        3.06,
+        0.12,
+        4.58,
+        0.23
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-63",
+      "type": "bezier",
+      "x": 407.67,
+      "y": 263.31,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.11,
+        3.06,
+        0.25,
+        4.58,
+        0.42
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-64",
+      "type": "bezier",
+      "x": 412.25,
+      "y": 263.72,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.16,
+        3.06,
+        0.36,
+        4.58,
+        0.56
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-65",
+      "type": "bezier",
+      "x": 416.83,
+      "y": 264.28,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.2,
+        3.06,
+        0.42,
+        4.58,
+        0.64
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-66",
+      "type": "bezier",
+      "x": 421.42,
+      "y": 264.92,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.21,
+        3.06,
+        0.44,
+        4.58,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-67",
+      "type": "bezier",
+      "x": 426,
+      "y": 265.56,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.2,
+        3.06,
+        0.41,
+        4.58,
+        0.58
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-68",
+      "type": "bezier",
+      "x": 430.58,
+      "y": 266.15,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.17,
+        3.06,
+        0.33,
+        4.58,
+        0.46
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-69",
+      "type": "bezier",
+      "x": 435.17,
+      "y": 266.61,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.12,
+        3.06,
+        0.22,
+        4.58,
+        0.28
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-70",
+      "type": "bezier",
+      "x": 439.75,
+      "y": 266.89,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.06,
+        3.06,
+        0.08,
+        4.58,
+        0.07
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-71",
+      "type": "bezier",
+      "x": 444.33,
+      "y": 266.96,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.01,
+        3.06,
+        -0.06,
+        4.58,
+        -0.14
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-72",
+      "type": "bezier",
+      "x": 448.92,
+      "y": 266.82,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.08,
+        3.06,
+        -0.2,
+        4.58,
+        -0.34
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-73",
+      "type": "bezier",
+      "x": 453.5,
+      "y": 266.47,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.14,
+        3.06,
+        -0.32,
+        4.58,
+        -0.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-74",
+      "type": "bezier",
+      "x": 458.08,
+      "y": 265.97,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.19,
+        3.06,
+        -0.4,
+        4.58,
+        -0.61
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-75",
+      "type": "bezier",
+      "x": 462.67,
+      "y": 265.36,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.21,
+        3.06,
+        -0.44,
+        4.58,
+        -0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-76",
+      "type": "bezier",
+      "x": 467.25,
+      "y": 264.71,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.21,
+        3.06,
+        -0.43,
+        4.58,
+        -0.62
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-77",
+      "type": "bezier",
+      "x": 471.83,
+      "y": 264.09,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.19,
+        3.06,
+        -0.37,
+        4.58,
+        -0.52
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-78",
+      "type": "bezier",
+      "x": 476.42,
+      "y": 263.57,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.15,
+        3.06,
+        -0.27,
+        4.58,
+        -0.36
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-79",
+      "type": "bezier",
+      "x": 481,
+      "y": 263.21,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.09,
+        3.06,
+        -0.14,
+        4.58,
+        -0.16
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-80",
+      "type": "bezier",
+      "x": 485.58,
+      "y": 263.04,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.02,
+        3.06,
+        0,
+        4.58,
+        0.05
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-81",
+      "type": "bezier",
+      "x": 490.17,
+      "y": 263.1,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.05,
+        3.06,
+        0.14,
+        4.58,
+        0.26
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-82",
+      "type": "bezier",
+      "x": 494.75,
+      "y": 263.36,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.12,
+        3.06,
+        0.27,
+        4.58,
+        0.44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-83",
+      "type": "bezier",
+      "x": 499.33,
+      "y": 263.8,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.17,
+        3.06,
+        0.37,
+        4.58,
+        0.57
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-84",
+      "type": "bezier",
+      "x": 503.92,
+      "y": 264.37,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.2,
+        3.82,
+        0.54,
+        4.58,
+        0.64
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-85",
+      "type": "text",
+      "x": 222.5,
+      "y": 313.4,
+      "text": "волна электрона",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-86",
+      "type": "text",
+      "x": 448,
+      "y": 295.25,
+      "text": "прошедший хвост",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    }
+  ]
+}

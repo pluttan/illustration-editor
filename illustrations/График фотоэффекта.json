@@ -1,0 +1,163 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 150,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        297,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 150,
+      "y": 375,
+      "points": [
+        0,
+        0,
+        0,
+        -198
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 460.75,
+      "y": 323.85,
+      "text": "$ν$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 167.6,
+      "y": 170.4,
+      "text": "$E$ кин",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 183,
+      "y": 361.25,
+      "points": [
+        0,
+        0,
+        58.3,
+        -41.25
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "dash": true
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 241.3,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        172.7,
+        -121
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 241.3,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        19.25
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 241.3,
+      "y": 354.1,
+      "text": "порог ν₀ = A/h",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 326,
+      "y": 260.6,
+      "points": [
+        0,
+        0,
+        38.5,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 364.5,
+      "y": 260.6,
+      "points": [
+        0,
+        0,
+        0,
+        -26.95
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 400.25,
+      "y": 251.25,
+      "text": "наклон = h",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 206.1,
+      "y": 371.15,
+      "text": "$−A$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

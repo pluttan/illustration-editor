@@ -1,0 +1,135 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 220,
+      "y": 330,
+      "points": [
+        0,
+        0,
+        121,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 220,
+      "y": 250.25,
+      "points": [
+        0,
+        0,
+        121,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 220,
+      "y": 203.5,
+      "points": [
+        0,
+        0,
+        121,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "arrow",
+      "x": 242,
+      "y": 330,
+      "points": [
+        0,
+        0,
+        0,
+        -126.5
+      ],
+      "strokeWidth": 2.4,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#3b82f6",
+      "strokeHex": "#3b82f6"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 184.25,
+      "y": 266.75,
+      "text": "синий фотон",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#3b82f6"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 280.5,
+      "y": 203.5,
+      "points": [
+        0,
+        0,
+        0,
+        46.75
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 330,
+      "y": 225.5,
+      "text": "в тепло",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 319,
+      "y": 250.25,
+      "points": [
+        0,
+        0,
+        0,
+        79.75
+      ],
+      "strokeWidth": 2.4,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 385,
+      "y": 290.4,
+      "text": "жёлтый фотон",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#b59308"
+    }
+  ]
+}

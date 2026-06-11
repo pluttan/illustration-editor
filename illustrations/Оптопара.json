@@ -1,0 +1,253 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 140,
+      "y": 210,
+      "width": 253,
+      "height": 110,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 107,
+      "y": 265,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 173,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        0,
+        33
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 173,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        27.5,
+        16.5
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 173,
+      "y": 281.5,
+      "points": [
+        0,
+        0,
+        27.5,
+        -16.5
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 200.5,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        0,
+        33
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 186.75,
+      "y": 223.75,
+      "text": "светодиод",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "arrow",
+      "x": 219.75,
+      "y": 254,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.8,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 219.75,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 1.8,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 305,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        0,
+        33
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 305,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        27.5,
+        16.5
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 305,
+      "y": 281.5,
+      "points": [
+        0,
+        0,
+        27.5,
+        -16.5
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 332.5,
+      "y": 248.5,
+      "points": [
+        0,
+        0,
+        0,
+        33
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 332.5,
+      "y": 265,
+      "points": [
+        0,
+        0,
+        93.5,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 343.5,
+      "y": 223.75,
+      "text": "фотодиод",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "text",
+      "x": 104.25,
+      "y": 295.25,
+      "text": "сеть, помехи",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 417.75,
+      "y": 295.25,
+      "text": "нежная логика",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-18",
+      "type": "text",
+      "x": 266.5,
+      "y": 344.75,
+      "text": "электрической связи нет — только свет",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

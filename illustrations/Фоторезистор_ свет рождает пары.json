@@ -1,0 +1,203 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 150,
+      "y": 270.5,
+      "width": 165,
+      "height": 49.5,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 117,
+      "y": 295.25,
+      "points": [
+        0,
+        0,
+        33,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 315,
+      "y": 295.25,
+      "points": [
+        0,
+        0,
+        33,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "arrow",
+      "x": 188.5,
+      "y": 210,
+      "points": [
+        0,
+        0,
+        0,
+        56.1
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 232.5,
+      "y": 210,
+      "points": [
+        0,
+        0,
+        0,
+        56.1
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 276.5,
+      "y": 210,
+      "points": [
+        0,
+        0,
+        0,
+        56.1
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 232.5,
+      "y": 196.25,
+      "text": "свет",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#b59308"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 202.25,
+      "y": 295.25,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 199.5,
+      "y": 295.25,
+      "points": [
+        0,
+        0,
+        -22,
+        0
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 218.75,
+      "y": 295.25,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 222.6,
+      "y": 295.25,
+      "points": [
+        0,
+        0,
+        23.65,
+        0
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 268.25,
+      "y": 285.9,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-13",
+      "type": "circle",
+      "x": 284.75,
+      "y": 285.9,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 232.5,
+      "y": 344.75,
+      "text": "каждый фотон рождает пару — сопротивление падает",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

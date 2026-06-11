@@ -85,10 +85,11 @@ function elementsToSVG(elements, theme, science) {
   const bb = computeBBox(elements)
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${bb.w}pt" height="${bb.h}pt" viewBox="${bb.x} ${bb.y} ${bb.w} ${bb.h}">`
   for (const el of elements) {
-    // Per-element science override lets one figure mix accent hues
+    // Per-element science override lets one figure mix accent hues.
+    // fillHex/strokeHex are raw theme-independent colors (physical light colors etc.)
     const sci = el.science || science
-    const fill = resolveRole(el.fillRole, theme, sci)
-    const stroke = resolveRole(el.strokeRole, theme, sci)
+    const fill = el.fillHex ? hexToRgba(el.fillHex, 1) : resolveRole(el.fillRole, theme, sci)
+    const stroke = el.strokeHex ? hexToRgba(el.strokeHex, 1) : resolveRole(el.strokeRole, theme, sci)
     const sw = el.strokeWidth ?? 1
     const dashAttr = el.dash ? ' stroke-dasharray="5 4"' : ''
     const sAttr = stroke ? `stroke="${stroke}" stroke-width="${sw}"${dashAttr}` : ''

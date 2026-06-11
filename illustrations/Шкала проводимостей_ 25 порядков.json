@@ -1,0 +1,345 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 110.85,
+      "y": 330,
+      "points": [
+        0,
+        0,
+        438.24,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 133.73,
+      "y": 333.85,
+      "points": [
+        0,
+        0,
+        0,
+        -7.7
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 133.73,
+      "y": 347.6,
+      "text": "10⁵",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 221.73,
+      "y": 333.85,
+      "points": [
+        0,
+        0,
+        0,
+        -7.7
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 221.73,
+      "y": 347.6,
+      "text": "1",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 309.73,
+      "y": 333.85,
+      "points": [
+        0,
+        0,
+        0,
+        -7.7
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 309.73,
+      "y": 347.6,
+      "text": "10⁻⁵",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 397.73,
+      "y": 333.85,
+      "points": [
+        0,
+        0,
+        0,
+        -7.7
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 397.73,
+      "y": 347.6,
+      "text": "10⁻¹⁰",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 485.73,
+      "y": 333.85,
+      "points": [
+        0,
+        0,
+        0,
+        -7.7
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 485.73,
+      "y": 347.6,
+      "text": "10⁻¹⁵",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 571,
+      "y": 347.6,
+      "text": "См/см",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "circle",
+      "x": 120,
+      "y": 330,
+      "radius": 4,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 120,
+      "y": 324.5,
+      "points": [
+        0,
+        0,
+        0,
+        -18.7
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 120,
+      "y": 295.9,
+      "text": "медь",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-16",
+      "type": "circle",
+      "x": 216.45,
+      "y": 330,
+      "radius": 4,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-17",
+      "type": "line",
+      "x": 216.45,
+      "y": 324.5,
+      "points": [
+        0,
+        0,
+        0,
+        -39.6
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-18",
+      "type": "text",
+      "x": 216.45,
+      "y": 275,
+      "text": "Si легированный",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-19",
+      "type": "circle",
+      "x": 318.88,
+      "y": 330,
+      "radius": 4,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-20",
+      "type": "line",
+      "x": 318.88,
+      "y": 324.5,
+      "points": [
+        0,
+        0,
+        0,
+        -18.7
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-21",
+      "type": "text",
+      "x": 318.88,
+      "y": 295.9,
+      "text": "Si чистый",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-22",
+      "type": "circle",
+      "x": 432.93,
+      "y": 330,
+      "radius": 4,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "default"
+    },
+    {
+      "id": "el-23",
+      "type": "line",
+      "x": 432.93,
+      "y": 324.5,
+      "points": [
+        0,
+        0,
+        0,
+        -39.6
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-24",
+      "type": "text",
+      "x": 432.93,
+      "y": 275,
+      "text": "стекло",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "default"
+    },
+    {
+      "id": "el-25",
+      "type": "circle",
+      "x": 538.53,
+      "y": 330,
+      "radius": 4,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-26",
+      "type": "line",
+      "x": 538.53,
+      "y": 324.5,
+      "points": [
+        0,
+        0,
+        0,
+        -18.7
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-27",
+      "type": "text",
+      "x": 538.53,
+      "y": 295.9,
+      "text": "кварц",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    }
+  ]
+}

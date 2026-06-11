@@ -1,0 +1,274 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 150,
+      "y": 226.5,
+      "width": 220,
+      "height": 27.5,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 169.25,
+      "y": 240.25,
+      "text": "n",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 150,
+      "y": 254,
+      "width": 220,
+      "height": 66,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg",
+      "science": "red"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 169.25,
+      "y": 289.75,
+      "text": "p",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 216,
+      "y": 155,
+      "points": [
+        0,
+        0,
+        0,
+        66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 260,
+      "y": 155,
+      "points": [
+        0,
+        0,
+        0,
+        66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 304,
+      "y": 155,
+      "points": [
+        0,
+        0,
+        0,
+        66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg",
+      "fillHex": "#eab308",
+      "strokeHex": "#eab308"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 260,
+      "y": 141.25,
+      "text": "солнце",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg",
+      "fillHex": "#b59308"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 370,
+      "y": 240.25,
+      "points": [
+        0,
+        0,
+        71.5,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 441.5,
+      "y": 240.25,
+      "points": [
+        0,
+        0,
+        0,
+        22
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "circle",
+      "x": 441.5,
+      "y": 278.75,
+      "radius": 16,
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "line",
+      "x": 430.5,
+      "y": 289.75,
+      "points": [
+        0,
+        0,
+        22,
+        -22
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 430.5,
+      "y": 267.75,
+      "points": [
+        0,
+        0,
+        22,
+        22
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "line",
+      "x": 441.5,
+      "y": 295.25,
+      "points": [
+        0,
+        0,
+        0,
+        19.25
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "line",
+      "x": 441.5,
+      "y": 314.5,
+      "points": [
+        0,
+        0,
+        -71.5,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "text",
+      "x": 394.75,
+      "y": 223.75,
+      "text": "−",
+      "fontSize": 13,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 394.75,
+      "y": 298,
+      "text": "+",
+      "fontSize": 13,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-18",
+      "type": "arrow",
+      "x": 400.25,
+      "y": 240.25,
+      "points": [
+        0,
+        0,
+        24.75,
+        0
+      ],
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-19",
+      "type": "text",
+      "x": 491,
+      "y": 278.75,
+      "text": "лампочка",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-20",
+      "type": "text",
+      "x": 260,
+      "y": 344.75,
+      "text": "сам по себе: 0.5–0.6 В на элемент",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

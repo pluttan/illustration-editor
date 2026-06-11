@@ -1,0 +1,255 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 113,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        330,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 300,
+      "y": 421,
+      "points": [
+        0,
+        0,
+        0,
+        -220
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 452.9,
+      "y": 303.85,
+      "text": "$U$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 308.8,
+      "y": 195.5,
+      "text": "$I$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 300,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        8.25,
+        -0.46,
+        36.67,
+        -0.46,
+        49.5,
+        -2.75
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 349.5,
+      "y": 297.25,
+      "points": [
+        0,
+        0,
+        12.83,
+        -2.29,
+        20.17,
+        -4.12,
+        27.5,
+        -11
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 377,
+      "y": 286.25,
+      "points": [
+        0,
+        0,
+        7.33,
+        -6.87,
+        11.92,
+        -17.88,
+        16.5,
+        -30.25
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 393.5,
+      "y": 256,
+      "points": [
+        0,
+        0,
+        4.58,
+        -12.38,
+        9.17,
+        -36.67,
+        11,
+        -44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 300,
+      "y": 302.75,
+      "points": [
+        0,
+        0,
+        -132,
+        1.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 168,
+      "y": 304.4,
+      "points": [
+        0,
+        0,
+        -1.37,
+        2.48,
+        -5.96,
+        5.5,
+        -8.25,
+        14.85
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 159.75,
+      "y": 319.25,
+      "points": [
+        0,
+        0,
+        -2.29,
+        9.35,
+        -4.13,
+        26.13,
+        -5.5,
+        41.25
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 154.25,
+      "y": 360.5,
+      "points": [
+        0,
+        0,
+        -1.37,
+        15.12,
+        -2.29,
+        41.25,
+        -2.75,
+        49.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 159.75,
+      "y": 300,
+      "points": [
+        0,
+        0,
+        0,
+        -6.6
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "text",
+      "x": 157,
+      "y": 282.4,
+      "text": "$U$ проб",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 220.25,
+      "y": 374.25,
+      "text": "пробой: напряжение стоит,",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-16",
+      "type": "text",
+      "x": 214.75,
+      "y": 389.65,
+      "text": "ток — любой",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    }
+  ]
+}

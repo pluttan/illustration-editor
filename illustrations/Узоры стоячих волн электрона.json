@@ -1,0 +1,115 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 160,
+      "y": 320,
+      "radius": 30.250000000000004,
+      "strokeWidth": 2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 160,
+      "y": 320,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 160,
+      "y": 383.25,
+      "text": "$n=1$: сфера",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 325,
+      "y": 320,
+      "radius": 46.75,
+      "strokeWidth": 2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 325,
+      "y": 320,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 325,
+      "y": 388.75,
+      "text": "$n=2$: сфера",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 501,
+      "y": 295.25,
+      "radius": 22,
+      "strokeWidth": 2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 501,
+      "y": 344.75,
+      "radius": 22,
+      "strokeWidth": 2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 501,
+      "y": 320,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 501,
+      "y": 388.75,
+      "text": "$n=2$: гантель (×3)",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

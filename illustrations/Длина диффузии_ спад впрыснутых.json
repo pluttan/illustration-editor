@@ -1,0 +1,613 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 140,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        297,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 148.25,
+      "y": 328.25,
+      "points": [
+        0,
+        0,
+        0,
+        -151.25
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 448,
+      "y": 323.85,
+      "text": "$x$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 228,
+      "y": 175.9,
+      "text": "сколько носителей доживает",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 148.25,
+      "y": 211.29,
+      "points": [
+        0,
+        0,
+        1.78,
+        2.35,
+        7.12,
+        9.69,
+        10.68,
+        14.08
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 158.93,
+      "y": 225.38,
+      "points": [
+        0,
+        0,
+        3.56,
+        4.39,
+        7.12,
+        8.44,
+        10.68,
+        12.26
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 169.62,
+      "y": 237.63,
+      "points": [
+        0,
+        0,
+        3.56,
+        3.82,
+        7.12,
+        7.34,
+        10.68,
+        10.67
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 180.3,
+      "y": 248.3,
+      "points": [
+        0,
+        0,
+        3.56,
+        3.33,
+        7.12,
+        6.39,
+        10.68,
+        9.29
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 190.98,
+      "y": 257.59,
+      "points": [
+        0,
+        0,
+        3.56,
+        2.9,
+        7.12,
+        5.56,
+        10.68,
+        8.08
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 201.66,
+      "y": 265.68,
+      "points": [
+        0,
+        0,
+        3.56,
+        2.52,
+        7.12,
+        4.84,
+        10.68,
+        7.04
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 212.35,
+      "y": 272.71,
+      "points": [
+        0,
+        0,
+        3.56,
+        2.19,
+        7.12,
+        4.22,
+        10.68,
+        6.13
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 223.03,
+      "y": 278.84,
+      "points": [
+        0,
+        0,
+        3.56,
+        1.91,
+        7.12,
+        3.67,
+        10.68,
+        5.33
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 233.71,
+      "y": 284.17,
+      "points": [
+        0,
+        0,
+        3.56,
+        1.66,
+        7.12,
+        3.19,
+        10.68,
+        4.64
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 244.39,
+      "y": 288.81,
+      "points": [
+        0,
+        0,
+        3.56,
+        1.45,
+        7.12,
+        2.78,
+        10.68,
+        4.04
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-15",
+      "type": "bezier",
+      "x": 255.08,
+      "y": 292.85,
+      "points": [
+        0,
+        0,
+        3.56,
+        1.26,
+        7.12,
+        2.42,
+        10.68,
+        3.52
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "bezier",
+      "x": 265.76,
+      "y": 296.37,
+      "points": [
+        0,
+        0,
+        3.56,
+        1.1,
+        7.12,
+        2.11,
+        10.68,
+        3.06
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "bezier",
+      "x": 276.44,
+      "y": 299.43,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.95,
+        7.12,
+        1.83,
+        10.68,
+        2.66
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-18",
+      "type": "bezier",
+      "x": 287.13,
+      "y": 302.1,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.83,
+        7.12,
+        1.6,
+        10.68,
+        2.32
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "bezier",
+      "x": 297.81,
+      "y": 304.41,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.72,
+        7.12,
+        1.39,
+        10.68,
+        2.02
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-20",
+      "type": "bezier",
+      "x": 308.49,
+      "y": 306.43,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.63,
+        7.12,
+        1.21,
+        10.68,
+        1.76
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-21",
+      "type": "bezier",
+      "x": 319.17,
+      "y": 308.19,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.55,
+        7.12,
+        1.05,
+        10.68,
+        1.53
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-22",
+      "type": "bezier",
+      "x": 329.86,
+      "y": 309.72,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.48,
+        7.12,
+        0.92,
+        10.68,
+        1.33
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-23",
+      "type": "bezier",
+      "x": 340.54,
+      "y": 311.05,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.42,
+        7.12,
+        0.8,
+        10.68,
+        1.16
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-24",
+      "type": "bezier",
+      "x": 351.22,
+      "y": 312.21,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.36,
+        7.12,
+        0.69,
+        10.68,
+        1.01
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-25",
+      "type": "bezier",
+      "x": 361.9,
+      "y": 313.22,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.31,
+        7.12,
+        0.6,
+        10.68,
+        0.88
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-26",
+      "type": "bezier",
+      "x": 372.59,
+      "y": 314.1,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.27,
+        7.12,
+        0.53,
+        10.68,
+        0.76
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-27",
+      "type": "bezier",
+      "x": 383.27,
+      "y": 314.86,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.24,
+        7.12,
+        0.46,
+        10.68,
+        0.67
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-28",
+      "type": "bezier",
+      "x": 393.95,
+      "y": 315.53,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.21,
+        7.12,
+        0.4,
+        10.68,
+        0.58
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-29",
+      "type": "bezier",
+      "x": 404.63,
+      "y": 316.11,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.18,
+        7.12,
+        0.35,
+        10.68,
+        0.5
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-30",
+      "type": "bezier",
+      "x": 415.32,
+      "y": 316.61,
+      "points": [
+        0,
+        0,
+        3.56,
+        0.16,
+        8.9,
+        0.37,
+        10.68,
+        0.44
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-31",
+      "type": "line",
+      "x": 217,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -44.51
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-32",
+      "type": "line",
+      "x": 148.25,
+      "y": 275.49,
+      "points": [
+        0,
+        0,
+        68.75,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-33",
+      "type": "text",
+      "x": 217,
+      "y": 336.5,
+      "text": "$L$ диф",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-34",
+      "type": "text",
+      "x": 109.75,
+      "y": 275.49,
+      "text": "уровень 1/e",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-35",
+      "type": "text",
+      "x": 354.5,
+      "y": 262.25,
+      "text": "дальше — рекомбинировали",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "bezier",
+      "x": 140,
+      "y": 170.57,
+      "points": [
+        0,
+        0,
+        1.72,
+        0.01,
+        6.88,
+        0.02,
+        10.31,
+        0.04
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-2",
+      "type": "bezier",
+      "x": 150.31,
+      "y": 170.61,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.03,
+        10.31,
+        0.06
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-3",
+      "type": "bezier",
+      "x": 160.63,
+      "y": 170.67,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.05,
+        10.31,
+        0.09
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-4",
+      "type": "bezier",
+      "x": 170.94,
+      "y": 170.76,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.04,
+        6.88,
+        0.08,
+        10.31,
+        0.13
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 181.25,
+      "y": 170.89,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.05,
+        6.88,
+        0.11,
+        10.31,
+        0.2
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 191.56,
+      "y": 171.08,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.08,
+        6.88,
+        0.17,
+        10.31,
+        0.29
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 201.88,
+      "y": 171.37,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.12,
+        6.88,
+        0.26,
+        10.31,
+        0.44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 212.19,
+      "y": 171.81,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.18,
+        6.88,
+        0.38,
+        10.31,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 222.5,
+      "y": 172.46,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.27,
+        6.88,
+        0.56,
+        10.31,
+        0.95
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 232.81,
+      "y": 173.4,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.39,
+        6.88,
+        0.82,
+        10.31,
+        1.37
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 243.13,
+      "y": 174.77,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.55,
+        6.88,
+        1.17,
+        10.31,
+        1.93
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 253.44,
+      "y": 176.7,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.77,
+        6.88,
+        1.63,
+        10.31,
+        2.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 263.75,
+      "y": 179.36,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.03,
+        6.88,
+        2.19,
+        10.31,
+        3.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 274.06,
+      "y": 182.87,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.32,
+        6.88,
+        2.8,
+        10.31,
+        4.39
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-15",
+      "type": "bezier",
+      "x": 284.38,
+      "y": 187.26,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.59,
+        6.88,
+        3.36,
+        10.31,
+        5.15
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-16",
+      "type": "bezier",
+      "x": 294.69,
+      "y": 192.41,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.79,
+        6.88,
+        3.73,
+        10.31,
+        5.59
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-17",
+      "type": "bezier",
+      "x": 305,
+      "y": 198,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.86,
+        6.88,
+        3.8,
+        10.31,
+        5.59
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-18",
+      "type": "bezier",
+      "x": 315.31,
+      "y": 203.59,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.79,
+        6.88,
+        3.56,
+        10.31,
+        5.15
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-19",
+      "type": "bezier",
+      "x": 325.63,
+      "y": 208.74,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.59,
+        6.88,
+        3.07,
+        10.31,
+        4.39
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-20",
+      "type": "bezier",
+      "x": 335.94,
+      "y": 213.13,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.32,
+        6.88,
+        2.48,
+        10.31,
+        3.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-21",
+      "type": "bezier",
+      "x": 346.25,
+      "y": 216.64,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.03,
+        6.88,
+        1.89,
+        10.31,
+        2.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-22",
+      "type": "bezier",
+      "x": 356.56,
+      "y": 219.3,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.77,
+        6.88,
+        1.38,
+        10.31,
+        1.93
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-23",
+      "type": "bezier",
+      "x": 366.88,
+      "y": 221.23,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.55,
+        6.88,
+        0.98,
+        10.31,
+        1.37
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-24",
+      "type": "bezier",
+      "x": 377.19,
+      "y": 222.6,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.39,
+        6.88,
+        0.68,
+        10.31,
+        0.95
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-25",
+      "type": "bezier",
+      "x": 387.5,
+      "y": 223.54,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.27,
+        6.88,
+        0.47,
+        10.31,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-26",
+      "type": "bezier",
+      "x": 397.81,
+      "y": 224.19,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.18,
+        6.88,
+        0.31,
+        10.31,
+        0.44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-27",
+      "type": "bezier",
+      "x": 408.13,
+      "y": 224.63,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.12,
+        6.88,
+        0.21,
+        10.31,
+        0.29
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-28",
+      "type": "bezier",
+      "x": 418.44,
+      "y": 224.92,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.08,
+        6.88,
+        0.14,
+        10.31,
+        0.2
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-29",
+      "type": "bezier",
+      "x": 428.75,
+      "y": 225.11,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.05,
+        6.88,
+        0.09,
+        10.31,
+        0.13
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-30",
+      "type": "bezier",
+      "x": 439.06,
+      "y": 225.24,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.04,
+        6.88,
+        0.06,
+        10.31,
+        0.09
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-31",
+      "type": "bezier",
+      "x": 449.38,
+      "y": 225.33,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.04,
+        10.31,
+        0.06
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-32",
+      "type": "bezier",
+      "x": 459.69,
+      "y": 225.39,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        8.59,
+        0.03,
+        10.31,
+        0.04
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-33",
+      "type": "bezier",
+      "x": 140,
+      "y": 275.07,
+      "points": [
+        0,
+        0,
+        1.72,
+        0.01,
+        6.88,
+        0.02,
+        10.31,
+        0.04
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-34",
+      "type": "bezier",
+      "x": 150.31,
+      "y": 275.11,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.03,
+        10.31,
+        0.06
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-35",
+      "type": "bezier",
+      "x": 160.63,
+      "y": 275.17,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.05,
+        10.31,
+        0.09
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-36",
+      "type": "bezier",
+      "x": 170.94,
+      "y": 275.26,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.04,
+        6.88,
+        0.08,
+        10.31,
+        0.13
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-37",
+      "type": "bezier",
+      "x": 181.25,
+      "y": 275.39,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.05,
+        6.88,
+        0.11,
+        10.31,
+        0.2
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-38",
+      "type": "bezier",
+      "x": 191.56,
+      "y": 275.58,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.08,
+        6.88,
+        0.17,
+        10.31,
+        0.29
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-39",
+      "type": "bezier",
+      "x": 201.88,
+      "y": 275.87,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.12,
+        6.88,
+        0.26,
+        10.31,
+        0.44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-40",
+      "type": "bezier",
+      "x": 212.19,
+      "y": 276.31,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.18,
+        6.88,
+        0.38,
+        10.31,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-41",
+      "type": "bezier",
+      "x": 222.5,
+      "y": 276.96,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.27,
+        6.88,
+        0.56,
+        10.31,
+        0.95
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-42",
+      "type": "bezier",
+      "x": 232.81,
+      "y": 277.9,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.39,
+        6.88,
+        0.82,
+        10.31,
+        1.37
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-43",
+      "type": "bezier",
+      "x": 243.13,
+      "y": 279.27,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.55,
+        6.88,
+        1.17,
+        10.31,
+        1.93
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-44",
+      "type": "bezier",
+      "x": 253.44,
+      "y": 281.2,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.77,
+        6.88,
+        1.63,
+        10.31,
+        2.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-45",
+      "type": "bezier",
+      "x": 263.75,
+      "y": 283.86,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.03,
+        6.88,
+        2.19,
+        10.31,
+        3.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-46",
+      "type": "bezier",
+      "x": 274.06,
+      "y": 287.37,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.32,
+        6.88,
+        2.8,
+        10.31,
+        4.39
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-47",
+      "type": "bezier",
+      "x": 284.38,
+      "y": 291.76,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.59,
+        6.88,
+        3.36,
+        10.31,
+        5.15
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-48",
+      "type": "bezier",
+      "x": 294.69,
+      "y": 296.91,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.79,
+        6.88,
+        3.73,
+        10.31,
+        5.59
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-49",
+      "type": "bezier",
+      "x": 305,
+      "y": 302.5,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.86,
+        6.88,
+        3.8,
+        10.31,
+        5.59
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-50",
+      "type": "bezier",
+      "x": 315.31,
+      "y": 308.09,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.79,
+        6.88,
+        3.56,
+        10.31,
+        5.15
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-51",
+      "type": "bezier",
+      "x": 325.63,
+      "y": 313.24,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.59,
+        6.88,
+        3.07,
+        10.31,
+        4.39
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-52",
+      "type": "bezier",
+      "x": 335.94,
+      "y": 317.63,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.32,
+        6.88,
+        2.48,
+        10.31,
+        3.51
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-53",
+      "type": "bezier",
+      "x": 346.25,
+      "y": 321.14,
+      "points": [
+        0,
+        0,
+        3.44,
+        1.03,
+        6.88,
+        1.89,
+        10.31,
+        2.66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-54",
+      "type": "bezier",
+      "x": 356.56,
+      "y": 323.8,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.77,
+        6.88,
+        1.38,
+        10.31,
+        1.93
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-55",
+      "type": "bezier",
+      "x": 366.88,
+      "y": 325.73,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.55,
+        6.88,
+        0.98,
+        10.31,
+        1.37
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-56",
+      "type": "bezier",
+      "x": 377.19,
+      "y": 327.1,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.39,
+        6.88,
+        0.68,
+        10.31,
+        0.95
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-57",
+      "type": "bezier",
+      "x": 387.5,
+      "y": 328.04,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.27,
+        6.88,
+        0.47,
+        10.31,
+        0.65
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-58",
+      "type": "bezier",
+      "x": 397.81,
+      "y": 328.69,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.18,
+        6.88,
+        0.31,
+        10.31,
+        0.44
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-59",
+      "type": "bezier",
+      "x": 408.13,
+      "y": 329.13,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.12,
+        6.88,
+        0.21,
+        10.31,
+        0.29
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-60",
+      "type": "bezier",
+      "x": 418.44,
+      "y": 329.42,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.08,
+        6.88,
+        0.14,
+        10.31,
+        0.2
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-61",
+      "type": "bezier",
+      "x": 428.75,
+      "y": 329.61,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.05,
+        6.88,
+        0.09,
+        10.31,
+        0.13
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-62",
+      "type": "bezier",
+      "x": 439.06,
+      "y": 329.74,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.04,
+        6.88,
+        0.06,
+        10.31,
+        0.09
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-63",
+      "type": "bezier",
+      "x": 449.38,
+      "y": 329.83,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        6.88,
+        0.04,
+        10.31,
+        0.06
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-64",
+      "type": "bezier",
+      "x": 459.69,
+      "y": 329.89,
+      "points": [
+        0,
+        0,
+        3.44,
+        0.02,
+        8.59,
+        0.03,
+        10.31,
+        0.04
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-65",
+      "type": "text",
+      "x": 434.25,
+      "y": 217.25,
+      "text": "зона проводимости",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-66",
+      "type": "text",
+      "x": 431.5,
+      "y": 322.3,
+      "text": "валентная зона",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-67",
+      "type": "text",
+      "x": 173,
+      "y": 151.25,
+      "text": "p-область",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-68",
+      "type": "text",
+      "x": 437,
+      "y": 151.25,
+      "text": "n-область",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-69",
+      "type": "line",
+      "x": 162,
+      "y": 170.5,
+      "points": [
+        0,
+        0,
+        253,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-70",
+      "type": "arrow",
+      "x": 415,
+      "y": 197.45,
+      "points": [
+        0,
+        0,
+        0,
+        -24.75
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-71",
+      "type": "arrow",
+      "x": 415,
+      "y": 197.45,
+      "points": [
+        0,
+        0,
+        0,
+        24.75
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-72",
+      "type": "text",
+      "x": 448,
+      "y": 195.25,
+      "text": "$eφ₀$",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-73",
+      "type": "circle",
+      "x": 376.5,
+      "y": 213.4,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-74",
+      "type": "circle",
+      "x": 398.5,
+      "y": 213.4,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-75",
+      "type": "circle",
+      "x": 420.5,
+      "y": 213.4,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-76",
+      "type": "circle",
+      "x": 167.5,
+      "y": 284.9,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-77",
+      "type": "circle",
+      "x": 189.5,
+      "y": 284.9,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-78",
+      "type": "circle",
+      "x": 211.5,
+      "y": 284.9,
+      "radius": 4,
+      "strokeWidth": 1.3,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-79",
+      "type": "text",
+      "x": 393,
+      "y": 242,
+      "text": "электронам в гору ←",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-80",
+      "type": "text",
+      "x": 217,
+      "y": 308,
+      "text": "→ дыркам в гору",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

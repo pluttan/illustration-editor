@@ -1,0 +1,335 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 80,
+      "y": 295,
+      "width": 130,
+      "height": 25,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "rect",
+      "x": 80,
+      "y": 282.5,
+      "width": 130,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 80,
+      "y": 272.5,
+      "width": 130,
+      "height": 10,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg",
+      "science": "red"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 145,
+      "y": 242.5,
+      "text": "1. окисел + лак",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "rect",
+      "x": 250,
+      "y": 295,
+      "width": 130,
+      "height": 25,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "rect",
+      "x": 250,
+      "y": 282.5,
+      "width": 130,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "rect",
+      "x": 250,
+      "y": 272.5,
+      "width": 130,
+      "height": 10,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg",
+      "science": "red"
+    },
+    {
+      "id": "el-8",
+      "type": "rect",
+      "x": 290,
+      "y": 241.5,
+      "width": 50,
+      "height": 6,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "fg",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 265,
+      "y": 227.5,
+      "points": [
+        0,
+        0,
+        0,
+        40
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 280,
+      "y": 227.5,
+      "points": [
+        0,
+        0,
+        0,
+        40
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 352.5,
+      "y": 227.5,
+      "points": [
+        0,
+        0,
+        0,
+        40
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 367.5,
+      "y": 227.5,
+      "points": [
+        0,
+        0,
+        0,
+        40
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "math"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 315,
+      "y": 212.5,
+      "text": "2. УФ сквозь шаблон",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "rect",
+      "x": 420,
+      "y": 295,
+      "width": 130,
+      "height": 25,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "rect",
+      "x": 420,
+      "y": 282.5,
+      "width": 40,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "rect",
+      "x": 510,
+      "y": 282.5,
+      "width": 40,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 485,
+      "y": 242.5,
+      "text": "3. окно протравлено",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-18",
+      "type": "rect",
+      "x": 590,
+      "y": 295,
+      "width": 130,
+      "height": 25,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-19",
+      "type": "rect",
+      "x": 590,
+      "y": 282.5,
+      "width": 40,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-20",
+      "type": "rect",
+      "x": 680,
+      "y": 282.5,
+      "width": 40,
+      "height": 12.5,
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-21",
+      "type": "rect",
+      "x": 630,
+      "y": 295,
+      "width": 50,
+      "height": 16,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-22",
+      "type": "arrow",
+      "x": 640,
+      "y": 255,
+      "points": [
+        0,
+        0,
+        0,
+        34
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-23",
+      "type": "arrow",
+      "x": 655,
+      "y": 255,
+      "points": [
+        0,
+        0,
+        0,
+        34
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-24",
+      "type": "arrow",
+      "x": 670,
+      "y": 255,
+      "points": [
+        0,
+        0,
+        0,
+        34
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-25",
+      "type": "text",
+      "x": 655,
+      "y": 240,
+      "text": "4. бор в окно: p-остров",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

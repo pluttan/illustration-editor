@@ -1,0 +1,178 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 150,
+      "y": 297.5,
+      "points": [
+        0,
+        0,
+        0,
+        82.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 150,
+      "y": 380,
+      "points": [
+        0,
+        0,
+        165,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 315,
+      "y": 380,
+      "points": [
+        0,
+        0,
+        0,
+        -82.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "rect",
+      "x": 153.3,
+      "y": 319.5,
+      "width": 158.4,
+      "height": 57.2,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 232.5,
+      "y": 352.5,
+      "text": "расплав, 1415 °C",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "rect",
+      "x": 210.5,
+      "y": 198.5,
+      "width": 44,
+      "height": 101.75,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 293,
+      "y": 248,
+      "text": "буля растёт",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "rect",
+      "x": 227,
+      "y": 171,
+      "width": 11,
+      "height": 27.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "muted",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 284.75,
+      "y": 184.75,
+      "text": "затравка",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 232.5,
+      "y": 168.25,
+      "points": [
+        0,
+        0,
+        0,
+        -38.5
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "fg",
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 258.34,
+      "y": 161.16,
+      "points": [
+        0,
+        0,
+        17.91,
+        -49.21,
+        -69.59,
+        -49.21,
+        -51.68,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 201.87,
+      "y": 148,
+      "points": [
+        0,
+        0,
+        4.79,
+        13.16
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 320.5,
+      "y": 143.5,
+      "text": "тянем и вращаем",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

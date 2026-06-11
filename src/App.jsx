@@ -133,10 +133,11 @@ function elementsToSVG(elements, theme, science) {
   // 1 editor px ≈ 1pt в книге → иллюстрации сохраняют естественный размер
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${bb.w}pt" height="${bb.h}pt" viewBox="${bb.x} ${bb.y} ${bb.w} ${bb.h}">`
   for (const el of elements) {
-    // Per-element science override lets one figure mix accent hues
+    // Per-element science override lets one figure mix accent hues.
+    // fillHex/strokeHex are raw theme-independent colors (physical light colors etc.)
     const sci = el.science || science
-    const fill = resolveRole(el.fillRole, theme, sci)
-    const stroke = resolveRole(el.strokeRole, theme, sci)
+    const fill = el.fillHex ? hexToRgba(el.fillHex, 1) : resolveRole(el.fillRole, theme, sci)
+    const stroke = el.strokeHex ? hexToRgba(el.strokeHex, 1) : resolveRole(el.strokeRole, theme, sci)
     const sw = el.strokeWidth ?? 1
     const dashAttr = el.dash ? ' stroke-dasharray="5 4"' : ''
     const sAttr = stroke ? `stroke="${stroke}" stroke-width="${sw}"${dashAttr}` : ''
@@ -791,12 +792,14 @@ function App() {
     updateElement(id, updates)
   }
 
-  // ── Разрешение цвета по роли (el.science — точечное переопределение) ──
+  // ── Разрешение цвета по роли (el.science — переопределение, el.*Hex — сырой цвет) ──
   const resolveFill = (el) => {
+    if (el.fillHex) return hexToRgba(el.fillHex, 1)
     if (el.fillRole !== undefined) return resolveRole(el.fillRole, theme, el.science || science)
     return el.fill // старый формат
   }
   const resolveStroke = (el) => {
+    if (el.strokeHex) return hexToRgba(el.strokeHex, 1)
     if (el.strokeRole !== undefined) return resolveRole(el.strokeRole, theme, el.science || science)
     return el.stroke
   }

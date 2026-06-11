@@ -1,0 +1,214 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 187.5,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 226,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 264.5,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 303,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 341.5,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 380,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 418.5,
+      "y": 330,
+      "radius": 11,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "accent-20",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 468,
+      "y": 332.75,
+      "text": "атомы поверхности",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "line",
+      "x": 297.5,
+      "y": 192.5,
+      "points": [
+        0,
+        0,
+        33,
+        82.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-10",
+      "type": "line",
+      "x": 363.5,
+      "y": 192.5,
+      "points": [
+        0,
+        0,
+        -33,
+        82.5
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 297.5,
+      "y": 192.5,
+      "points": [
+        0,
+        0,
+        66,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 330.5,
+      "y": 282.7,
+      "radius": 8,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 407.5,
+      "y": 231,
+      "text": "игла, остриё — один атом",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-14",
+      "type": "arrow",
+      "x": 330.5,
+      "y": 293.7,
+      "points": [
+        0,
+        0,
+        0,
+        22
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 234.25,
+      "y": 299.75,
+      "text": "туннельный ток",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-16",
+      "type": "arrow",
+      "x": 292,
+      "y": 178.75,
+      "points": [
+        0,
+        0,
+        77,
+        0
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 399.25,
+      "y": 177.1,
+      "text": "скан",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

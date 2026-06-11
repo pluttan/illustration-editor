@@ -1,0 +1,3511 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 110,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        187,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "bezier",
+      "x": 110,
+      "y": 321.03,
+      "points": [
+        0,
+        0,
+        0.49,
+        0.23,
+        1.95,
+        0.94,
+        2.92,
+        1.37
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-3",
+      "type": "bezier",
+      "x": 112.92,
+      "y": 322.4,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.43,
+        1.95,
+        0.91,
+        2.92,
+        1.2
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "bezier",
+      "x": 115.84,
+      "y": 323.61,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.3,
+        1.95,
+        0.56,
+        2.92,
+        0.59
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 118.77,
+      "y": 324.2,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.02,
+        1.95,
+        -0.09,
+        2.92,
+        -0.45
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 121.69,
+      "y": 323.74,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.36,
+        1.95,
+        -0.95,
+        2.92,
+        -1.73
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 124.61,
+      "y": 322.01,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.78,
+        1.95,
+        -1.84,
+        2.92,
+        -2.94
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 127.53,
+      "y": 319.07,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.1,
+        1.95,
+        -2.47,
+        2.92,
+        -3.68
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 130.45,
+      "y": 315.39,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.2,
+        1.95,
+        -2.57,
+        2.92,
+        -3.55
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "bezier",
+      "x": 133.38,
+      "y": 311.84,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.98,
+        1.95,
+        -1.94,
+        2.92,
+        -2.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "bezier",
+      "x": 136.3,
+      "y": 309.5,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.41,
+        1.95,
+        -0.55,
+        2.92,
+        -0.09
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 139.22,
+      "y": 309.4,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.45,
+        1.95,
+        1.4,
+        2.92,
+        2.82
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 142.14,
+      "y": 312.22,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.42,
+        1.95,
+        3.47,
+        2.92,
+        5.7
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 145.06,
+      "y": 317.92,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.24,
+        1.95,
+        5.08,
+        2.92,
+        7.71
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-15",
+      "type": "bezier",
+      "x": 147.98,
+      "y": 325.63,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.63,
+        1.95,
+        5.67,
+        2.92,
+        8.04
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-16",
+      "type": "bezier",
+      "x": 150.91,
+      "y": 333.68,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.38,
+        1.95,
+        4.8,
+        2.92,
+        6.23
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-17",
+      "type": "bezier",
+      "x": 153.83,
+      "y": 339.91,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.42,
+        1.95,
+        2.43,
+        2.92,
+        2.32
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-18",
+      "type": "bezier",
+      "x": 156.75,
+      "y": 342.23,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.11,
+        1.95,
+        -1.08,
+        2.92,
+        -3
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-19",
+      "type": "bezier",
+      "x": 159.67,
+      "y": 339.23,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.92,
+        1.95,
+        -4.97,
+        2.92,
+        -8.5
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-20",
+      "type": "bezier",
+      "x": 162.59,
+      "y": 330.73,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.53,
+        1.95,
+        -8.21,
+        2.92,
+        -12.69
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-21",
+      "type": "bezier",
+      "x": 165.52,
+      "y": 318.04,
+      "points": [
+        0,
+        0,
+        0.97,
+        -4.48,
+        1.95,
+        -9.8,
+        2.92,
+        -14.2
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-22",
+      "type": "bezier",
+      "x": 168.44,
+      "y": 303.84,
+      "points": [
+        0,
+        0,
+        0.97,
+        -4.4,
+        1.95,
+        -9.05,
+        2.92,
+        -12.22
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-23",
+      "type": "bezier",
+      "x": 171.36,
+      "y": 291.62,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.17,
+        1.95,
+        -5.84,
+        2.92,
+        -6.79
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-24",
+      "type": "bezier",
+      "x": 174.28,
+      "y": 284.83,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.96,
+        1.95,
+        -0.71,
+        2.92,
+        1.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-25",
+      "type": "bezier",
+      "x": 177.2,
+      "y": 285.88,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.75,
+        1.95,
+        5.18,
+        2.92,
+        9.48
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-26",
+      "type": "bezier",
+      "x": 180.13,
+      "y": 295.36,
+      "points": [
+        0,
+        0,
+        0.97,
+        4.3,
+        1.95,
+        10.34,
+        2.92,
+        16.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-27",
+      "type": "bezier",
+      "x": 183.05,
+      "y": 311.7,
+      "points": [
+        0,
+        0,
+        0.97,
+        6,
+        1.95,
+        13.34,
+        2.92,
+        19.68
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-28",
+      "type": "bezier",
+      "x": 185.97,
+      "y": 331.38,
+      "points": [
+        0,
+        0,
+        0.97,
+        6.34,
+        1.95,
+        13.23,
+        2.92,
+        18.35
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-29",
+      "type": "bezier",
+      "x": 188.89,
+      "y": 349.73,
+      "points": [
+        0,
+        0,
+        0.97,
+        5.12,
+        1.95,
+        9.8,
+        2.92,
+        12.38
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-30",
+      "type": "bezier",
+      "x": 191.81,
+      "y": 362.1,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.57,
+        1.95,
+        3.77,
+        2.92,
+        3.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-31",
+      "type": "bezier",
+      "x": 194.73,
+      "y": 365.15,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.72,
+        1.95,
+        -3.44,
+        2.92,
+        -7.39
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-32",
+      "type": "bezier",
+      "x": 197.66,
+      "y": 357.77,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.95,
+        1.95,
+        -10.02,
+        2.92,
+        -16.32
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-33",
+      "type": "bezier",
+      "x": 200.58,
+      "y": 341.45,
+      "points": [
+        0,
+        0,
+        0.97,
+        -6.29,
+        1.95,
+        -14.3,
+        2.92,
+        -21.45
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-34",
+      "type": "bezier",
+      "x": 203.5,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.97,
+        -7.15,
+        1.95,
+        -15.16,
+        2.92,
+        -21.45
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-35",
+      "type": "bezier",
+      "x": 206.42,
+      "y": 298.55,
+      "points": [
+        0,
+        0,
+        0.97,
+        -6.29,
+        1.95,
+        -12.37,
+        2.92,
+        -16.32
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-36",
+      "type": "bezier",
+      "x": 209.34,
+      "y": 282.23,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.95,
+        1.95,
+        -6.66,
+        2.92,
+        -7.39
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-37",
+      "type": "bezier",
+      "x": 212.27,
+      "y": 274.85,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.72,
+        1.95,
+        0.48,
+        2.92,
+        3.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-38",
+      "type": "bezier",
+      "x": 215.19,
+      "y": 277.9,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.57,
+        1.95,
+        7.26,
+        2.92,
+        12.38
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-39",
+      "type": "bezier",
+      "x": 218.11,
+      "y": 290.27,
+      "points": [
+        0,
+        0,
+        0.97,
+        5.12,
+        1.95,
+        12.01,
+        2.92,
+        18.35
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-40",
+      "type": "bezier",
+      "x": 221.03,
+      "y": 308.62,
+      "points": [
+        0,
+        0,
+        0.97,
+        6.34,
+        1.95,
+        13.68,
+        2.92,
+        19.68
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-41",
+      "type": "bezier",
+      "x": 223.95,
+      "y": 328.3,
+      "points": [
+        0,
+        0,
+        0.97,
+        6,
+        1.95,
+        12.04,
+        2.92,
+        16.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-42",
+      "type": "bezier",
+      "x": 226.88,
+      "y": 344.64,
+      "points": [
+        0,
+        0,
+        0.97,
+        4.3,
+        1.95,
+        7.73,
+        2.92,
+        9.48
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-43",
+      "type": "bezier",
+      "x": 229.8,
+      "y": 354.12,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.75,
+        1.95,
+        2,
+        2.92,
+        1.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-44",
+      "type": "bezier",
+      "x": 232.72,
+      "y": 355.17,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.96,
+        1.95,
+        -3.62,
+        2.92,
+        -6.79
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-45",
+      "type": "bezier",
+      "x": 235.64,
+      "y": 348.38,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.17,
+        1.95,
+        -7.81,
+        2.92,
+        -12.22
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-46",
+      "type": "bezier",
+      "x": 238.56,
+      "y": 336.16,
+      "points": [
+        0,
+        0,
+        0.97,
+        -4.4,
+        1.95,
+        -9.72,
+        2.92,
+        -14.2
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-47",
+      "type": "bezier",
+      "x": 241.48,
+      "y": 321.96,
+      "points": [
+        0,
+        0,
+        0.97,
+        -4.48,
+        1.95,
+        -9.16,
+        2.92,
+        -12.69
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-48",
+      "type": "bezier",
+      "x": 244.41,
+      "y": 309.27,
+      "points": [
+        0,
+        0,
+        0.97,
+        -3.53,
+        1.95,
+        -6.58,
+        2.92,
+        -8.5
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-49",
+      "type": "bezier",
+      "x": 247.33,
+      "y": 300.77,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.92,
+        1.95,
+        -2.88,
+        2.92,
+        -3
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-50",
+      "type": "bezier",
+      "x": 250.25,
+      "y": 297.77,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.11,
+        1.95,
+        0.9,
+        2.92,
+        2.32
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-51",
+      "type": "bezier",
+      "x": 253.17,
+      "y": 300.09,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.42,
+        1.95,
+        3.85,
+        2.92,
+        6.23
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-52",
+      "type": "bezier",
+      "x": 256.09,
+      "y": 306.32,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.38,
+        1.95,
+        5.42,
+        2.92,
+        8.04
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-53",
+      "type": "bezier",
+      "x": 259.02,
+      "y": 314.37,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.63,
+        1.95,
+        5.47,
+        2.92,
+        7.71
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-54",
+      "type": "bezier",
+      "x": 261.94,
+      "y": 322.08,
+      "points": [
+        0,
+        0,
+        0.97,
+        2.24,
+        1.95,
+        4.28,
+        2.92,
+        5.7
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-55",
+      "type": "bezier",
+      "x": 264.86,
+      "y": 327.78,
+      "points": [
+        0,
+        0,
+        0.97,
+        1.42,
+        1.95,
+        2.36,
+        2.92,
+        2.82
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-56",
+      "type": "bezier",
+      "x": 267.78,
+      "y": 330.6,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.45,
+        1.95,
+        0.31,
+        2.92,
+        -0.09
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-57",
+      "type": "bezier",
+      "x": 270.7,
+      "y": 330.5,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.41,
+        1.95,
+        -1.36,
+        2.92,
+        -2.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-58",
+      "type": "bezier",
+      "x": 273.63,
+      "y": 328.16,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.98,
+        1.95,
+        -2.35,
+        2.92,
+        -3.55
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-59",
+      "type": "bezier",
+      "x": 276.55,
+      "y": 324.61,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.2,
+        1.95,
+        -2.57,
+        2.92,
+        -3.68
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-60",
+      "type": "bezier",
+      "x": 279.47,
+      "y": 320.93,
+      "points": [
+        0,
+        0,
+        0.97,
+        -1.1,
+        1.95,
+        -2.16,
+        2.92,
+        -2.94
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-61",
+      "type": "bezier",
+      "x": 282.39,
+      "y": 317.99,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.78,
+        1.95,
+        -1.37,
+        2.92,
+        -1.73
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-62",
+      "type": "bezier",
+      "x": 285.31,
+      "y": 316.26,
+      "points": [
+        0,
+        0,
+        0.97,
+        -0.36,
+        1.95,
+        -0.47,
+        2.92,
+        -0.45
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-63",
+      "type": "bezier",
+      "x": 288.23,
+      "y": 315.8,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.02,
+        1.95,
+        0.29,
+        2.92,
+        0.59
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-64",
+      "type": "bezier",
+      "x": 291.16,
+      "y": 316.39,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.3,
+        1.95,
+        0.77,
+        2.92,
+        1.2
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-65",
+      "type": "bezier",
+      "x": 294.08,
+      "y": 317.6,
+      "points": [
+        0,
+        0,
+        0.97,
+        0.43,
+        2.43,
+        1.14,
+        2.92,
+        1.37
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-66",
+      "type": "bezier",
+      "x": 115.5,
+      "y": 316.39,
+      "points": [
+        0,
+        0,
+        1.22,
+        -0.3,
+        4.89,
+        -1.11,
+        7.33,
+        -1.83
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-67",
+      "type": "bezier",
+      "x": 122.83,
+      "y": 314.56,
+      "points": [
+        0,
+        0,
+        2.44,
+        -0.71,
+        4.89,
+        -1.52,
+        7.33,
+        -2.46
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-68",
+      "type": "bezier",
+      "x": 130.17,
+      "y": 312.1,
+      "points": [
+        0,
+        0,
+        2.44,
+        -0.94,
+        4.89,
+        -1.99,
+        7.33,
+        -3.18
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-69",
+      "type": "bezier",
+      "x": 137.5,
+      "y": 308.92,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.18,
+        4.89,
+        -2.49,
+        7.33,
+        -3.91
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-70",
+      "type": "bezier",
+      "x": 144.83,
+      "y": 305.02,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.41,
+        4.89,
+        -2.97,
+        7.33,
+        -4.58
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-71",
+      "type": "bezier",
+      "x": 152.17,
+      "y": 300.44,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.61,
+        4.89,
+        -3.35,
+        7.33,
+        -5.09
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-72",
+      "type": "bezier",
+      "x": 159.5,
+      "y": 295.35,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.74,
+        4.89,
+        -3.57,
+        7.33,
+        -5.32
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-73",
+      "type": "bezier",
+      "x": 166.83,
+      "y": 290.02,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.75,
+        4.89,
+        -3.56,
+        7.33,
+        -5.2
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-74",
+      "type": "bezier",
+      "x": 174.17,
+      "y": 284.82,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.64,
+        4.89,
+        -3.27,
+        7.33,
+        -4.66
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-75",
+      "type": "bezier",
+      "x": 181.5,
+      "y": 280.16,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.39,
+        4.89,
+        -2.69,
+        7.33,
+        -3.7
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-76",
+      "type": "bezier",
+      "x": 188.83,
+      "y": 276.46,
+      "points": [
+        0,
+        0,
+        2.44,
+        -1.01,
+        4.89,
+        -1.85,
+        7.33,
+        -2.39
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-77",
+      "type": "bezier",
+      "x": 196.17,
+      "y": 274.07,
+      "points": [
+        0,
+        0,
+        2.44,
+        -0.53,
+        4.89,
+        -0.82,
+        7.33,
+        -0.82
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-78",
+      "type": "bezier",
+      "x": 203.5,
+      "y": 273.25,
+      "points": [
+        0,
+        0,
+        2.44,
+        0,
+        4.89,
+        0.29,
+        7.33,
+        0.82
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-79",
+      "type": "bezier",
+      "x": 210.83,
+      "y": 274.07,
+      "points": [
+        0,
+        0,
+        2.44,
+        0.53,
+        4.89,
+        1.37,
+        7.33,
+        2.39
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-80",
+      "type": "bezier",
+      "x": 218.17,
+      "y": 276.46,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.01,
+        4.89,
+        2.31,
+        7.33,
+        3.7
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-81",
+      "type": "bezier",
+      "x": 225.5,
+      "y": 280.16,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.39,
+        4.89,
+        3.02,
+        7.33,
+        4.66
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-82",
+      "type": "bezier",
+      "x": 232.83,
+      "y": 284.82,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.64,
+        4.89,
+        3.45,
+        7.33,
+        5.2
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-83",
+      "type": "bezier",
+      "x": 240.17,
+      "y": 290.02,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.75,
+        4.89,
+        3.59,
+        7.33,
+        5.32
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-84",
+      "type": "bezier",
+      "x": 247.5,
+      "y": 295.35,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.74,
+        4.89,
+        3.48,
+        7.33,
+        5.09
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-85",
+      "type": "bezier",
+      "x": 254.83,
+      "y": 300.44,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.61,
+        4.89,
+        3.16,
+        7.33,
+        4.58
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-86",
+      "type": "bezier",
+      "x": 262.17,
+      "y": 305.02,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.41,
+        4.89,
+        2.73,
+        7.33,
+        3.91
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-87",
+      "type": "bezier",
+      "x": 269.5,
+      "y": 308.92,
+      "points": [
+        0,
+        0,
+        2.44,
+        1.18,
+        4.89,
+        2.24,
+        7.33,
+        3.18
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-88",
+      "type": "bezier",
+      "x": 276.83,
+      "y": 312.1,
+      "points": [
+        0,
+        0,
+        2.44,
+        0.94,
+        4.89,
+        1.75,
+        7.33,
+        2.46
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-89",
+      "type": "bezier",
+      "x": 284.17,
+      "y": 314.56,
+      "points": [
+        0,
+        0,
+        2.44,
+        0.71,
+        6.11,
+        1.52,
+        7.33,
+        1.83
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-90",
+      "type": "text",
+      "x": 203.5,
+      "y": 388.75,
+      "text": "широкий Δx — почти одна λ, узкий Δp",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-91",
+      "type": "line",
+      "x": 363,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        165,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-92",
+      "type": "bezier",
+      "x": 374,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.37,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-93",
+      "type": "bezier",
+      "x": 376.23,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-94",
+      "type": "bezier",
+      "x": 378.47,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-95",
+      "type": "bezier",
+      "x": 380.7,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-96",
+      "type": "bezier",
+      "x": 382.94,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-97",
+      "type": "bezier",
+      "x": 385.17,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-98",
+      "type": "bezier",
+      "x": 387.41,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-99",
+      "type": "bezier",
+      "x": 389.64,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-100",
+      "type": "bezier",
+      "x": 391.88,
+      "y": 320.01,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0.01,
+        2.23,
+        0.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-101",
+      "type": "bezier",
+      "x": 394.11,
+      "y": 320.02,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.01,
+        2.23,
+        0.02
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-102",
+      "type": "bezier",
+      "x": 396.34,
+      "y": 320.05,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.02,
+        2.23,
+        0.04
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-103",
+      "type": "bezier",
+      "x": 398.58,
+      "y": 320.08,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.03,
+        2.23,
+        0.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-104",
+      "type": "bezier",
+      "x": 400.81,
+      "y": 320.13,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.03,
+        2.23,
+        0.03
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-105",
+      "type": "bezier",
+      "x": 403.05,
+      "y": 320.17,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        -0.03
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-106",
+      "type": "bezier",
+      "x": 405.28,
+      "y": 320.13,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.04,
+        1.49,
+        -0.08,
+        2.23,
+        -0.19
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-107",
+      "type": "bezier",
+      "x": 407.52,
+      "y": 319.95,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.11,
+        1.49,
+        -0.24,
+        2.23,
+        -0.46
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-108",
+      "type": "bezier",
+      "x": 409.75,
+      "y": 319.49,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.22,
+        1.49,
+        -0.49,
+        2.23,
+        -0.84
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-109",
+      "type": "bezier",
+      "x": 411.98,
+      "y": 318.65,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.35,
+        1.49,
+        -0.79,
+        2.23,
+        -1.27
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-110",
+      "type": "bezier",
+      "x": 414.22,
+      "y": 317.38,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.47,
+        1.49,
+        -1.06,
+        2.23,
+        -1.57
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-111",
+      "type": "bezier",
+      "x": 416.45,
+      "y": 315.82,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.51,
+        1.49,
+        -1.12,
+        2.23,
+        -1.49
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-112",
+      "type": "bezier",
+      "x": 418.69,
+      "y": 314.33,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.37,
+        1.49,
+        -0.76,
+        2.23,
+        -0.74
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-113",
+      "type": "bezier",
+      "x": 420.92,
+      "y": 313.59,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.03,
+        1.49,
+        0.18,
+        2.23,
+        0.89
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-114",
+      "type": "bezier",
+      "x": 423.16,
+      "y": 314.48,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.7,
+        1.49,
+        1.74,
+        2.23,
+        3.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-115",
+      "type": "bezier",
+      "x": 425.39,
+      "y": 317.82,
+      "points": [
+        0,
+        0,
+        0.74,
+        1.59,
+        1.49,
+        3.72,
+        2.23,
+        6.21
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-116",
+      "type": "bezier",
+      "x": 427.63,
+      "y": 324.03,
+      "points": [
+        0,
+        0,
+        0.74,
+        2.49,
+        1.49,
+        5.63,
+        2.23,
+        8.74
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-117",
+      "type": "bezier",
+      "x": 429.86,
+      "y": 332.77,
+      "points": [
+        0,
+        0,
+        0.74,
+        3.11,
+        1.49,
+        6.79,
+        2.23,
+        9.94
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-118",
+      "type": "bezier",
+      "x": 432.09,
+      "y": 342.71,
+      "points": [
+        0,
+        0,
+        0.74,
+        3.14,
+        1.49,
+        6.55,
+        2.23,
+        8.93
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-119",
+      "type": "bezier",
+      "x": 434.33,
+      "y": 351.64,
+      "points": [
+        0,
+        0,
+        0.74,
+        2.38,
+        1.49,
+        4.52,
+        2.23,
+        5.35
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-120",
+      "type": "bezier",
+      "x": 436.56,
+      "y": 356.98,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.82,
+        1.49,
+        0.85,
+        2.23,
+        -0.4
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-121",
+      "type": "bezier",
+      "x": 438.8,
+      "y": 356.58,
+      "points": [
+        0,
+        0,
+        0.74,
+        -1.25,
+        1.49,
+        -3.74,
+        2.23,
+        -7.09
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-122",
+      "type": "bezier",
+      "x": 441.03,
+      "y": 349.49,
+      "points": [
+        0,
+        0,
+        0.74,
+        -3.35,
+        1.49,
+        -8.09,
+        2.23,
+        -13.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-123",
+      "type": "bezier",
+      "x": 443.27,
+      "y": 336.48,
+      "points": [
+        0,
+        0,
+        0.74,
+        -4.91,
+        1.49,
+        -10.99,
+        2.23,
+        -16.48
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-124",
+      "type": "bezier",
+      "x": 445.5,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        -5.49,
+        1.49,
+        -11.56,
+        2.23,
+        -16.48
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-125",
+      "type": "bezier",
+      "x": 447.73,
+      "y": 303.52,
+      "points": [
+        0,
+        0,
+        0.74,
+        -4.91,
+        1.49,
+        -9.66,
+        2.23,
+        -13.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-126",
+      "type": "bezier",
+      "x": 449.97,
+      "y": 290.51,
+      "points": [
+        0,
+        0,
+        0.74,
+        -3.35,
+        1.49,
+        -5.85,
+        2.23,
+        -7.09
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-127",
+      "type": "bezier",
+      "x": 452.2,
+      "y": 283.42,
+      "points": [
+        0,
+        0,
+        0.74,
+        -1.25,
+        1.49,
+        -1.23,
+        2.23,
+        -0.4
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-128",
+      "type": "bezier",
+      "x": 454.44,
+      "y": 283.02,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.82,
+        1.49,
+        2.97,
+        2.23,
+        5.35
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-129",
+      "type": "bezier",
+      "x": 456.67,
+      "y": 288.36,
+      "points": [
+        0,
+        0,
+        0.74,
+        2.38,
+        1.49,
+        5.79,
+        2.23,
+        8.93
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-130",
+      "type": "bezier",
+      "x": 458.91,
+      "y": 297.29,
+      "points": [
+        0,
+        0,
+        0.74,
+        3.14,
+        1.49,
+        6.83,
+        2.23,
+        9.94
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-131",
+      "type": "bezier",
+      "x": 461.14,
+      "y": 307.23,
+      "points": [
+        0,
+        0,
+        0.74,
+        3.11,
+        1.49,
+        6.25,
+        2.23,
+        8.74
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-132",
+      "type": "bezier",
+      "x": 463.38,
+      "y": 315.97,
+      "points": [
+        0,
+        0,
+        0.74,
+        2.49,
+        1.49,
+        4.62,
+        2.23,
+        6.21
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-133",
+      "type": "bezier",
+      "x": 465.61,
+      "y": 322.18,
+      "points": [
+        0,
+        0,
+        0.74,
+        1.59,
+        1.49,
+        2.63,
+        2.23,
+        3.34
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-134",
+      "type": "bezier",
+      "x": 467.84,
+      "y": 325.52,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.7,
+        1.49,
+        0.86,
+        2.23,
+        0.89
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-135",
+      "type": "bezier",
+      "x": 470.08,
+      "y": 326.41,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.03,
+        1.49,
+        -0.36,
+        2.23,
+        -0.74
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-136",
+      "type": "bezier",
+      "x": 472.31,
+      "y": 325.67,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.37,
+        1.49,
+        -0.98,
+        2.23,
+        -1.49
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-137",
+      "type": "bezier",
+      "x": 474.55,
+      "y": 324.18,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.51,
+        1.49,
+        -1.1,
+        2.23,
+        -1.57
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-138",
+      "type": "bezier",
+      "x": 476.78,
+      "y": 322.62,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.47,
+        1.49,
+        -0.92,
+        2.23,
+        -1.27
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-139",
+      "type": "bezier",
+      "x": 479.02,
+      "y": 321.35,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.35,
+        1.49,
+        -0.62,
+        2.23,
+        -0.84
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-140",
+      "type": "bezier",
+      "x": 481.25,
+      "y": 320.51,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.22,
+        1.49,
+        -0.35,
+        2.23,
+        -0.46
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-141",
+      "type": "bezier",
+      "x": 483.48,
+      "y": 320.05,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.11,
+        1.49,
+        -0.15,
+        2.23,
+        -0.19
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-142",
+      "type": "bezier",
+      "x": 485.72,
+      "y": 319.87,
+      "points": [
+        0,
+        0,
+        0.74,
+        -0.04,
+        1.49,
+        -0.03,
+        2.23,
+        -0.03
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-143",
+      "type": "bezier",
+      "x": 487.95,
+      "y": 319.83,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0.02,
+        2.23,
+        0.03
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-144",
+      "type": "bezier",
+      "x": 490.19,
+      "y": 319.87,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.03,
+        2.23,
+        0.05
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-145",
+      "type": "bezier",
+      "x": 492.42,
+      "y": 319.92,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.03,
+        2.23,
+        0.04
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-146",
+      "type": "bezier",
+      "x": 494.66,
+      "y": 319.95,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.02,
+        2.23,
+        0.02
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-147",
+      "type": "bezier",
+      "x": 496.89,
+      "y": 319.98,
+      "points": [
+        0,
+        0,
+        0.74,
+        0.01,
+        1.49,
+        0.01,
+        2.23,
+        0.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-148",
+      "type": "bezier",
+      "x": 499.13,
+      "y": 319.99,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0.01
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-149",
+      "type": "bezier",
+      "x": 501.36,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-150",
+      "type": "bezier",
+      "x": 503.59,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-151",
+      "type": "bezier",
+      "x": 505.83,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-152",
+      "type": "bezier",
+      "x": 508.06,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-153",
+      "type": "bezier",
+      "x": 510.3,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-154",
+      "type": "bezier",
+      "x": 512.53,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.49,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-155",
+      "type": "bezier",
+      "x": 514.77,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0.74,
+        0,
+        1.86,
+        0,
+        2.23,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-156",
+      "type": "bezier",
+      "x": 390.5,
+      "y": 319.99,
+      "points": [
+        0,
+        0,
+        0.76,
+        0,
+        3.06,
+        -0.01,
+        4.58,
+        -0.02
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-157",
+      "type": "bezier",
+      "x": 395.08,
+      "y": 319.97,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.02,
+        3.06,
+        -0.03,
+        4.58,
+        -0.08
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-158",
+      "type": "bezier",
+      "x": 399.67,
+      "y": 319.88,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.05,
+        3.06,
+        -0.1,
+        4.58,
+        -0.25
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-159",
+      "type": "bezier",
+      "x": 404.25,
+      "y": 319.64,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.15,
+        3.06,
+        -0.29,
+        4.58,
+        -0.64
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-160",
+      "type": "bezier",
+      "x": 408.83,
+      "y": 319,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.35,
+        3.06,
+        -0.73,
+        4.58,
+        -1.46
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-161",
+      "type": "bezier",
+      "x": 413.42,
+      "y": 317.54,
+      "points": [
+        0,
+        0,
+        1.53,
+        -0.73,
+        3.06,
+        -1.59,
+        4.58,
+        -2.91
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-162",
+      "type": "bezier",
+      "x": 418,
+      "y": 314.62,
+      "points": [
+        0,
+        0,
+        1.53,
+        -1.32,
+        3.06,
+        -2.95,
+        4.58,
+        -5.04
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-163",
+      "type": "bezier",
+      "x": 422.58,
+      "y": 309.59,
+      "points": [
+        0,
+        0,
+        1.53,
+        -2.08,
+        3.06,
+        -4.66,
+        4.58,
+        -7.47
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-164",
+      "type": "bezier",
+      "x": 427.17,
+      "y": 302.12,
+      "points": [
+        0,
+        0,
+        1.53,
+        -2.8,
+        3.06,
+        -6.2,
+        4.58,
+        -9.35
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-165",
+      "type": "bezier",
+      "x": 431.75,
+      "y": 292.77,
+      "points": [
+        0,
+        0,
+        1.53,
+        -3.15,
+        3.06,
+        -6.74,
+        4.58,
+        -9.54
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-166",
+      "type": "bezier",
+      "x": 436.33,
+      "y": 283.24,
+      "points": [
+        0,
+        0,
+        1.53,
+        -2.8,
+        3.06,
+        -5.6,
+        4.58,
+        -7.26
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-167",
+      "type": "bezier",
+      "x": 440.92,
+      "y": 275.98,
+      "points": [
+        0,
+        0,
+        1.53,
+        -1.66,
+        3.06,
+        -2.73,
+        4.58,
+        -2.73
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-168",
+      "type": "bezier",
+      "x": 445.5,
+      "y": 273.25,
+      "points": [
+        0,
+        0,
+        1.53,
+        0,
+        3.06,
+        1.06,
+        4.58,
+        2.73
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-169",
+      "type": "bezier",
+      "x": 450.08,
+      "y": 275.98,
+      "points": [
+        0,
+        0,
+        1.53,
+        1.66,
+        3.06,
+        4.46,
+        4.58,
+        7.26
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-170",
+      "type": "bezier",
+      "x": 454.67,
+      "y": 283.24,
+      "points": [
+        0,
+        0,
+        1.53,
+        2.8,
+        3.06,
+        6.39,
+        4.58,
+        9.54
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-171",
+      "type": "bezier",
+      "x": 459.25,
+      "y": 292.77,
+      "points": [
+        0,
+        0,
+        1.53,
+        3.15,
+        3.06,
+        6.54,
+        4.58,
+        9.35
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-172",
+      "type": "bezier",
+      "x": 463.83,
+      "y": 302.12,
+      "points": [
+        0,
+        0,
+        1.53,
+        2.8,
+        3.06,
+        5.38,
+        4.58,
+        7.47
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-173",
+      "type": "bezier",
+      "x": 468.42,
+      "y": 309.59,
+      "points": [
+        0,
+        0,
+        1.53,
+        2.08,
+        3.06,
+        3.71,
+        4.58,
+        5.04
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-174",
+      "type": "bezier",
+      "x": 473,
+      "y": 314.62,
+      "points": [
+        0,
+        0,
+        1.53,
+        1.32,
+        3.06,
+        2.19,
+        4.58,
+        2.91
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-175",
+      "type": "bezier",
+      "x": 477.58,
+      "y": 317.54,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.73,
+        3.06,
+        1.11,
+        4.58,
+        1.46
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-176",
+      "type": "bezier",
+      "x": 482.17,
+      "y": 319,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.35,
+        3.06,
+        0.49,
+        4.58,
+        0.64
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-177",
+      "type": "bezier",
+      "x": 486.75,
+      "y": 319.64,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.15,
+        3.06,
+        0.19,
+        4.58,
+        0.25
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-178",
+      "type": "bezier",
+      "x": 491.33,
+      "y": 319.88,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.05,
+        3.06,
+        0.06,
+        4.58,
+        0.08
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-179",
+      "type": "bezier",
+      "x": 495.92,
+      "y": 319.97,
+      "points": [
+        0,
+        0,
+        1.53,
+        0.02,
+        3.82,
+        0.02,
+        4.58,
+        0.02
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-180",
+      "type": "text",
+      "x": 445.5,
+      "y": 388.75,
+      "text": "узкий Δx — широкий набор λ и Δp",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "circle",
+      "x": 140,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 184,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 228,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 272,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 272,
+      "y": 295.25,
+      "text": "дырка",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 316,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 360,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 404,
+      "y": 320,
+      "radius": 9,
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 317.26,
+      "y": 297.79,
+      "points": [
+        0,
+        0,
+        -7.9,
+        -21.71,
+        -38.61,
+        -21.71,
+        -46.51,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 275.53,
+      "y": 284.63,
+      "points": [
+        0,
+        0,
+        -4.79,
+        13.16
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 294,
+      "y": 266.1,
+      "text": "электрон прыгает влево",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-12",
+      "type": "arrow",
+      "x": 272,
+      "y": 347.5,
+      "points": [
+        0,
+        0,
+        44,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-13",
+      "type": "text",
+      "x": 294,
+      "y": 366.75,
+      "text": "дырка движется вправо",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    }
+  ]
+}

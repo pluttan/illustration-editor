@@ -1,0 +1,257 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 150,
+      "y": 176,
+      "width": 66,
+      "height": 33,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 183,
+      "y": 162.25,
+      "text": "пушка",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "arrow",
+      "x": 218.75,
+      "y": 209,
+      "points": [
+        0,
+        0,
+        112.75,
+        66
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 232.5,
+      "y": 261.25,
+      "text": "пучок электронов",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-5",
+      "type": "circle",
+      "x": 293,
+      "y": 286,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 293,
+      "y": 308,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 293,
+      "y": 330,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 326,
+      "y": 286,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 326,
+      "y": 308,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 326,
+      "y": 330,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-11",
+      "type": "circle",
+      "x": 359,
+      "y": 286,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 359,
+      "y": 308,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-13",
+      "type": "circle",
+      "x": 359,
+      "y": 330,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-14",
+      "type": "circle",
+      "x": 392,
+      "y": 286,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-15",
+      "type": "circle",
+      "x": 392,
+      "y": 308,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-16",
+      "type": "circle",
+      "x": 392,
+      "y": 330,
+      "radius": 3,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "text",
+      "x": 342.5,
+      "y": 352,
+      "text": "кристалл никеля",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-18",
+      "type": "arrow",
+      "x": 342.5,
+      "y": 277.75,
+      "points": [
+        0,
+        0,
+        82.5,
+        -74.25
+      ],
+      "strokeWidth": 2.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-19",
+      "type": "arrow",
+      "x": 342.5,
+      "y": 277.75,
+      "points": [
+        0,
+        0,
+        115.5,
+        -27.5
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-20",
+      "type": "arrow",
+      "x": 342.5,
+      "y": 277.75,
+      "points": [
+        0,
+        0,
+        123.75,
+        16.5
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-21",
+      "type": "text",
+      "x": 447,
+      "y": 187,
+      "text": "максимумы под точными углами",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    }
+  ]
+}

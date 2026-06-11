@@ -1,0 +1,356 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 150,
+      "y": 336.5,
+      "points": [
+        0,
+        0,
+        0,
+        -159.5
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 392,
+      "y": 336.5,
+      "points": [
+        0,
+        0,
+        0,
+        -159.5
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 271,
+      "y": 163.25,
+      "text": "обеднённый слой: поле разгоняет",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 166.5,
+      "y": 254,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 172,
+      "y": 254,
+      "points": [
+        0,
+        0,
+        52.25,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "circle",
+      "x": 229.75,
+      "y": 254,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 235.25,
+      "y": 250.15,
+      "points": [
+        0,
+        0,
+        52.25,
+        -34.65
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 293,
+      "y": 215.5,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-9",
+      "type": "arrow",
+      "x": 235.25,
+      "y": 254,
+      "points": [
+        0,
+        0,
+        52.25,
+        0
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-10",
+      "type": "circle",
+      "x": 293,
+      "y": 254,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "physics"
+    },
+    {
+      "id": "el-11",
+      "type": "arrow",
+      "x": 235.25,
+      "y": 257.85,
+      "points": [
+        0,
+        0,
+        52.25,
+        34.65
+      ],
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 293,
+      "y": 292.5,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-13",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 215.5,
+      "points": [
+        0,
+        0,
+        49.5,
+        -16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-14",
+      "type": "circle",
+      "x": 353.5,
+      "y": 199,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-15",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 215.5,
+      "points": [
+        0,
+        0,
+        49.5,
+        16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-16",
+      "type": "circle",
+      "x": 353.5,
+      "y": 232,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-17",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 254,
+      "points": [
+        0,
+        0,
+        49.5,
+        -16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-18",
+      "type": "circle",
+      "x": 353.5,
+      "y": 237.5,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-19",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 254,
+      "points": [
+        0,
+        0,
+        49.5,
+        16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-20",
+      "type": "circle",
+      "x": 353.5,
+      "y": 270.5,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-21",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 292.5,
+      "points": [
+        0,
+        0,
+        49.5,
+        -16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-22",
+      "type": "circle",
+      "x": 353.5,
+      "y": 276,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-23",
+      "type": "arrow",
+      "x": 298.5,
+      "y": 292.5,
+      "points": [
+        0,
+        0,
+        49.5,
+        16.5
+      ],
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-24",
+      "type": "circle",
+      "x": 353.5,
+      "y": 309,
+      "radius": 3,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "electronics"
+    },
+    {
+      "id": "el-25",
+      "type": "text",
+      "x": 271,
+      "y": 354.1,
+      "text": "каждый удар — новая пара: 1 → 3 → 9 → …",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

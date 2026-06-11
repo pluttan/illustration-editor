@@ -1,0 +1,596 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 225,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "circle",
+      "x": 249,
+      "y": 316.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-3",
+      "type": "circle",
+      "x": 256,
+      "y": 323.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-4",
+      "type": "circle",
+      "x": 280,
+      "y": 320,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "text",
+      "x": 280,
+      "y": 320,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-6",
+      "type": "line",
+      "x": 225,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        -55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-7",
+      "type": "circle",
+      "x": 194,
+      "y": 316.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-8",
+      "type": "circle",
+      "x": 201,
+      "y": 323.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-9",
+      "type": "circle",
+      "x": 170,
+      "y": 320,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 170,
+      "y": 320,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 225,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -55
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "circle",
+      "x": 221.5,
+      "y": 289,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-13",
+      "type": "circle",
+      "x": 228.5,
+      "y": 296,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-14",
+      "type": "circle",
+      "x": 225,
+      "y": 265,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 225,
+      "y": 265,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-16",
+      "type": "line",
+      "x": 225,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        55
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-17",
+      "type": "circle",
+      "x": 221.5,
+      "y": 344,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-18",
+      "type": "circle",
+      "x": 228.5,
+      "y": 351,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-19",
+      "type": "circle",
+      "x": 225,
+      "y": 375,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-20",
+      "type": "text",
+      "x": 225,
+      "y": 375,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-21",
+      "type": "circle",
+      "x": 225,
+      "y": 320,
+      "radius": 11,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg",
+      "science": "physics"
+    },
+    {
+      "id": "el-22",
+      "type": "text",
+      "x": 225,
+      "y": 320,
+      "text": "P",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-23",
+      "type": "circle",
+      "x": 252.5,
+      "y": 292.5,
+      "radius": 3.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "red"
+    },
+    {
+      "id": "el-24",
+      "type": "text",
+      "x": 297.5,
+      "y": 277.5,
+      "text": "5-й электрон",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-25",
+      "type": "text",
+      "x": 225,
+      "y": 405,
+      "text": "донор: все связи целы + лишний электрон",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-26",
+      "type": "line",
+      "x": 500,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-27",
+      "type": "circle",
+      "x": 524,
+      "y": 316.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-28",
+      "type": "circle",
+      "x": 531,
+      "y": 323.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-29",
+      "type": "circle",
+      "x": 555,
+      "y": 320,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-30",
+      "type": "text",
+      "x": 555,
+      "y": 320,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-31",
+      "type": "line",
+      "x": 500,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        -55,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-32",
+      "type": "circle",
+      "x": 469,
+      "y": 316.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-33",
+      "type": "circle",
+      "x": 476,
+      "y": 323.5,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-34",
+      "type": "circle",
+      "x": 445,
+      "y": 320,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-35",
+      "type": "text",
+      "x": 445,
+      "y": 320,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-36",
+      "type": "line",
+      "x": 500,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        -55
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-37",
+      "type": "circle",
+      "x": 496.5,
+      "y": 289,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-38",
+      "type": "circle",
+      "x": 503.5,
+      "y": 296,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-39",
+      "type": "circle",
+      "x": 500,
+      "y": 265,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-40",
+      "type": "text",
+      "x": 500,
+      "y": 265,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-41",
+      "type": "line",
+      "x": 500,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        0,
+        55
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-42",
+      "type": "circle",
+      "x": 496.5,
+      "y": 344,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-43",
+      "type": "circle",
+      "x": 503.5,
+      "y": 351,
+      "radius": 2.5,
+      "strokeWidth": 0,
+      "draggable": true,
+      "fillRole": "accent",
+      "strokeRole": "none",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-44",
+      "type": "circle",
+      "x": 500,
+      "y": 375,
+      "radius": 10,
+      "strokeWidth": 1,
+      "draggable": true,
+      "fillRole": "bg",
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-45",
+      "type": "text",
+      "x": 500,
+      "y": 375,
+      "text": "Si",
+      "fontSize": 8,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-46",
+      "type": "circle",
+      "x": 500,
+      "y": 320,
+      "radius": 11,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "fg",
+      "science": "electronics"
+    },
+    {
+      "id": "el-47",
+      "type": "text",
+      "x": 500,
+      "y": 320,
+      "text": "B",
+      "fontSize": 9,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-48",
+      "type": "circle",
+      "x": 527.5,
+      "y": 347.5,
+      "radius": 4.5,
+      "strokeWidth": 1.5,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-49",
+      "type": "text",
+      "x": 580,
+      "y": 364,
+      "text": "пустое место",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-50",
+      "type": "text",
+      "x": 500,
+      "y": 405,
+      "text": "акцептор: одна связь недоукомплектована",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    }
+  ]
+}

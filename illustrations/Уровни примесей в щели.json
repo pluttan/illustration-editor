@@ -1,0 +1,150 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 140,
+      "y": 280.5,
+      "width": 253,
+      "height": 49.5,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 266.5,
+      "y": 305.25,
+      "text": "валентная зона",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 140,
+      "y": 143,
+      "width": 253,
+      "height": 49.5,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 266.5,
+      "y": 167.75,
+      "text": "зона проводимости",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "line",
+      "x": 162,
+      "y": 202.4,
+      "points": [
+        0,
+        0,
+        88,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "chemistry"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 206,
+      "y": 216.7,
+      "text": "донорный уровень, 0.045 эВ до зоны",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-7",
+      "type": "arrow",
+      "x": 178.5,
+      "y": 200.2,
+      "points": [
+        0,
+        0,
+        0,
+        -13.2
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-8",
+      "type": "line",
+      "x": 283,
+      "y": 270.6,
+      "points": [
+        0,
+        0,
+        88,
+        0
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "dash": true,
+      "science": "red"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 327,
+      "y": 256.3,
+      "text": "акцепторный уровень, 0.045 эВ от зоны",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-10",
+      "type": "arrow",
+      "x": 354.5,
+      "y": 282.7,
+      "points": [
+        0,
+        0,
+        0,
+        -9.9
+      ],
+      "strokeWidth": 1.4,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "text",
+      "x": 266.5,
+      "y": 126.5,
+      "text": "kT = 0.026 эВ добрасывает почти всех",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "line",
+      "x": 180,
+      "y": 350,
+      "points": [
+        0,
+        0,
+        0,
+        -176
+      ],
+      "strokeWidth": 3,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-2",
+      "type": "line",
+      "x": 400,
+      "y": 350,
+      "points": [
+        0,
+        0,
+        0,
+        -176
+      ],
+      "strokeWidth": 3,
+      "draggable": true,
+      "strokeRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "line",
+      "x": 180,
+      "y": 350,
+      "points": [
+        0,
+        0,
+        220,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-4",
+      "type": "line",
+      "x": 180,
+      "y": 325.25,
+      "points": [
+        0,
+        0,
+        220,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 180,
+      "y": 325.25,
+      "points": [
+        0,
+        0,
+        79.2,
+        -25.6,
+        140.8,
+        -25.6,
+        220,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-6",
+      "type": "text",
+      "x": 446.75,
+      "y": 325.25,
+      "text": "$n = 1,  E₁$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "physics"
+    },
+    {
+      "id": "el-7",
+      "type": "line",
+      "x": 180,
+      "y": 267.5,
+      "points": [
+        0,
+        0,
+        220,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 180,
+      "y": 267.5,
+      "points": [
+        0,
+        0,
+        39.6,
+        -25.6,
+        70.4,
+        -25.6,
+        110,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 290,
+      "y": 267.5,
+      "points": [
+        0,
+        0,
+        39.6,
+        25.6,
+        70.4,
+        25.6,
+        110,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 446.75,
+      "y": 267.5,
+      "text": "$n = 2,  4E₁$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "chemistry"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 180,
+      "y": 201.5,
+      "points": [
+        0,
+        0,
+        220,
+        0
+      ],
+      "strokeWidth": 0.8,
+      "draggable": true,
+      "strokeRole": "muted",
+      "dash": true
+    },
+    {
+      "id": "el-12",
+      "type": "bezier",
+      "x": 180,
+      "y": 201.5,
+      "points": [
+        0,
+        0,
+        26.4,
+        -25.6,
+        46.93,
+        -25.6,
+        73.33,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-13",
+      "type": "bezier",
+      "x": 253.33,
+      "y": 201.5,
+      "points": [
+        0,
+        0,
+        26.4,
+        25.6,
+        46.93,
+        25.6,
+        73.33,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-14",
+      "type": "bezier",
+      "x": 326.67,
+      "y": 201.5,
+      "points": [
+        0,
+        0,
+        26.4,
+        -25.6,
+        46.93,
+        -25.6,
+        73.33,
+        0
+      ],
+      "strokeWidth": 2,
+      "draggable": true,
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-15",
+      "type": "text",
+      "x": 446.75,
+      "y": 201.5,
+      "text": "$n = 3,  9E₁$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    }
+  ]
+}

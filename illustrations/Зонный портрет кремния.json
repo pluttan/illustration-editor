@@ -1,0 +1,115 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "rect",
+      "x": 130,
+      "y": 269.5,
+      "width": 242,
+      "height": 60.5,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "accent-40",
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-2",
+      "type": "text",
+      "x": 251,
+      "y": 299.75,
+      "text": "валентная зона — полна: все связи целы",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-3",
+      "type": "rect",
+      "x": 130,
+      "y": 154,
+      "width": 242,
+      "height": 60.5,
+      "strokeWidth": 1.2,
+      "draggable": true,
+      "fillRole": "none",
+      "strokeRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 251,
+      "y": 184.25,
+      "text": "зона проводимости — пуста",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "arrow",
+      "x": 251,
+      "y": 240.9,
+      "points": [
+        0,
+        0,
+        0,
+        24.2
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-6",
+      "type": "arrow",
+      "x": 251,
+      "y": 240.9,
+      "points": [
+        0,
+        0,
+        0,
+        -23.1
+      ],
+      "strokeWidth": 1.7,
+      "draggable": true,
+      "strokeRole": "accent",
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-7",
+      "type": "text",
+      "x": 314.25,
+      "y": 242,
+      "text": "Eg = 1.12 эВ",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-8",
+      "type": "text",
+      "x": 479.25,
+      "y": 299.75,
+      "text": "электрон здесь = сидит в связи",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-9",
+      "type": "text",
+      "x": 484.75,
+      "y": 184.25,
+      "text": "электрон здесь = свободно гуляет",
+      "fontSize": 11,
+      "draggable": true,
+      "fillRole": "muted"
+    }
+  ]
+}

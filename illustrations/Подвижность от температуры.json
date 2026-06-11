@@ -1,0 +1,204 @@
+{
+  "science": "physics",
+  "elements": [
+    {
+      "id": "el-1",
+      "type": "arrow",
+      "x": 140,
+      "y": 320,
+      "points": [
+        0,
+        0,
+        308,
+        0
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-2",
+      "type": "arrow",
+      "x": 151,
+      "y": 328.25,
+      "points": [
+        0,
+        0,
+        0,
+        -162.25
+      ],
+      "strokeWidth": 1,
+      "draggable": true,
+      "strokeRole": "muted",
+      "fillRole": "muted"
+    },
+    {
+      "id": "el-3",
+      "type": "text",
+      "x": 459,
+      "y": 323.85,
+      "text": "$T$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-4",
+      "type": "text",
+      "x": 164.75,
+      "y": 163.25,
+      "text": "$μ$",
+      "fontSize": 12,
+      "draggable": true,
+      "fillRole": "fg"
+    },
+    {
+      "id": "el-5",
+      "type": "bezier",
+      "x": 167.5,
+      "y": 276,
+      "points": [
+        0,
+        0,
+        6.42,
+        -9.63,
+        24.75,
+        -44,
+        38.5,
+        -57.75
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-6",
+      "type": "bezier",
+      "x": 206,
+      "y": 218.25,
+      "points": [
+        0,
+        0,
+        13.75,
+        -13.75,
+        29.33,
+        -22,
+        44,
+        -24.75
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-7",
+      "type": "bezier",
+      "x": 250,
+      "y": 193.5,
+      "points": [
+        0,
+        0,
+        14.67,
+        -2.75,
+        27.5,
+        1.37,
+        44,
+        8.25
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-8",
+      "type": "bezier",
+      "x": 294,
+      "y": 201.75,
+      "points": [
+        0,
+        0,
+        16.5,
+        6.88,
+        35.75,
+        22.46,
+        55,
+        33
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-9",
+      "type": "bezier",
+      "x": 349,
+      "y": 234.75,
+      "points": [
+        0,
+        0,
+        19.25,
+        10.54,
+        50.42,
+        25.21,
+        60.5,
+        30.25
+      ],
+      "strokeWidth": 2.2,
+      "draggable": true,
+      "strokeRole": "accent"
+    },
+    {
+      "id": "el-10",
+      "type": "text",
+      "x": 197.75,
+      "y": 175.9,
+      "text": "холод: мешают ионы примеси",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "red"
+    },
+    {
+      "id": "el-11",
+      "type": "line",
+      "x": 203.25,
+      "y": 185.25,
+      "points": [
+        0,
+        0,
+        5.5,
+        27.5
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    },
+    {
+      "id": "el-12",
+      "type": "text",
+      "x": 379.25,
+      "y": 199,
+      "text": "жара: мешают колебания решётки",
+      "fontSize": 10,
+      "draggable": true,
+      "fillRole": "accent",
+      "science": "electronics"
+    },
+    {
+      "id": "el-13",
+      "type": "line",
+      "x": 368.25,
+      "y": 208.9,
+      "points": [
+        0,
+        0,
+        -11,
+        25.85
+      ],
+      "strokeWidth": 0.7,
+      "draggable": true,
+      "strokeRole": "muted"
+    }
+  ]
+}
