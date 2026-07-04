@@ -1,0 +1,16 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "ax-x", "type": "arrow", "x": 60, "y": 300, "points": [0, 0, 440, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "ax-y", "type": "arrow", "x": 80, "y": 320, "points": [0, 0, 0, -220], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "lb-x", "type": "text", "x": 512, "y": 300, "text": "$T$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "lb-y", "type": "text", "x": 80, "y": 88, "text": "$M$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "c-1", "type": "bezier", "x": 80, "y": 140, "points": [0, 0, 80, 6, 150, 16, 200, 32], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "c-2", "type": "bezier", "x": 280, "y": 172, "points": [0, 0, 30, 10, 58, 70, 78, 126], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "tc-l", "type": "line", "x": 358, "y": 300, "points": [0, 0, 0, -150], "strokeWidth": 1, "dash": true, "draggable": true, "strokeRole": "muted" },
+    { "id": "tc-t", "type": "text", "x": 358, "y": 314, "text": "$Tc$", "fontSize": 10, "draggable": true, "fillRole": "fg" },
+    { "id": "z-1", "type": "text", "x": 200, "y": 118, "text": "ферромагнетик: домены выстроены", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "z-2", "type": "text", "x": 435, "y": 260, "text": "тепло победило:", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "z-3", "type": "text", "x": 437, "y": 274, "text": "$M = 0$", "fontSize": 9, "draggable": true, "fillRole": "muted" }
+  ]
+}

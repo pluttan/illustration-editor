@@ -1,0 +1,23 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "el-1", "type": "arrow", "x": 60, "y": 300, "points": [0, 0, 440, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "el-2", "type": "arrow", "x": 80, "y": 320, "points": [0, 0, 0, -210], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "el-3", "type": "text", "x": 512, "y": 300, "text": "$t$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "el-4", "type": "text", "x": 80, "y": 98, "text": "$E$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "el-5", "type": "line", "x": 80, "y": 140, "points": [0, 0, 400, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "el-6", "type": "text", "x": 497, "y": 128, "text": "$E$", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "el-7", "type": "bezier", "x": 80, "y": 140, "points": [0, 0, 40, 0, 60, 140, 100, 140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-8", "type": "bezier", "x": 180, "y": 280, "points": [0, 0, 40, 0, 60, -140, 100, -140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-9", "type": "bezier", "x": 280, "y": 140, "points": [0, 0, 40, 0, 60, 140, 100, 140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-10", "type": "bezier", "x": 380, "y": 280, "points": [0, 0, 40, 0, 60, -140, 100, -140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-11", "type": "bezier", "x": 80, "y": 280, "points": [0, 0, 40, 0, 60, -140, 100, -140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "el-12", "type": "bezier", "x": 180, "y": 140, "points": [0, 0, 40, 0, 60, 140, 100, 140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "el-13", "type": "bezier", "x": 280, "y": 280, "points": [0, 0, 40, 0, 60, -140, 100, -140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "el-14", "type": "bezier", "x": 380, "y": 140, "points": [0, 0, 40, 0, 60, 140, 100, 140], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "el-15", "type": "text", "x": 280, "y": 124, "text": "конденсатор", "fontSize": 10, "draggable": true, "fillRole": "accent" },
+    { "id": "el-16", "type": "text", "x": 180, "y": 124, "text": "катушка", "fontSize": 10, "draggable": true, "fillRole": "accent-60" },
+    { "id": "el-17", "type": "text", "x": 192, "y": 316, "text": "конденсатор пуст, ток максимален", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "el-18", "type": "line", "x": 180, "y": 300, "points": [0, 0, 0, -20], "strokeWidth": 1, "dash": true, "draggable": true, "strokeRole": "muted" }
+  ]
+}

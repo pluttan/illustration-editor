@@ -1,0 +1,23 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "s-body", "type": "rect", "x": 80, "y": 90, "width": 120, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "s-eddy", "type": "circle", "x": 140, "y": 160, "radius": 40, "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "s-arr", "type": "arrow", "x": 132, "y": 120, "points": [0, 0, 18, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent", "fillRole": "accent" },
+    { "id": "s-eddy2", "type": "circle", "x": 140, "y": 160, "radius": 18, "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "l-p1", "type": "rect", "x": 340, "y": 90, "width": 18, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "l-p2", "type": "rect", "x": 362, "y": 90, "width": 18, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "l-p3", "type": "rect", "x": 384, "y": 90, "width": 18, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "l-p4", "type": "rect", "x": 406, "y": 90, "width": 18, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "l-p5", "type": "rect", "x": 428, "y": 90, "width": 18, "height": 140, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "l-e1", "type": "circle", "x": 349, "y": 160, "radius": 6, "strokeWidth": 1, "draggable": true, "strokeRole": "accent" },
+    { "id": "l-e2", "type": "circle", "x": 371, "y": 160, "radius": 6, "strokeWidth": 1, "draggable": true, "strokeRole": "accent" },
+    { "id": "l-e3", "type": "circle", "x": 393, "y": 160, "radius": 6, "strokeWidth": 1, "draggable": true, "strokeRole": "accent" },
+    { "id": "l-e4", "type": "circle", "x": 415, "y": 160, "radius": 6, "strokeWidth": 1, "draggable": true, "strokeRole": "accent" },
+    { "id": "l-e5", "type": "circle", "x": 437, "y": 160, "radius": 6, "strokeWidth": 1, "draggable": true, "strokeRole": "accent" },
+    { "id": "t-1", "type": "text", "x": 140, "y": 252, "text": "сплошной сердечник", "fontSize": 10, "draggable": true, "fillRole": "fg" },
+    { "id": "t-2", "type": "text", "x": 393, "y": 252, "text": "ламинированный", "fontSize": 10, "draggable": true, "fillRole": "fg" },
+    { "id": "st-1", "type": "text", "x": 140, "y": 268, "text": "вихрям просторно — сердечник греется", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "st-2", "type": "text", "x": 393, "y": 268, "text": "вихри заперты в тонких листах", "fontSize": 9, "draggable": true, "fillRole": "muted" }
+  ]
+}

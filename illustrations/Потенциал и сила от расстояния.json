@@ -1,0 +1,17 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "ax-x", "type": "arrow", "x": 70, "y": 300, "points": [0, 0, 440, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "ax-y", "type": "arrow", "x": 90, "y": 320, "points": [0, 0, 0, -230], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "lb-r", "type": "text", "x": 522, "y": 300, "text": "$r$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "phi-1", "type": "bezier", "x": 110, "y": 110, "points": [0, 0, 18, 80, 47, 120, 70, 133], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "phi-2", "type": "bezier", "x": 180, "y": 243, "points": [0, 0, 35, 20, 73, 25, 110, 30], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "phi-3", "type": "bezier", "x": 290, "y": 273, "points": [0, 0, 60, 8, 127, 11, 190, 13], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "f-1", "type": "bezier", "x": 110, "y": 110, "points": [0, 0, 8, 100, 45, 164, 70, 173], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "f-2", "type": "bezier", "x": 180, "y": 283, "points": [0, 0, 35, 6, 75, 11, 110, 13], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "f-3", "type": "bezier", "x": 290, "y": 296, "points": [0, 0, 60, 1, 130, 2, 190, 2], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "lb-phi", "type": "text", "x": 360, "y": 256, "text": "потенциал: спад 1/r", "fontSize": 9, "draggable": true, "fillRole": "accent" },
+    { "id": "lb-f", "type": "text", "x": 176, "y": 258, "text": "сила: спад 1/r²", "fontSize": 9, "draggable": true, "fillRole": "accent-40" },
+    { "id": "note", "type": "text", "x": 330, "y": 330, "text": "сила падает быстрее: на большом расстоянии потенциал ещё заметен, а сила уже нет", "fontSize": 9, "draggable": true, "fillRole": "muted" }
+  ]
+}

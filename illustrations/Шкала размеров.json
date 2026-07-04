@@ -1,0 +1,28 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "ax", "type": "arrow", "x": 40, "y": 160, "points": [0, 0, 700, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "d-1", "type": "circle", "x": 90, "y": 160, "radius": 5, "strokeWidth": 1, "draggable": true, "fillRole": "accent", "strokeRole": "accent" },
+    { "id": "d-2", "type": "circle", "x": 250, "y": 160, "radius": 5, "strokeWidth": 1, "draggable": true, "fillRole": "accent", "strokeRole": "accent" },
+    { "id": "d-3", "type": "circle", "x": 360, "y": 160, "radius": 5, "strokeWidth": 1, "draggable": true, "fillRole": "accent", "strokeRole": "accent" },
+    { "id": "d-4", "type": "circle", "x": 520, "y": 160, "radius": 5, "strokeWidth": 1, "draggable": true, "fillRole": "accent", "strokeRole": "accent" },
+    { "id": "d-5", "type": "circle", "x": 670, "y": 160, "radius": 5, "strokeWidth": 1, "draggable": true, "fillRole": "accent", "strokeRole": "accent" },
+    { "id": "l-1", "type": "line", "x": 90, "y": 155, "points": [0, 0, 0, -45], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "l-2", "type": "line", "x": 250, "y": 155, "points": [0, 0, 0, -75], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "l-3", "type": "line", "x": 360, "y": 155, "points": [0, 0, 0, -45], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "l-4", "type": "line", "x": 520, "y": 155, "points": [0, 0, 0, -75], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "l-5", "type": "line", "x": 670, "y": 155, "points": [0, 0, 0, -45], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "t-1", "type": "text", "x": 90, "y": 100, "text": "волос", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "t-2", "type": "text", "x": 250, "y": 70, "text": "молекула воды", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "t-3", "type": "text", "x": 360, "y": 100, "text": "атом", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "t-4", "type": "text", "x": 520, "y": 70, "text": "ядро атома", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "t-5", "type": "text", "x": 670, "y": 100, "text": "электрон", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "s-1", "type": "text", "x": 90, "y": 182, "text": "10⁻⁴ м", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-2", "type": "text", "x": 250, "y": 182, "text": "3·10⁻¹⁰ м", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-3", "type": "text", "x": 360, "y": 182, "text": "10⁻¹⁰ м", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-4", "type": "text", "x": 520, "y": 182, "text": "10⁻¹⁴ м", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-5", "type": "text", "x": 670, "y": 182, "text": "< 10⁻¹⁸ м", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "cap", "type": "text", "x": 620, "y": 208, "text": "вглубь вещества →", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "cap2", "type": "text", "x": 430, "y": 208, "text": "между атомом и ядром — четыре порядка пустоты", "fontSize": 9, "draggable": true, "fillRole": "muted" }
+  ]
+}

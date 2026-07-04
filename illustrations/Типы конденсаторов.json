@@ -1,0 +1,30 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "pl-l", "type": "line", "x": 65, "y": 160, "points": [0, 0, 30, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "pl-r", "type": "line", "x": 145, "y": 160, "points": [0, 0, 30, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "pl-d", "type": "rect", "x": 105, "y": 125, "width": 30, "height": 70, "draggable": true, "fillRole": "accent-20" },
+    { "id": "pl-1", "type": "rect", "x": 95, "y": 120, "width": 10, "height": 80, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "pl-2", "type": "rect", "x": 135, "y": 120, "width": 10, "height": 80, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "pl-t", "type": "text", "x": 120, "y": 110, "text": "диэлектрик", "fontSize": 8, "draggable": true, "fillRole": "muted" },
+    { "id": "el-c1", "type": "circle", "x": 290, "y": 160, "radius": 14, "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-c2", "type": "circle", "x": 290, "y": 160, "radius": 24, "strokeWidth": 2, "draggable": true, "strokeRole": "accent-60" },
+    { "id": "el-c3", "type": "circle", "x": 290, "y": 160, "radius": 34, "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-c4", "type": "circle", "x": 290, "y": 160, "radius": 44, "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "el-plus", "type": "text", "x": 250, "y": 108, "text": "+", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "el-min", "type": "text", "x": 330, "y": 108, "text": "−", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "ke-body", "type": "rect", "x": 408, "y": 130, "width": 104, "height": 60, "strokeWidth": 1, "draggable": true, "fillRole": "accent-20", "strokeRole": "muted" },
+    { "id": "ke-el", "type": "rect", "x": 400, "y": 126, "width": 10, "height": 68, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "ke-er", "type": "rect", "x": 510, "y": 126, "width": 10, "height": 68, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "ke-p1", "type": "rect", "x": 410, "y": 140, "width": 72, "height": 4, "draggable": true, "fillRole": "accent" },
+    { "id": "ke-p2", "type": "rect", "x": 438, "y": 152, "width": 72, "height": 4, "draggable": true, "fillRole": "accent" },
+    { "id": "ke-p3", "type": "rect", "x": 410, "y": 164, "width": 72, "height": 4, "draggable": true, "fillRole": "accent" },
+    { "id": "ke-p4", "type": "rect", "x": 438, "y": 176, "width": 72, "height": 4, "draggable": true, "fillRole": "accent" },
+    { "id": "t-1", "type": "text", "x": 120, "y": 232, "text": "плоский", "fontSize": 11, "draggable": true, "fillRole": "fg" },
+    { "id": "t-2", "type": "text", "x": 290, "y": 232, "text": "электролитический", "fontSize": 11, "draggable": true, "fillRole": "fg" },
+    { "id": "t-3", "type": "text", "x": 460, "y": 232, "text": "керамический", "fontSize": 11, "draggable": true, "fillRole": "fg" },
+    { "id": "s-1", "type": "text", "x": 120, "y": 249, "text": "две пластины и зазор", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-2", "type": "text", "x": 290, "y": 249, "text": "фольга в рулоне, оксид", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "s-3", "type": "text", "x": 460, "y": 249, "text": "стопка слоёв в керамике", "fontSize": 9, "draggable": true, "fillRole": "muted" }
+  ]
+}

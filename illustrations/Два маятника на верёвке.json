@@ -1,0 +1,33 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "r1", "type": "line", "x": 60, "y": 90, "points": [0, 0, 180, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "muted" },
+    { "id": "n1", "type": "line", "x": 120, "y": 90, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "n2", "type": "line", "x": 180, "y": 90, "points": [0, 0, 0, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "m1", "type": "circle", "x": 120, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "m2", "type": "circle", "x": 180, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "t1", "type": "text", "x": 150, "y": 218, "text": "два маятника, общая верёвка", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "r2", "type": "line", "x": 300, "y": 90, "points": [0, 0, 160, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "muted" },
+    { "id": "n3", "type": "line", "x": 350, "y": 90, "points": [0, 0, 20, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "n4", "type": "line", "x": 410, "y": 90, "points": [0, 0, 20, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "m3", "type": "circle", "x": 370, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "m4", "type": "circle", "x": 430, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "a3", "type": "arrow", "x": 384, "y": 192, "points": [0, 0, 24, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60" },
+    { "id": "a4", "type": "arrow", "x": 444, "y": 192, "points": [0, 0, 24, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60" },
+    { "id": "t2", "type": "text", "x": 395, "y": 218, "text": "в такт: ω₁", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "r3", "type": "line", "x": 520, "y": 90, "points": [0, 0, 160, 0], "strokeWidth": 2, "draggable": true, "strokeRole": "muted" },
+    { "id": "n5", "type": "line", "x": 570, "y": 90, "points": [0, 0, -20, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "n6", "type": "line", "x": 630, "y": 90, "points": [0, 0, 20, 80], "strokeWidth": 1, "draggable": true, "strokeRole": "fg" },
+    { "id": "m5", "type": "circle", "x": 550, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "m6", "type": "circle", "x": 650, "y": 178, "radius": 8, "strokeWidth": 1, "draggable": true, "fillRole": "accent-40", "strokeRole": "accent" },
+    { "id": "a5", "type": "arrow", "x": 536, "y": 192, "points": [0, 0, -24, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60" },
+    { "id": "a6", "type": "arrow", "x": 664, "y": 192, "points": [0, 0, 24, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "accent-60", "fillRole": "accent-60" },
+    { "id": "t3", "type": "text", "x": 600, "y": 218, "text": "навстречу: ω₂ > ω₁", "fontSize": 9, "draggable": true, "fillRole": "fg" },
+    { "id": "sp-ax", "type": "line", "x": 120, "y": 290, "points": [0, 0, 540, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "sp-1", "type": "line", "x": 190, "y": 290, "points": [0, 0, 0, -26], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "sp-t1", "type": "text", "x": 190, "y": 306, "text": "один маятник: ω₀", "fontSize": 8, "draggable": true, "fillRole": "muted" },
+    { "id": "sp-2", "type": "line", "x": 540, "y": 290, "points": [0, 0, 0, -26], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "sp-3", "type": "line", "x": 580, "y": 290, "points": [0, 0, 0, -26], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "sp-t2", "type": "text", "x": 560, "y": 306, "text": "пара: ω₁ и ω₂ — уровень расщепился", "fontSize": 8, "draggable": true, "fillRole": "muted" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "science": "physics",
+  "elements": [
+    { "id": "el-1", "type": "arrow", "x": 60, "y": 300, "points": [0, 0, 440, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "el-2", "type": "arrow", "x": 80, "y": 320, "points": [0, 0, 0, -220], "strokeWidth": 1, "draggable": true, "strokeRole": "muted", "fillRole": "muted" },
+    { "id": "el-3", "type": "text", "x": 512, "y": 300, "text": "$t$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "el-4", "type": "text", "x": 80, "y": 88, "text": "$I$", "fontSize": 12, "draggable": true, "fillRole": "fg" },
+    { "id": "el-5", "type": "line", "x": 80, "y": 120, "points": [0, 0, 400, 0], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "el-6", "type": "text", "x": 46, "y": 120, "text": "$U₀/R$", "fontSize": 10, "draggable": true, "fillRole": "fg" },
+    { "id": "el-7", "type": "bezier", "x": 80, "y": 300, "points": [0, 0, 67, -120, 133, -139, 200, -156], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-8", "type": "bezier", "x": 280, "y": 144, "points": [0, 0, 67, -16, 133, -20, 200, -21], "strokeWidth": 2, "draggable": true, "strokeRole": "accent" },
+    { "id": "el-9", "type": "bezier", "x": 80, "y": 120, "points": [0, 0, 67, 120, 133, 139, 200, 156], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "el-10", "type": "bezier", "x": 280, "y": 276, "points": [0, 0, 67, 16, 133, 20, 200, 21], "strokeWidth": 2, "draggable": true, "strokeRole": "accent-40" },
+    { "id": "el-11", "type": "line", "x": 180, "y": 300, "points": [0, 0, 0, -114], "strokeWidth": 1, "draggable": true, "strokeRole": "muted" },
+    { "id": "el-12", "type": "line", "x": 80, "y": 186, "points": [0, 0, 100, 0], "strokeWidth": 1, "dash": true, "draggable": true, "strokeRole": "muted" },
+    { "id": "el-13", "type": "text", "x": 180, "y": 313, "text": "$τ$", "fontSize": 10, "draggable": true, "fillRole": "fg" },
+    { "id": "el-14", "type": "text", "x": 56, "y": 172, "text": "63%", "fontSize": 9, "draggable": true, "fillRole": "muted" },
+    { "id": "el-15", "type": "text", "x": 390, "y": 102, "text": "включение", "fontSize": 10, "draggable": true, "fillRole": "accent" },
+    { "id": "el-16", "type": "text", "x": 390, "y": 258, "text": "выключение", "fontSize": 10, "draggable": true, "fillRole": "accent-40" }
+  ]
+}
