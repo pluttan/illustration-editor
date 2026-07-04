@@ -12,31 +12,43 @@
 
 </div>
 
-A canvas-based vector illustration editor built for the "From Charge to HTML" electronics course. Creates dual-theme SVG illustrations (light/dark) with a science-aware color palette matching the Typst book template. Exports to JSON for version control and batch-generates SVG files.
+A canvas-based vector illustration editor built for the "From Charge to HTML" course (`presentation-charge-to-html`). Illustrations are stored as JSON with semantic color roles rather than raw colors, so every figure renders in both light and dark mode and stays in sync with the Typst book's Catppuccin palette. The Vite dev server doubles as a small REST API that saves figures and auto-recompiles the book on each edit.
 
 ## ■ Features
 
-- ❖ **Canvas editor** — draw shapes, paths, arrows, and text with react-konva
-- ❖ **Dual theme** — every illustration renders in both light and dark mode
-- ❖ **Science palette** — color roles mapped to disciplines (math, physics, electronics, CS)
-- ❖ **JSON storage** — illustrations saved as JSON, batch-exported to SVG via `generate-svgs.mjs`
-- ❖ **Bezier support** — path editing with cubic bezier curves, migration via `fix-beziers.mjs`
-- ❖ **Typst integration** — color model synced with the book's `template.typ`
+- ❖ **Canvas editor** — circle, rect, line, arrow, cubic bezier, and text tools on a react-konva stage, with select/transform, grid, snap-to-grid, undo/redo, and copy/paste/duplicate shortcuts
+- ❖ **Dual theme** — figures use color roles (`fg`, `bg`, `muted`, `accent` + opacity steps) resolved per theme, with a live side-by-side light/dark preview
+- ❖ **Science palette** — accent hues mapped to disciplines (math, physics, chemistry, electronics, cs) plus `red` and `default`, with optional per-element overrides; colors synced with the book's `template.typ`
+- ❖ **JSON storage** — each illustration is a JSON file; saving also writes `.light.svg` / `.dark.svg`, and `generate-svgs.mjs` batch-regenerates both SVGs for every figure
+- ❖ **Live Typst build** — the dev-server API watches `.typ` files and recompiles `main.pdf` + `main-dark.pdf` (debounced) whenever a figure is saved
+- ❖ **Data scripts** — `migrate.mjs` upgrades legacy hex/opacity figures to color roles; `fix-beziers.mjs` replaces curve placeholders with real bezier elements
 
 ## ■ Stack
 
 | Component | Technology |
 |-----------|------------|
 | Editor | React 19, react-konva, Konva |
-| Build | Vite 8 |
-| Export | Node.js scripts (SVG generation) |
+| Dev server / API | Vite 8 + custom plugin, chokidar |
+| Export | Node.js ESM scripts (JSON → SVG) |
+| Book | Typst (compiled to light/dark PDF) |
 
 ## ■ Usage
 
 ```bash
 npm install
-npm run dev       # start editor
-node generate-svgs.mjs   # batch-export all SVGs
+npm run dev              # editor + save API + Typst auto-build
+node generate-svgs.mjs   # batch-regenerate all .light/.dark SVGs
+```
+
+## ■ Repository Structure
+
+```
+src/App.jsx        # the editor (canvas, tools, preview, save API client)
+vite.config.js     # dev-server REST API + Typst auto-compile + .typ watcher
+generate-svgs.mjs  # JSON → light/dark SVG batch export
+migrate.mjs        # legacy hex/opacity → color roles
+fix-beziers.mjs    # curve placeholders → bezier elements
+illustrations/     # *.json figures + generated *.light.svg / *.dark.svg
 ```
 
 ## ■ Screenshots
